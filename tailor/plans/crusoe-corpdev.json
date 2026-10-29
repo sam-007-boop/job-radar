@@ -1,0 +1,41 @@
+{
+  "company": "Crusoe",
+  "role": "Associate / Senior Associate, Corporate Development",
+  "variant": "project-finance-solar",
+  "job_url": "https://jobs.ashbyhq.com/Crusoe/5635688b-3bfa-4232-9c67-1a789e513dee",
+  "edits": [
+    {
+      "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+      "new": "Built financial models evaluating $10M in capital deployment scenarios, quantifying ROI to guide allocation decisions",
+      "why": "Posting stresses capital allocation discipline and scenario modeling; reframed around scenarios and decisions."
+    },
+    {
+      "old": "Prepared executive-level investment briefs integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning",
+      "new": "Prepared executive-level investment memos integrating financial analysis, sector trends, and performance data to support senior leadership on capital allocation and strategy",
+      "why": "Posting asks for investment memorandums and presentations to senior leadership; same work, their vocabulary."
+    },
+    {
+      "old": "Analyzed senior debt, sustainability-linked loan, and green loan + ABS structures to assess financing alternatives, tax incentive impacts, and downside sensitivities.",
+      "new": "Modeled senior debt, sustainability-linked loan, and green loan + ABS structures to compare financing alternatives, tax incentive impacts, and downside scenarios",
+      "why": "Posting wants structuring and modeling of different scenarios; energy is one of their named sectors."
+    },
+    {
+      "old": "Constructed LBO model for SJM, analyzed packaged food M&A using Capital IQ assessing multiples, activity, returns metrics",
+      "new": "Built LBO model for SJM and screened packaged-food M&A precedents in Capital IQ, assessing multiples, activity and returns",
+      "why": "Posting lists precedent transaction analysis and target screening; this bullet is your closest M&A proof."
+    },
+    {
+      "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+      "new": "Finance: Financial Modeling, Valuation Analysis, Due Diligence, Market Analysis, Project Finance, Renewable Energy Finance, Investment Research, Financial Analysis, Data Presentation, Understanding of Financial Products, Bloomberg, S&P Capital IQ",
+      "why": "Same skills, reordered so modeling, valuation, diligence and energy finance come first."
+    }
+  ],
+  "cover_letter": {
+    "greeting": "Dear Crusoe Corporate Development Team,",
+    "paragraphs": [
+      "I am applying for the Associate, Corporate Development role at Crusoe. I am completing an MBA in Finance (STEM) at Fordham Gabelli after roles in capital allocation at JPMorgan Asset Management and Lenovo, and the economics of AI infrastructure are where I want to build my career. Crusoe's view that power is the bottleneck for AI compute, and its decision to own the stack from energy to cloud, is the thesis I find most compelling in the market.",
+      "My most relevant work is in energy finance and valuation. For Nautilus Solar, I built project- and portfolio-level models for a 6-project, 35.4 MW Illinois portfolio, compared senior debt, sustainability-linked loan and green loan + ABS structures, and recommended a phased green loan + ABS strategy that reduced sponsor equity by $11.1M and improved levered IRR from 8.58% to 9.79%. I have also built a DCF, an LBO and trading comps for J.M. Smucker and screened packaged-food M&A precedents in Capital IQ, the same toolkit your team applies to targets across digital infrastructure and energy.",
+      "At JPMorgan Asset Management I built models evaluating $10M in capital deployment scenarios and wrote executive-level investment memos for senior leadership, and at Lenovo I ran scenario and sensitivity analysis that improved capital efficiency by 15%. I would bring that discipline to Crusoe's market maps, screening memos and diligence work, and I would welcome the chance to discuss how I can contribute to the team."
+    ]
+  }
+}

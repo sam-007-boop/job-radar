@@ -41,6 +41,7 @@ BASE = {
     "finance-marketing": ROOT / "base/finance-marketing.docx",
 }
 FACTS = (ROOT / "facts.txt").read_text()
+BASE_PATH_FOR_LETTER: list = []
 
 # ---------------- claims gate ----------------
 NUM = re.compile(r"\$?\s?\d[\d,]*(?:\.\d+)?\s?(?:%|percent\b|million\b|billion\b|thousand\b|MW\b|[KMBkmbx]\b)?\+?", re.I)
@@ -169,8 +170,18 @@ def tracked_change(p, new, author="Claude (tailored)"):
 
 # ---------------- rendering ----------------
 def to_pdf(docx_path: Path, outdir: Path) -> Path:
-    subprocess.run(["soffice", "--headless", "--convert-to", "pdf", "--outdir", str(outdir), str(docx_path)],
-                   check=True, capture_output=True, timeout=180)
+    """Render to PDF. The bullet glyph font (Noto Sans Symbols) isn't installed here and its stand-in is taller,
+    so render from a temporary copy that swaps only that font; the .docx you send is untouched."""
+    with tempfile.TemporaryDirectory() as td:
+        tmp = Path(td) / docx_path.name
+        with zipfile.ZipFile(docx_path) as zi, zipfile.ZipFile(tmp, "w", zipfile.ZIP_DEFLATED) as zo:
+            for it in zi.infolist():
+                b = zi.read(it.filename)
+                if it.filename in ("word/numbering.xml", "word/document.xml", "word/styles.xml"):
+                    b = b.replace(b"Noto Sans Symbols", b"Liberation Sans")
+                zo.writestr(it, b)
+        subprocess.run(["soffice", "--headless", "--convert-to", "pdf", "--outdir", str(outdir), str(tmp)],
+                       check=True, capture_output=True, timeout=180)
     return outdir / (docx_path.stem + ".pdf")
 
 
@@ -195,18 +206,22 @@ def build_cover_letter(base_doc, plan, path: Path):
         else "Times New Roman"
     name = norm(base_doc.paragraphs[0].text)
     contact = norm(base_doc.paragraphs[1].text)
-    d = docx.Document()
+    # start from the resume itself so its embedded fonts (e.g. Garamond) carry into the letter
+    d = docx.Document(BASE_PATH_FOR_LETTER[0])
+    body = d.element.body
+    for el in list(body):
+        if el.tag != qn("w:sectPr"):
+            body.remove(el)
     s = d.sections[0]
     s.left_margin = s.right_margin = Inches(1); s.top_margin = s.bottom_margin = Inches(0.9)
-    st = d.styles["Normal"]; st.font.name = font; st.font.size = Pt(11)
-    st.element.rPr.rFonts.set(qn("w:eastAsia"), font)
-    st.paragraph_format.space_after = Pt(8)
 
     def para(text, bold=False, size=None, align=None, after=None):
-        p = d.add_paragraph(); r = p.add_run(text); r.bold = bold
-        if size: r.font.size = Pt(size)
+        p = d.add_paragraph(style=d.styles["Normal"]); r = p.add_run(text); r.bold = bold
+        r.font.name = font; r._r.get_or_add_rPr().rFonts.set(qn("w:eastAsia"), font)
+        r.font.size = Pt(size or 11)
+        p.paragraph_format.left_indent = Pt(0); p.paragraph_format.first_line_indent = Pt(0)
+        p.paragraph_format.space_after = Pt(8 if after is None else after)
         if align is not None: p.alignment = align
-        if after is not None: p.paragraph_format.space_after = Pt(after)
         return p
     para(name, bold=True, size=16, align=WD_ALIGN_PARAGRAPH.CENTER, after=0)
     para(contact, size=10, align=WD_ALIGN_PARAGRAPH.CENTER, after=18)
@@ -263,12 +278,13 @@ def main():
               f"(extent {new_ext:.0f} vs {base_ext:.0f}). Shorten the edited bullets.")
         sys.exit(3)
     pdf_note = "" if page_count(new_pdf) == 1 else (
-        "Note: the PDF here is from LibreOffice and spills to 2 pages because of font spacing; "
-        "the resume itself is no longer than your original. Use the Google Doc copy and File → Download → PDF.")
+        "Note: this PDF rendered at 2 pages here; check the Word file before sending.")
 
     # 4. cover letter
     cover = out / f"Sam_Dasgupta_Cover_Letter_{safe}.docx"
+    BASE_PATH_FOR_LETTER[:] = [base]
     build_cover_letter(docx.Document(base), plan, cover)
+    drop_comment_parts(cover)
     to_pdf(cover, out)
 
     # 5. change log
