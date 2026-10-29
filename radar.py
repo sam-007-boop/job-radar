@@ -35,13 +35,16 @@ EXCLUDE = re.compile(
     r"recruit|legal|counsel|paralegal|attorney|nurse|facilit|construction|electrician|mechanical|"
     r"security officer|guard|receptionist|executive assistant|administrative|\bhr\b|human resources|"
     r"vice president|\bvp\b|managing director|\bhead of|\bprincipal\b|\bpartner\b|chief|"
-    r"senior manager|\bdirector\b(?<!associate director)|scientist|research engineer|designer|marketing manager",
+    r"senior manager|\bdirector\b|scientist|designer|marketing|content|procurement|sourcing|security|cyber|"
+    r"network|hse\b|safety|product operations|business development|customer|support|"
+    r"\bavp\b|lead\b|clinical|warehouse|logistics|\bit\b",
     re.I)
 NON_US = re.compile(
     r"london|united kingdom|\buk\b|singapore|india|bangalore|bengaluru|mumbai|hyderabad|toronto|canada|"
     r"seoul|korea|tokyo|japan|sydney|melbourne|australia|hong kong|paris|france|frankfurt|germany|"
     r"dublin|ireland|amsterdam|netherlands|luxembourg|madrid|spain|milan|italy|stockholm|zurich|"
     r"switzerland|dubai|abu dhabi|riyadh|são paulo|sao paulo|brazil|mexico|bogota|colombia|"
+    r"gurugram|gurgaon|noida|pune|chennai|telangana|haryana|calgary|ontario|"
     r"warsaw|poland|tel aviv|israel|shanghai|beijing|china|manila|philippines|johannesburg|emea|apac",
     re.I)
 
@@ -62,10 +65,7 @@ def is_fresh_date(posted: datetime | None) -> bool:
 def title_ok(title: str) -> bool:
     if not INCLUDE.search(title):
         return False
-    t = title.lower()
-    if "associate director" in t:
-        return True
-    return not EXCLUDE.search(title)
+    return not EXCLUDE.search(title.replace("Associate Director", "AssocDir").replace("associate director", "AssocDir"))
 
 
 def location_ok(loc: str) -> bool:
@@ -153,13 +153,19 @@ def fetch_workday(spec):
         r = requests.post(api, json=body, headers={**UA, "Content-Type": "application/json"}, timeout=TIMEOUT)
         r.raise_for_status()
         js = r.json()
-        total = js.get("total", total) or 0
+        if total is None:
+            total = js.get("total") or 0
         posts = js.get("jobPostings", [])
         for p in posts:
             age = _workday_age(p.get("postedOn", ""))
             posted = (today_et() - timedelta(days=age)) if age is not None and age <= 1 else None
+            loc = p.get("locationsText", "")
+            if re.match(r"\d+ locations", loc or "", re.I):
+                # "3 Locations" hides the cities; the job path starts with the primary one
+                m = re.match(r"/job/([^/]+)/", p.get("externalPath", ""))
+                loc = (m.group(1).replace("-", " ") if m else loc)
             out.append({"id": f"wd:{tenant}:{p.get('externalPath', p.get('title'))}", "title": p.get("title", ""),
-                        "location": p.get("locationsText", ""), "posted": posted,
+                        "location": loc, "posted": posted,
                         "posted_label": p.get("postedOn", ""), "date_reliable": age is not None,
                         "url": f"{base}/{site}{p.get('externalPath', '')}"})
         offset += 20
