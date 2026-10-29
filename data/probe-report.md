@@ -1,11 +1,11 @@
-# Source check — 2026-10-29 17:19 ET
+# Source check — 2026-10-29 17:28 ET
 
 - OK  CoreWeave -> greenhouse:coreweave (310 open roles)
 - OK  Anthropic -> greenhouse:anthropic (674 open roles)
 - OK  Together AI -> greenhouse:togetherai (86 open roles)
 - OK  Crusoe -> ashby:Crusoe (344 open roles)
 - OK  Lambda -> ashby:Lambda (94 open roles)
-- OK  OpenAI -> ashby:openai (812 open roles)
+- OK  OpenAI -> ashby:openai (813 open roles)
 - OK  Vantage Data Centers -> workday:vantagedc|wd1|Vantage (177 open roles)
 - OK  Intersect Power -> lever:intersect (32 open roles)
 - OK  Blackstone -> workday:blackstone|wd1|Blackstone_Careers (134 open roles)
@@ -20,34 +20,28 @@
 - OK  Houlihan Lokey (campus) -> workday:hl|wd1|Campus (33 open roles)
 - OK  Guggenheim Securities -> workday:guggenheim|wd1|Guggenheim_Careers (38 open roles)
 - OK  Guggenheim (campus) -> workday:guggenheim|wd1|Guggenheim_Careers_Campus (6 open roles)
+- OK  Core Scientific -> workday:corescientific|wd108|corescientificcareers (32 open roles)
+- OK  STACK Infrastructure -> workday:stackinfra|wd108|STACK_AMER (50 open roles)
+- OK  Galaxy Digital (data centers) -> greenhouse:galaxydigitalservices (47 open roles)
+- OK  I Squared Capital -> greenhouse:handshakeisq (0 open roles)
+- OK  I Squared Capital (MBA) -> greenhouse:isqmba (0 open roles)
+- OK  PJT Partners -> workday:pjtpartners|wd1|Careers (55 open roles)
+- OK  PJT Partners (students) -> workday:pjtpartners|wd1|Students (13 open roles)
+- OK  Moelis -> workday:moelis|wd1|Experienced-Hires (36 open roles)
+- OK  Lazard (professional) -> oracle:icbpjb.fa.ocs.oraclecloud.com|LazardProfessionalCareers (130 open roles)
+- OK  Lazard (students) -> oracle:icbpjb.fa.ocs.oraclecloud.com|LazardStudentCareers (130 open roles)
+- OK  Jefferies -> oracle:hdid.fa.us2.oraclecloud.com|CX_1 (155 open roles)
+- OK  FactSet -> workday:factset|wd108|FactSetCareers (99 open roles)
 - OK  Ramp -> ashby:ramp (168 open roles)
-- --  Stonepeak: no source resolved
 - OK  DigitalBridge -> greenhouse:digitalbridge (5 open roles)
-- --  KKR: no source resolved
 - OK  Carlyle -> workday:carlyle|wd1|Carlyle (71 open roles)
-- --  Macquarie: no source resolved
-- --  I Squared Capital: no source resolved
-- --  Applied Digital: no source resolved
 - OK  Nebius -> greenhouse:nebius (370 open roles)
-- --  Core Scientific: no source resolved
-- --  IREN: no source resolved
-- --  Aligned Data Centers: no source resolved
-- --  Stack Infrastructure: no source resolved
-- --  Digital Realty: no source resolved
 - OK  Scale AI -> greenhouse:scaleai (169 open roles)
 - OK  xAI -> greenhouse:xai (304 open roles)
-- --  Evercore: no source resolved
-- --  Lazard: no source resolved
-- --  PJT Partners: no source resolved
-- --  Moelis: no source resolved
-- --  Jefferies: no source resolved
-- --  Marathon Capital: no source resolved
-- --  Moody's: no source resolved
-- --  MSCI: no source resolved
 - OK  S&P Global -> workday:spgi|wd5|SPGI_Careers (315 open roles)
-- --  FactSet: no source resolved
 - OK  Stripe -> greenhouse:stripe (732 open roles)
 - OK  Brex -> greenhouse:brex (264 open roles)
 - OK  Plaid -> ashby:plaid (129 open roles)
 - OK  Mercury -> greenhouse:mercury (78 open roles)
 - OK  Databricks -> greenhouse:databricks (906 open roles)
+- --  Moelis (campus): no source resolved
