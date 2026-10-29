@@ -1,0 +1,75 @@
+CoreWeave — Senior Finance Manager, Long-Term Demand Planning
+https://coreweave.com/careers/job?4722509006&board=coreweave&gh_jid=4722509006
+
+CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. Learn more at  www.coreweave.com . 
+
+ What You’ll Do: 
+ The Capacity Finance Team supports the planning, deployment, and operations of the CoreWeave’s fleet of data center hardware. Partnering directly with Capacity Planning, Fleet Engineering and Operations teams, Capacity Finance helps forecast CoreWeave’s finances and drive profitability by delivering data driven insights related future hardware deployments and fleet operations through a financial lens.  
+ About the role: 
+ CoreWeave is seeking a Finance Manager to join our Capacity Finance team. This person will support the Director of Capacity Finance to prepare, analyze, and report financial and operational information to increase financial transparency, drive performance, and promote proactive business planning. This person will work cross-functionally with a variety of stakeholders at all levels of Coreweave and have frequent opportunities to interact with and support key executive level decision makers such as the CFO and COO. 
+ In this role, you will: 
+
+ Support demand planning function within FP&A and drive continuous process development and refinement. 
+ Drive financial planning and forecasting analytics, including model and data structure optimization, automated margin bridging, and dashboarding capabilities. 
+ Own infrastructure reporting and forecasts, including complex multiregional capital expenditure models and unit economics analysis across a large fleet of computing assets. 
+ Coordinate with Engineering and Operations teams to track, report, and forecast infrastructure-related KPIs. 
+ Generate monthly, quarterly, and annual reports on financial results, budget variance analysis, scenario analysis, stress tests, and KPI results, communicating the analyses to key stakeholders such as executive leadership and department heads. 
+ Support Fixed Asset Accounting team on improvement of accounting and reporting processes. 
+
+ Who You Are:  
+
+ A bachelor’s degree in Finance, Accounting, Economics, or STEM field. Advanced degree (i.e. MBA, MS) preferred. 
+ At least 5-7+ years of experience in FP&A, strategic finance, corporate development, investment banking, private equity, or similar roles. 
+ Previous experience working in Cloud or Data Center Infrastructure. 
+ Advanced proficiency in Excel with a track record of building and maintaining complex models (power query, complex array formulas, etc.). 
+ Excellent financial modeling and analytical skills, with a demonstrated track record of executing complicated financial analyses. 
+ Excellent verbal and written communication skills, with a preference for candidates that have demonstrably interacted with management or executive-level stakeholders. 
+ Strong understanding of financial principles, including GAAP accounting. 
+ Experience with SQL, Netsuite, and any AI productivity tools (Claude Cowork/Code, GPT/Codex, etc.) preferred. 
+
+ Wondering if you’re a good fit? We believe in investing in our people, and value candidates who can bring their own diversified experiences to our teams – even if you aren't a 100% skill or experience match. Here are a few qualities we’ve found compatible with our team. If some of this describes you, we’d love to talk.  
+
+ You have a high level of self-sufficiency with proven success at self-teaching and a high intellectual motor. 
+ You have exceptional attention to detail, organizational skills, and ability to manage multiple competing priorities simultaneously. 
+
+ Why CoreWeave? 
+ At CoreWeave, we work hard, have fun, and move fast!  We’re in an exciting stage of hyper-growth that you will not want to miss out on. We’re not afraid of a little chaos, and we’re constantly learning. Our team cares deeply about how we build our product and how we work together, which is represented through our core values:  
+
+ Be Curious at Your Core 
+ Act Like an Owner 
+ Empower Employees 
+ Deliver Best-in-Class Client Experiences 
+ Achieve More Together 
+
+ We support and encourage an entrepreneurial outlook and independent thinking. We foster an environment that encourages collaboration and enables the development of innovative solutions to complex problems. As we get set for takeoff, the organization's growth opportunities are constantly expanding. You will be surrounded by some of the best talent in the industry, who will want to learn from you, too. Come join us!   
+ The base salary range for this role is $127,000 to $168,000. The starting salary will be determined by job-related knowledge, skills, experience, and the market location. We strive for both market alignment and internal equity when determining compensation. In addition to base salary, our total rewards package includes a discretionary bonus, equity awards, and a comprehensive benefits program (all based on eligibility). 
+
+   What We Offer 
+ The range we’ve posted represents the typical compensation range for this role. To determine actual compensation, we review the market rate for each candidate which can include a variety of factors. These include qualifications, experience, interview performance, and location. 
+ In addition to a competitive salary, we offer a variety of benefits to support your needs. The benefits below reflect our US-based offerings for full-time employees; for roles in other locations, benefits vary and are shared during the hiring process. These include: 
+
+ Medical, dental, and vision insurance - 100% paid for by CoreWeave 
+ Company-paid Life Insurance  
+ Voluntary supplemental life insurance  
+ Short and long-term disability insurance  
+ Flexible Spending Account 
+ Health Savings Account 
+ Tuition Reimbursement  
+ Ability to Participate in Employee Stock Purchase Program (ESPP) 
+ Mental Wellness Benefits through Spring Health  
+ Family-Forming support provided by Carrot 
+ Paid Parental Leave  
+ Flexible, full-service childcare support with Kinside 
+ 401(k) with a generous employer match 
+ Flexible PTO 
+ Catered lunch each day in our office and data center locations 
+ A casual work environment 
+ A work culture focused on innovative disruption 
+
+ California Applicants 
+ California Consumer Privacy Act  
+ Equal Opportunity & Accommodations 
+ CoreWeave is an equal opportunity employer, committed to fostering an inclusive and supportive workplace. All qualified applicants and candidates will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. 
+ As part of this commitment and consistent with the Americans with Disabilities Act (ADA) , CoreWeave will ensure that qualified applicants and candidates with disabilities are provided reasonable accommodations for the hiring process, unless such accommodation would cause an undue hardship. If reasonable accommodation is needed, please contact: careers@coreweave.com . 
+ Export Control Compliance 
+ This position requires access to export controlled information. To conform to U.S. Government export regulations applicable to that information, applicant must either be (A) a U.S. person, defined as a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (green card holder), (iii) refugee under 8 U.S.C. § 1157, or (iv) asylee under 8 U.S.C. § 1158, (B) eligible to access the export controlled information without a required export authorization, or (C) eligible and reasonably likely to obtain the required export authorization from the applicable U.S. government agency.  CoreWeave may, for legitimate business reasons, decline to pursue any export licensing process.

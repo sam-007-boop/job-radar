@@ -1,0 +1,38 @@
+Stripe — Finance & Strategy Specialist
+https://stripe.com/jobs/search?gh_jid=8287914
+
+Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career. 
+ About the team 
+ The Pricing and Commercialization team is part of Stripe's Product Marketing organization and is responsible for how Stripe prices its products. Our work is highly cross-functional and we partner closely with Product, Finance, and Sales to tackle some of Stripe's most visible and commercially impactful decisions.  
+ We're looking for someone who deeply understands pricing to accelerate the pace of decision-making and drive the tooling / processes which give our Pricing Strategists outsized leverage. 
+ What you’ll do 
+
+ Be a pragmatic problem-solver . You are comfortable making and defending well-reasoned judgments even when data is imperfect or incomplete, and know how to ask the right questions and find creative analytical approaches to move forward with confidence. 
+ Be a storyteller . You can successfully champion new-to-Stripe ideas, whether it’s new metrics, processes, approaches to holistic pricing, etc., and drive the organization to rally behind these initiatives. 
+ Be a collaborator . You partner effectively across Engineering, Product, Finance, and Sales to ensure insights and growth opportunities are thoughtfully packaged and presented to the right front-line stakeholders across Stripe. 
+ Be deeply analytical . You are energized by complex, ambiguous pricing questions and are comfortable going deep into the data to find answers. 
+
+ Responsibilities 
+
+ Create the long-term vision which outlines how Stripe can kickstart and iteratively improve its monetization ‘flywheel’ by increasingly creating pricing data insights and deploying them to the front line. 
+ Develop, run, and optimize the process of reviewing our existing pricing, finding growth opportunities where we are meaningfully undermonetized, and codifying the approach in pricing ‘playbooks’. 
+ Accelerate the pace of pricing decisions by partnering with teams to create the data and self-serve tooling required to automate / proactively identify pricing opportunities. 
+ Drive continuous improvements to our pricing data, systems, and ways of working to get ahead of the exponential rate at which our pricing and packaging’s complexity will increase. 
+
+ Who you are 
+ We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. 
+ Minimum Qualifications 
+
+ 5+ years of relevant pricing experience in product pricing, deal pricing/strategy, GTM finance, or other related functions. 
+ Proven ability to champion and deliver projects cross-functionally (e.g., working with Product, Engineering, and Finance teams). 
+ Strong demonstrated analytical ability, including proficiency with SQL. 
+ Excellent verbal and written communication skills. 
+ Demonstrated ability to ask the right questions and to use sound business judgment when collaborating with a wide range of stakeholders. 
+
+ Preferred Qualifications 
+
+ Experience in fast-paced environments (e.g., high-growth fintech, tech, or management consulting). 
+ Ability to maintain high performance under tight timelines, and a hands-on mindset to get any job done. 
+ Experience with the product and infrastructure ecosystem at Stripe or similar complex platform businesses.

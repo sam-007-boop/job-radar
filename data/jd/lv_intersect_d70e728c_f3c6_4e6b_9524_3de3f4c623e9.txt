@@ -1,0 +1,61 @@
+Intersect Power — Associate Project Manager - Data Centers and Natural Gas Power Plants
+https://jobs.lever.co/intersect/d70e728c-f3c6-4e6b-9524-3de3f4c623e9
+
+We’re a team of friends bound together by a mission to preserve our planet for future generations through innovative energy solutions and modern infrastructure. Intersect develops, constructs, and operates the most ambitious power and data center infrastructure in the country by co-locating industrial demand with dedicated gas and renewable power generation.
+
+Intersect was acquired by Google in March 2026 and operates as an independent subsidiary. We are developing and constructing multiple gigawatts of energy and data center projects in the U.S., enabling more data center and generation capacity to come online faster. We’re on an aggressive growth trajectory and looking for people hungry to tackle the largest energy challenges on the planet.
+
+Location & Team Gatherings
+Intersect has been a fully flexible workplace since its founding in 2016.  We’ve been very intentional about the way we do things. We are not work-from-home, hybrid, or in-office - we are any and all of those options! Deepening social connections and offering shared experiences is a cornerstone of the way we work. We connect as a team at our Team Week experiences four times a year and at our recently established Hub locations - SF Bay Area, NYC Metro Area, NY; Denver, CO; Austin, TX; Calgary, AB; and Toronto, ON.
+
+We are currently looking for candidates located within 60 miles of any of the listed hubs to foster more in-person connections while maintaining our flexible remote culture.
+
+About this role
+
+As an Associate Project Manager on Intersect's Data Centers and Fuels team, you'll help deliver complex, large-scale natural gas power generation and data center energy infrastructure projects from early engineering (FEL 1–3 to IFC) through construction, commissioning, and commercial handoff. Alongside major capital project execution—such as our Meitner, Blackwell 1, and Roman 3 developments—you'll also drive strategic, first-of-a-kind (FOAK) technology pilots that integrate natural gas reciprocating engines, gas turbines, Battery Energy Storage Systems (BESS), MV switchgear, power distribution centers (PDCs), and load banks to de-risk gigawatt-scale deployments.
+
+We view this role as a direct stepping stone to full Project Manager ownership at Intersect, where ambition and hard work are recognized and rewarded. You'll work directly with senior EPC contractor and OEM vendor leadership to solve technical and commercial challenges, building the track record to independently lead multi-million-dollar capital infrastructure projects.
+
+Team overview
+
+This team plays a critical role in advancing Intersect's mission to accelerate the clean energy transition by engineering and delivering high-reliability power generation and data center infrastructure at scale. The Data Centers and Fuels team bridges utility-scale power generation, microgrids, and advanced energy storage to solve complex electrification and digitalization challenges. Joining this rapidly scaling group means collaborating across engineering, procurement, and construction disciplines, influencing high-visibility capital projects, and rapidly growing your scope toward full project leadership.
+
+What you'll do
+
+Drive End-to-End Capital Project Execution
+Partner with Project Managers to build and maintain comprehensive project execution plans spanning scope, schedule, budget, and risk registers from development through commercial operations.
+Coordinate with internal engineering and external partners to advance FEED studies (FEL 1–3 through IFC), reviewing engineering deliverables, vendor submittals, and construction approaches for natural gas turbines, reciprocating engines, and Balance of Plant (BOP) systems.
+Support the full EPC contract lifecycle and lead day-to-day interface with senior EPC contractor personnel, consultants, and OEM vendors to keep engineering, procurement, and field execution aligned.
+
+Lead Technology Pilot Programs and Hardware Integration
+Execute first-of-a-kind (FOAK) technology pilot projects and test facilities designed to validate microgrid control strategies and de-risk commercial deployment for upcoming GW-scale assets.
+Manage the physical and software integration of complex power hardware, including natural gas reciprocating engines, gas turbines, BESS, MV switchgear, PDCs, load banks, and grid simulators.
+Define pilot success criteria (such as load emulation and grid-forming versus grid-following capabilities) alongside engineering teams, analyzing test outcomes to inform executive scale-up and capital investment decisions.
+
+Own Cost, Schedule, Procurement, and Change Management
+Track project financials—including budgets, purchase orders, and invoicing—while driving procurement timelines and expediting critical OEM equipment and BOP materials.
+Evaluate contractor change requests, negotiate scope and cost impacts with senior vendor counterparts, and maintain an accurate change log alongside construction documentation (RFIs, submittals, and technical deliverables).
+Deliver clear, actionable executive dashboards and milestone status reports that surface critical-path risks and mitigation plans early.
+
+What you'll bring
+
+Bachelor's degree in Engineering, Construction Management, or a related technical field.
+5+ years of progressive project engineering or project management experience in utility-scale power generation, natural gas power plants, oil & gas, or heavy energy infrastructure, with demonstrated scope ownership.
+Proven ability to interface credibly and hold your ground with senior EPC contractor and OEM vendor personnel in face-to-face technical and commercial discussions.
+Hands-on technical familiarity with OEM power generation equipment (gas turbines, natural gas reciprocating engines), Balance of Plant (BOP) systems, MV switchgear, PDCs, load banks, and BESS/microgrid integration.
+Track record of executing across the full project lifecycle—from FEED (FEL 1–3 to IFC) and permitting through EPC contracting, construction administration (RFIs, submittals, change orders), commissioning, and handover across at least two full-lifecycle projects.
+A bias for action, strong ownership mentality, and high tolerance for ambiguity when integrating novel power solutions into accelerated capital delivery schedules.
+Commitment to safety leadership, quality assurance, and collaborative execution aligned with Intersect's core values of Equity, Humility, Authenticity, Long-run Value, and People Come First.
+
+Total Rewards
+
+Total Compensation: $118,750 - $137,500 (total compensation includes base salary + bonus in USD)
+
+Equity: Beyond your salary, you’ll receive an Equity Grant, giving you a meaningful stake in our parent company. 
+Health & wellness: 100% premium coverage for you and your dependents on medical, dental, and vision
+Time to recharge: Unlimited PTO, plus two company-wide breaks (Fourth of July & end of year)
+Family support: Up to 12 weeks of fully paid parental leave, plus 6 additional weeks for birth parents; access to family planning and family care support through Carrot and Maven
+Mental health: Free access to Spring Health, including 5 free therapy and psychiatry sessions, plus a Headspace account for mindfulness and meditation through our physical health vendor, Wellhub+
+Perks & extras: $150 monthly food stipend, $150 monthly reimbursement for cell phone and internet, pet insurance allowance, full home office setup, free access to UrbanSitter with $625 in quarterly company-paid credits, ActiveHero, and One Medical
+
+Intersect maintains a work environment free from discrimination, one where all employees are treated with dignity and respect. All employees share in the responsibility for fulfilling Intersect's commitment to equal employment opportunity. Intersect does not discriminate against any employee or applicant on the basis of age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by and consistent with applicable local laws, regulations and ordinances. We adhere to these principles in all aspects of employment, including recruitment, hiring, training, compensation, promotion, benefits, social and recreational programs, and discipline.

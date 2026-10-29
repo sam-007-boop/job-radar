@@ -1,0 +1,47 @@
+Brex — Analyst, Banking Operations (Domestic)
+https://www.brex.com/careers/8924533002?gh_jid=8924533002
+
+Why join us 
+ Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive spend management, bill pay, and travel software, Brex enables founders and finance teams to accelerate operations, gain real-time visibility, and control spend effortlessly. Brex’s AI-native automation and world-class service eliminate manual expense and accounting tasks for customers so they can focus on what matters most. Tens of thousands of the world's best companies run on Brex, including DoorDash, Coinbase, Robinhood, Zoom, Plaid, Reddit, and SeatGeek. 
+ Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career. Operations at Brex 
+ Operations is the backbone of Brex’s mission to power businesses through our Intelligent Finance Platform. We own credit, fraud, money movement, and payments, protecting our customers and our company. From product operations that ensure flawless launches to scalable systems that drive innovation and precision, we operate at the intersection of product, design, engineering, and customer success. If you want to work at the heart of the business, Operations is where you belong. 
+ What you’ll do 
+ Brex is building the operating system for growing companies, and reliable funds movement is at the core. As a Banking Operations Analyst on our Domestic Payments team, you will work the US payment rails (ACH,checks, domestic wires, stablecoin) and investigate returns and exceptions, and keep our customers’ money moving accurately and on time. You’ll combine precision and rigor in controls with cross-functional collaboration to keep customers’ funds safe, timely, and accounted for. If you meet most, but not all, of the qualifications, we encourage you to apply. 
+ Where you’ll work 
+ This role will be based in our New York City office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of three coordinated days in the office per week, Monday, Wednesday and Thursday. As a perk, we also have up to four weeks per year of fully remote work! 
+ Responsibilities 
+
+ Work the domestic payments queue across ACH, checks, domestic wires and stablecoin, resolving cases in Salesforce with clear, customer-safe explanations. 
+ Monitor ACH and wire returns, interpreting return codes and running the right procedure for each. 
+ Watch for trends before they become incidents and escalate with clear context and urgency. 
+ Work exceptions with external banking partners, bringing the right identifiers and evidence to speed resolution. 
+ Keep the queue healthy by maintaining Salesforce routing and hygiene, balancing case quality and attention to detail. 
+ Write and maintain documentation (SOPs, training materials) and help onboard and cross-train new analysts. 
+ Leverage data and AI (Hex, SQL/Snowflake, Retool, LLMs) to investigate cases faster, build monitoring and dashboards, and automate repeat work. 
+ Identify process gaps, determine whether each is a manual error, data break, or process gap, and bring clear requirements to Engineering and Product. 
+ Collaborate cross-functionally with CX, CSMs, AEs, Accounting, Compliance, Engineering, Product, Design, and external banking partners to resolve exceptions and prepare for new flows. 
+ Participate in the coverage rotation on some holidays for urgent cases. 
+
+ Requirements 
+
+ 1+ year of experience in banking, fintech, payments, or operations (CX/Support, Operations, or Treasury) at a fintech, broker-dealer, or bank. Relevant internships count. 
+ Exposure to payments, returns, reconciliations, or settlements. 
+ Strong control discipline: follows SOPs, maintains audit-ready documentation, and escalates anomalies with clear context. 
+ Clear communicator and high-velocity collaborator under time pressure: responsive, decisive, and highly effective at partnering cross-functionally with CX, Engineering, Accounting, Compliance, and banking partners to drive swift resolutions. 
+ Proactive self-starter with strong communication skills and a commitment to continuous feedback and improvement. 
+ AI-native operator mindset, using LLMs/copilots to draft SOPs, triage exceptions, and generate first-pass analyses with strong output validation. 
+
+ Bonus points 
+
+ 2+ years of experience in banking, fintech, payments, or operations (CX/Support, Operations, or Treasury) at a fintech, broker-dealer, or bank. Relevant internships count. 
+ Bachelor’s Degree in Finance, Economics or Information Systems.  
+ Working knowledge of ACH and NACHA rules, return codes, and the lifecycle of wires and checks (including Reg CC and UCC 4A basics). 
+ Data fluency: intermediate Excel/Google Sheets (lookups, pivots) and comfort analyzing operational dashboards (e.g., Hex) to monitor volumes, returns, and exceptions. 
+ Comfort with SQL/Python for operational analytics, building checks and alerts, or automating workflows (e.g., Retool, Zapier). 
+ Experience with Salesforce case management and queue routing. 
+ Exposure to audits or control testing 
+ Experience with fraud, OFAC, or compliance-adjacent investigations. 
+
+ Compensation 
+ The expected salary range for this role is $66,331 - $82,914.  However, the starting base pay will depend on a number of factors including the candidate’s location, skills, experience, market demands, and internal pay parity. Depending on the position offered, equity and other forms of compensation may be provided as part of a total compensation package. 
+ Brex LLC is a wholly owned subsidiary of Capital One, N.A. Please be aware, job-seekers may be at risk of targeting by malicious actors looking for personal data. Brex recruiters will only reach out via LinkedIn or email with a  brex.com  domain. Any outreach claiming to be from Brex via other sources should be ignored.

@@ -1,7 +1,7 @@
-# Source check — 2026-10-29 17:28 ET
+# Source check — 2026-10-29 18:04 ET
 
 - OK  CoreWeave -> greenhouse:coreweave (310 open roles)
-- OK  Anthropic -> greenhouse:anthropic (674 open roles)
+- OK  Anthropic -> greenhouse:anthropic (673 open roles)
 - OK  Together AI -> greenhouse:togetherai (86 open roles)
 - OK  Crusoe -> ashby:Crusoe (344 open roles)
 - OK  Lambda -> ashby:Lambda (94 open roles)
@@ -12,7 +12,7 @@
 - OK  Blackstone (campus) -> workday:blackstone|wd1|Blackstone_Campus_Careers (21 open roles)
 - OK  BlackRock / GIP -> workday:blackrock|wd1|BlackRock_Professional (277 open roles)
 - OK  Brookfield -> workday:brookfield|wd5|brookfield (139 open roles)
-- OK  Ares Management -> workday:aresmgmt|wd1|External (239 open roles)
+- OK  Ares Management -> workday:aresmgmt|wd1|External (238 open roles)
 - OK  Apollo -> workday:athene|wd5|Apollo_Careers (53 open roles)
 - OK  Copia Power -> greenhouse:copiapower (5 open roles)
 - OK  Pivot Energy -> lever:pivotenergy (6 open roles)
@@ -38,10 +38,10 @@
 - OK  Nebius -> greenhouse:nebius (370 open roles)
 - OK  Scale AI -> greenhouse:scaleai (169 open roles)
 - OK  xAI -> greenhouse:xai (304 open roles)
-- OK  S&P Global -> workday:spgi|wd5|SPGI_Careers (315 open roles)
-- OK  Stripe -> greenhouse:stripe (732 open roles)
+- OK  S&P Global -> workday:spgi|wd5|SPGI_Careers (316 open roles)
+- OK  Stripe -> greenhouse:stripe (734 open roles)
 - OK  Brex -> greenhouse:brex (264 open roles)
 - OK  Plaid -> ashby:plaid (129 open roles)
 - OK  Mercury -> greenhouse:mercury (78 open roles)
-- OK  Databricks -> greenhouse:databricks (906 open roles)
+- OK  Databricks -> greenhouse:databricks (905 open roles)
 - --  Moelis (campus): no source resolved
