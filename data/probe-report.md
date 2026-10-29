@@ -1,0 +1,53 @@
+# Source check — 2026-10-29 17:16 ET
+
+- OK  CoreWeave -> greenhouse:coreweave (310 open roles)
+- OK  Anthropic -> greenhouse:anthropic (674 open roles)
+- OK  Together AI -> greenhouse:togetherai (86 open roles)
+- OK  Crusoe -> ashby:Crusoe (344 open roles)
+- OK  Lambda -> ashby:Lambda (94 open roles)
+- OK  OpenAI -> ashby:openai (812 open roles)
+- OK  Vantage Data Centers -> workday:vantagedc|wd1|Vantage (40 open roles)
+- OK  Intersect Power -> lever:intersect (32 open roles)
+- OK  Blackstone -> workday:blackstone|wd1|Blackstone_Careers (40 open roles)
+- OK  Blackstone (campus) -> workday:blackstone|wd1|Blackstone_Campus_Careers (21 open roles)
+- OK  BlackRock / GIP -> workday:blackrock|wd1|BlackRock_Professional (277 open roles)
+- OK  Brookfield -> workday:brookfield|wd5|brookfield (40 open roles)
+- OK  Ares Management -> workday:aresmgmt|wd1|External (40 open roles)
+- OK  Apollo -> workday:athene|wd5|Apollo_Careers (40 open roles)
+- OK  Copia Power -> greenhouse:copiapower (5 open roles)
+- OK  Pivot Energy -> lever:pivotenergy (6 open roles)
+- OK  Houlihan Lokey (lateral) -> workday:hl|wd1|Lateral (40 open roles)
+- OK  Houlihan Lokey (campus) -> workday:hl|wd1|Campus (33 open roles)
+- OK  Guggenheim Securities -> workday:guggenheim|wd1|Guggenheim_Careers (38 open roles)
+- OK  Guggenheim (campus) -> workday:guggenheim|wd1|Guggenheim_Careers_Campus (6 open roles)
+- OK  Ramp -> ashby:ramp (168 open roles)
+- --  Stonepeak: no source resolved
+- OK  DigitalBridge -> greenhouse:digitalbridge (5 open roles)
+- --  KKR: no source resolved
+- OK  Carlyle -> workday:carlyle|wd1|Carlyle (40 open roles)
+- --  Macquarie: no source resolved
+- --  I Squared Capital: no source resolved
+- --  Applied Digital: no source resolved
+- OK  Nebius -> greenhouse:nebius (370 open roles)
+- --  Core Scientific: no source resolved
+- --  IREN: no source resolved
+- --  Aligned Data Centers: no source resolved
+- --  Stack Infrastructure: no source resolved
+- --  Digital Realty: no source resolved
+- OK  Scale AI -> greenhouse:scaleai (169 open roles)
+- OK  xAI -> greenhouse:xai (304 open roles)
+- --  Evercore: no source resolved
+- --  Lazard: no source resolved
+- --  PJT Partners: no source resolved
+- --  Moelis: no source resolved
+- --  Jefferies: no source resolved
+- --  Marathon Capital: no source resolved
+- --  Moody's: no source resolved
+- --  MSCI: no source resolved
+- OK  S&P Global -> workday:spgi|wd5|SPGI_Careers (40 open roles)
+- --  FactSet: no source resolved
+- OK  Stripe -> greenhouse:stripe (732 open roles)
+- OK  Brex -> greenhouse:brex (264 open roles)
+- OK  Plaid -> ashby:plaid (129 open roles)
+- OK  Mercury -> greenhouse:mercury (78 open roles)
+- OK  Databricks -> greenhouse:databricks (906 open roles)
