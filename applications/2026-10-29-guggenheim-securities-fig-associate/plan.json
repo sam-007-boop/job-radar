@@ -1,0 +1,28 @@
+{
+  "company": "Guggenheim Securities",
+  "role": "Experienced Associate - Investment Banking, Financial Institutions Group",
+  "variant": "finance-core",
+  "job_url": "https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers/job/New-York/Experienced-Associate---Financial-Institutions-Group--FIG-_14959",
+  "edits": [
+    {"old": "Constructed LBO model for SJM, analyzed packaged food M&A using Capital IQ assessing multiples, activity, returns metrics",
+     "new": "Built LBO model for SJM; analyzed packaged food precedent transactions in Capital IQ for multiples and returns",
+     "why": "Posting lists comparable company and precedent transactions analyses as core associate work."},
+    {"old": "Prepared executive-level investment briefs integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning",
+     "new": "Prepared executive-level presentations integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning",
+     "why": "Posting: integrate analyses, forecasts and research into presentations for stakeholders and top executives."},
+    {"old": "Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions",
+     "new": "Created data-driven pitch materials and analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions",
+     "why": "Posting stresses deal pitches and idea generation; leads with the pitch work."},
+    {"old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+     "new": "Finance: Financial Modeling, Corporate Finance, Due Diligence, Financial Analysis & Research, Market Analysis, Bloomberg, S&P Capital IQ, Investment Research, Understanding of Financial Products, Data Presentation",
+     "why": "Same skills, reordered so modeling, diligence and the databases the posting names (Bloomberg) lead."}
+  ],
+  "cover_letter": {
+    "greeting": "Dear Guggenheim Securities FIG Team,",
+    "paragraphs": [
+      "I am applying for the Associate role in the Financial Institutions Group in New York. I am completing an MBA in Finance (STEM) at Fordham Gabelli after roles at JPMorgan Asset Management, Lenovo and Thomson Reuters. A growing FIG team that works in small client teams on strategic and financing assignments across banks, specialty finance, FinTech and insurance is where I want to build my banking career, and my time at an asset manager and in finance operations gave me a close view of how financial institutions run.",
+      "My core modeling and valuation work is the best evidence of fit. I valued J.M. Smucker using equity and enterprise value bridges and trading comps, built a DCF with WACC, terminal value and sensitivity analysis that I matched against a sell-side model, and built an LBO while analyzing packaged-food precedent transactions in Capital IQ. At JPMorgan Asset Management I built models to evaluate $10M in capital deployment strategies and performed due diligence and peer benchmarking that identified 30% efficiency gains.",
+      "Those skills map to the pro forma, comparable company and precedent transactions analyses and the diligence your associates lead. I have also prepared executive-level presentations for senior leadership and data-driven pitch materials at Lenovo, so I am comfortable turning analysis into a clear story for senior audiences. I would welcome the chance to discuss how I can contribute to the team."
+    ]
+  }
+}
