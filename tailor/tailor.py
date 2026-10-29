@@ -237,7 +237,18 @@ def build_cover_letter(base_doc, plan, path: Path):
 
 
 # ---------------- main ----------------
+def list_lines(variant):
+    """Print every editable line of a base resume, exactly as it must appear in a plan's "old" field."""
+    d = docx.Document(BASE[variant])
+    for p in d.paragraphs:
+        t = norm(p.text)
+        if len(t) > 25:
+            print(f"[{len(t):3d} chars] {t}")
+
+
 def main():
+    if len(sys.argv) == 3 and sys.argv[1] == "--list":
+        list_lines(sys.argv[2]); return
     ap = argparse.ArgumentParser()
     ap.add_argument("plan"); ap.add_argument("--out", required=True)
     a = ap.parse_args()
