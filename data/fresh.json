@@ -1,5 +1,5 @@
 {
- "run": "2026-10-29 17:16 ET",
+ "run": "2026-10-29 17:19 ET",
  "roles": [
   {
    "company": "CoreWeave",
@@ -35,39 +35,6 @@
    "id": "ab:Crusoe:d40eda63-0bda-4559-8f0d-fc275c6760ea"
   },
   {
-   "company": "OpenAI",
-   "track": "AI x finance",
-   "title": "Senior Procurement Manager \u2013 Infrastructure Complex Deals",
-   "location": "San Francisco",
-   "postedDate": "2026-10-29",
-   "postedLabel": "published",
-   "source": "ashby",
-   "url": "https://jobs.ashbyhq.com/openai/0fca3b36-8aaa-491a-be87-09efacfeca5e",
-   "id": "ab:openai:0fca3b36-8aaa-491a-be87-09efacfeca5e"
-  },
-  {
-   "company": "OpenAI",
-   "track": "AI x finance",
-   "title": "HSE and Portfolio Performance Lead",
-   "location": "US - Remote",
-   "postedDate": "2026-10-28",
-   "postedLabel": "published",
-   "source": "ashby",
-   "url": "https://jobs.ashbyhq.com/openai/c3f0fb07-2153-4ba9-b812-cd7ceb363ae8",
-   "id": "ab:openai:c3f0fb07-2153-4ba9-b812-cd7ceb363ae8"
-  },
-  {
-   "company": "OpenAI",
-   "track": "AI x finance",
-   "title": "Network Infrastructure Lead",
-   "location": "US - Remote",
-   "postedDate": "2026-10-28",
-   "postedLabel": "published",
-   "source": "ashby",
-   "url": "https://jobs.ashbyhq.com/openai/6c1d86d0-e89d-475b-a324-6c57fa30b345",
-   "id": "ab:openai:6c1d86d0-e89d-475b-a324-6c57fa30b345"
-  },
-  {
    "company": "Intersect Power",
    "track": "AI x finance",
    "title": "Associate Project Manager - Data Centers and Natural Gas Power Plants",
@@ -93,7 +60,7 @@
    "company": "BlackRock / GIP",
    "track": "PE / infra",
    "title": "Enterprise Solutions Risk,  Associate (New York / Atlanta)",
-   "location": "2 Locations",
+   "location": "New York NY",
    "postedDate": "2026-10-28",
    "postedLabel": "Posted Yesterday",
    "source": "workday",
@@ -156,17 +123,6 @@
    "id": "wd:carlyle:/job/New-York-NY/Associate--Liquid-Credit-Research_R-00302"
   },
   {
-   "company": "Carlyle",
-   "track": "PE / infra",
-   "title": "AVP, Marketing Content Strategist",
-   "location": "2 Locations",
-   "postedDate": "2026-10-29",
-   "postedLabel": "Posted Today",
-   "source": "workday",
-   "url": "https://carlyle.wd1.myworkdayjobs.com/Carlyle/job/New-YorkOVA/AVP--Marketing-Content-Strategist_R-00328",
-   "id": "wd:carlyle:/job/New-YorkOVA/AVP--Marketing-Content-Strategist_R-00328"
-  },
-  {
    "company": "xAI",
    "track": "AI x finance",
    "title": "Sr. Analyst, Monetization Operations",
@@ -180,101 +136,13 @@
   {
    "company": "S&P Global",
    "track": "Analytics",
-   "title": "Equities Sales Specialist, Associate Director",
-   "location": "New York, NY",
-   "postedDate": "2026-10-29",
-   "postedLabel": "Posted Today",
-   "source": "workday",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Equities-Sales-Specialist--Associate-Director_332303-1",
-   "id": "wd:spgi:/job/New-York-NY/Equities-Sales-Specialist--Associate-Director_332303-1"
-  },
-  {
-   "company": "S&P Global",
-   "track": "Analytics",
-   "title": "Associate Director- Business Development",
-   "location": "New York, NY",
-   "postedDate": "2026-10-29",
-   "postedLabel": "Posted Today",
-   "source": "workday",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Associate-Director--Business-Development_331999-1",
-   "id": "wd:spgi:/job/New-York-NY/Associate-Director--Business-Development_331999-1"
-  },
-  {
-   "company": "S&P Global",
-   "track": "Analytics",
-   "title": "Senior Analyst Application Security",
-   "location": "3 Locations",
-   "postedDate": "2026-10-29",
-   "postedLabel": "Posted Today",
-   "source": "workday",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Senior-Analyst-Application-Security_332566-1",
-   "id": "wd:spgi:/job/Hyderabad-Telangana/Senior-Analyst-Application-Security_332566-1"
-  },
-  {
-   "company": "S&P Global",
-   "track": "Analytics",
-   "title": "Associate, Product Operations",
-   "location": "Gurugram, Haryana",
-   "postedDate": "2026-10-29",
-   "postedLabel": "Posted Today",
-   "source": "workday",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Associate--Product-Operations_332328-1",
-   "id": "wd:spgi:/job/Gurugram-Haryana/Associate--Product-Operations_332328-1"
-  },
-  {
-   "company": "S&P Global",
-   "track": "Analytics",
-   "title": "Associate Product Operations",
-   "location": "Gurugram, Haryana",
-   "postedDate": "2026-10-29",
-   "postedLabel": "Posted Today",
-   "source": "workday",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Associate-Product-Operations_332177-1",
-   "id": "wd:spgi:/job/Gurugram-Haryana/Associate-Product-Operations_332177-1"
-  },
-  {
-   "company": "S&P Global",
-   "track": "Analytics",
-   "title": "Associate Product Operations",
-   "location": "Gurugram, Haryana",
-   "postedDate": "2026-10-29",
-   "postedLabel": "Posted Today",
-   "source": "workday",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Associate-Product-Operations_332180-1",
-   "id": "wd:spgi:/job/Gurugram-Haryana/Associate-Product-Operations_332180-1"
-  },
-  {
-   "company": "S&P Global",
-   "track": "Analytics",
    "title": "Associate Director - Structured Finance Ratings, Esoteric Assets, New York, Chicago, Denver, or Toronto",
-   "location": "4 Locations",
+   "location": "New York NY",
    "postedDate": "2026-10-28",
    "postedLabel": "Posted Yesterday",
    "source": "workday",
    "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Associate-Director---Structured-Finance-Ratings--Esoteric-Assets_330312-1",
    "id": "wd:spgi:/job/New-York-NY/Associate-Director---Structured-Finance-Ratings--Esoteric-Assets_330312-1"
-  },
-  {
-   "company": "S&P Global",
-   "track": "Analytics",
-   "title": "Commercial and CX Graduate Associate - Calgary",
-   "location": "Calgary, CAN",
-   "postedDate": "2026-10-28",
-   "postedLabel": "Posted Yesterday",
-   "source": "workday",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Calgary-CAN/Commercial-and-CX-Graduate-Associate---Calgary_332124-1",
-   "id": "wd:spgi:/job/Calgary-CAN/Commercial-and-CX-Graduate-Associate---Calgary_332124-1"
-  },
-  {
-   "company": "S&P Global",
-   "track": "Analytics",
-   "title": "Cyber Threat Intelligence Analyst",
-   "location": "Noida, Uttarpradesh",
-   "postedDate": "2026-10-28",
-   "postedLabel": "Posted Yesterday",
-   "source": "workday",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Noida-Uttarpradesh/Cyber-Threat-Intelligence-Analyst_332531-1",
-   "id": "wd:spgi:/job/Noida-Uttarpradesh/Cyber-Threat-Intelligence-Analyst_332531-1"
   },
   {
    "company": "Stripe",
