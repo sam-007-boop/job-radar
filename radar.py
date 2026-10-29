@@ -175,7 +175,28 @@ def fetch_workday(spec):
     return out
 
 
-FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "workday": fetch_workday}
+def fetch_oracle(spec):
+    """Oracle Recruiting Cloud: spec = <host>|<siteNumber>. Lists newest first."""
+    host, site = spec.split("|")
+    url = (f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+           f"?onlyData=true&expand=requisitionList.secondaryLocations"
+           f"&finder=findReqs;siteNumber={site},facetsList=NONE,limit=200,sortBy=POSTING_DATES_DESC")
+    r = requests.get(url, headers=UA, timeout=TIMEOUT)
+    r.raise_for_status()
+    items = r.json().get("items") or []
+    reqs = (items[0].get("requisitionList") if items else None) or []
+    out = []
+    for j in reqs:
+        d = j.get("PostedDate")
+        posted = datetime.fromisoformat(d).replace(tzinfo=ET) if d else None
+        out.append({"id": f"or:{host}:{j.get('Id')}", "title": j.get("Title", ""),
+                    "location": j.get("PrimaryLocation", "") or "", "posted": posted,
+                    "posted_label": "posted", "date_reliable": bool(d),
+                    "url": f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{j.get('Id')}"})
+    return out
+
+
+FETCHERS = {"oracle": fetch_oracle, "greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "workday": fetch_workday}
 
 
 def sources_for(entry):

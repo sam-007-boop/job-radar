@@ -7,6 +7,7 @@
 #   lever:      <company slug>      -> jobs.lever.co/<slug>
 #   ashby:      <org slug>          -> jobs.ashbyhq.com/<slug>
 #   workday:    <tenant>|<wdN>|<site>  -> <tenant>.<wdN>.myworkdayjobs.com/<site>
+#   oracle:     <host>|<siteNumber>    -> <host>/hcmUI/CandidateExperience/en/sites/<siteNumber>
 
 verified:
   # AI x finance / data centers
@@ -32,38 +33,37 @@ verified:
   - {name: Houlihan Lokey (campus),  track: IB, workday: "hl|wd1|Campus"}
   - {name: Guggenheim Securities,    track: IB, workday: "guggenheim|wd1|Guggenheim_Careers"}
   - {name: Guggenheim (campus),      track: IB, workday: "guggenheim|wd1|Guggenheim_Careers_Campus"}
+  # added 2026-10-29 after finding real job-board addresses
+  - {name: Core Scientific,     track: AI x finance, workday: "corescientific|wd108|corescientificcareers"}
+  - {name: STACK Infrastructure, track: AI x finance, workday: "stackinfra|wd108|STACK_AMER"}
+  - {name: Galaxy Digital (data centers), track: AI x finance, greenhouse: galaxydigitalservices}
+  - {name: I Squared Capital,   track: PE / infra, greenhouse: handshakeisq}
+  - {name: I Squared Capital (MBA), track: PE / infra, greenhouse: isqmba}
+  - {name: PJT Partners,        track: IB, workday: "pjtpartners|wd1|Careers"}
+  - {name: PJT Partners (students), track: IB, workday: "pjtpartners|wd1|Students"}
+  - {name: Moelis,              track: IB, workday: "moelis|wd1|Experienced-Hires"}
+  - {name: Lazard (professional), track: IB, oracle: "icbpjb.fa.ocs.oraclecloud.com|LazardProfessionalCareers"}
+  - {name: Lazard (students),   track: IB, oracle: "icbpjb.fa.ocs.oraclecloud.com|LazardStudentCareers"}
+  - {name: Jefferies,           track: IB, oracle: "hdid.fa.us2.oraclecloud.com|CX_1"}
+  - {name: FactSet,             track: Analytics, workday: "factset|wd108|FactSetCareers"}
   # Analytics / fintech
   - {name: Ramp,                track: Analytics, ashby: ramp}
 
 probe:
   # each line tries the listed guesses; the first that returns jobs wins
-  - {name: Stonepeak,        track: PE / infra, try: ["greenhouse:stonepeak", "lever:stonepeak", "ashby:stonepeak"]}
-  - {name: DigitalBridge,    track: PE / infra, try: ["greenhouse:digitalbridge", "lever:digitalbridge", "workday:digitalbridge|wd1|External"]}
-  - {name: KKR,              track: PE / infra, try: ["workday:kkr|wd1|KKR_Careers", "workday:kkr|wd1|External", "workday:kkr|wd5|KKR"]}
-  - {name: Carlyle,          track: PE / infra, try: ["workday:carlyle|wd1|Carlyle", "workday:carlyle|wd1|External"]}
-  - {name: Macquarie,        track: PE / infra, try: ["workday:macquarie|wd3|Macquarie", "workday:macquarie|wd1|External"]}
-  - {name: I Squared Capital, track: PE / infra, try: ["greenhouse:isquaredcapital", "lever:isquaredcapital"]}
-  - {name: Applied Digital,  track: AI x finance, try: ["greenhouse:applieddigital", "lever:applieddigital", "ashby:applieddigital"]}
-  - {name: Nebius,           track: AI x finance, try: ["greenhouse:nebius", "ashby:nebius", "lever:nebius"]}
-  - {name: Core Scientific,  track: AI x finance, try: ["greenhouse:corescientific", "lever:corescientific", "workday:corescientific|wd1|External"]}
-  - {name: IREN,             track: AI x finance, try: ["greenhouse:iren", "lever:iren", "ashby:iren"]}
-  - {name: Aligned Data Centers, track: AI x finance, try: ["workday:aligneddc|wd1|External", "greenhouse:aligneddatacenters", "lever:aligned"]}
-  - {name: Stack Infrastructure, track: AI x finance, try: ["workday:stackinfrastructure|wd1|External", "greenhouse:stackinfrastructure", "lever:stackinfra"]}
-  - {name: Digital Realty,   track: AI x finance, try: ["workday:digitalrealty|wd1|External", "workday:dlr|wd1|External"]}
-  - {name: Scale AI,         track: AI x finance, try: ["greenhouse:scaleai", "ashby:scaleai"]}
-  - {name: xAI,              track: AI x finance, try: ["greenhouse:xai", "ashby:xai"]}
-  - {name: Evercore,         track: IB, try: ["workday:evercore|wd1|Evercore_Careers", "workday:evercore|wd1|External", "greenhouse:evercore"]}
-  - {name: Lazard,           track: IB, try: ["workday:lazard|wd1|Lazard", "workday:lazard|wd1|External"]}
-  - {name: PJT Partners,     track: IB, try: ["greenhouse:pjtpartners", "workday:pjtpartners|wd1|External"]}
-  - {name: Moelis,           track: IB, try: ["workday:moelis|wd1|Moelis", "workday:moelis|wd1|External", "greenhouse:moelis"]}
-  - {name: Jefferies,        track: IB, try: ["workday:jefferies|wd1|Jefferies", "workday:jefferies|wd1|External"]}
-  - {name: Marathon Capital, track: IB, try: ["greenhouse:marathoncapital", "lever:marathoncapital", "ashby:marathoncapital"]}
-  - {name: Moody's,          track: Analytics, try: ["workday:moodys|wd1|Moodys", "workday:moodys|wd5|External", "workday:moodys|wd1|External"]}
-  - {name: MSCI,             track: Analytics, try: ["workday:msci|wd1|MSCI", "workday:msci|wd1|External"]}
-  - {name: S&P Global,       track: Analytics, try: ["workday:spgi|wd5|SPGI_Careers", "workday:spgi|wd1|External"]}
-  - {name: FactSet,          track: Analytics, try: ["workday:factset|wd1|FactSetCareers", "workday:factset|wd1|External"]}
+  - {name: DigitalBridge,    track: PE / infra, try: ["greenhouse:digitalbridge"]}
+  - {name: Carlyle,          track: PE / infra, try: ["workday:carlyle|wd1|Carlyle"]}
+  - {name: Nebius,           track: AI x finance, try: ["greenhouse:nebius"]}
+  - {name: Scale AI,         track: AI x finance, try: ["greenhouse:scaleai"]}
+  - {name: xAI,              track: AI x finance, try: ["greenhouse:xai"]}
+  - {name: S&P Global,       track: Analytics, try: ["workday:spgi|wd5|SPGI_Careers"]}
   - {name: Stripe,           track: Analytics, try: ["greenhouse:stripe"]}
-  - {name: Brex,             track: Analytics, try: ["greenhouse:brex", "ashby:brex"]}
-  - {name: Plaid,            track: Analytics, try: ["lever:plaid", "ashby:plaid", "greenhouse:plaid"]}
-  - {name: Mercury,          track: Analytics, try: ["ashby:mercury", "greenhouse:mercury"]}
+  - {name: Brex,             track: Analytics, try: ["greenhouse:brex"]}
+  - {name: Plaid,            track: Analytics, try: ["ashby:plaid"]}
+  - {name: Mercury,          track: Analytics, try: ["greenhouse:mercury"]}
   - {name: Databricks,       track: Analytics, try: ["greenhouse:databricks"]}
+  - {name: Moelis (campus),  track: IB, try: ["workday:moelis|wd1|Campus", "workday:moelis|wd1|Students", "workday:moelis|wd1|Campus-Recruiting"]}
+
+# Not readable automatically (custom career sites). These reach Sam through LinkedIn alerts instead:
+# KKR, Stonepeak, Macquarie (Avature), Evercore (Oleeo), Moody's, MSCI, Applied Digital, IREN,
+# Aligned Data Centers, Marathon Capital. Digital Realty dropped (almost no H-1B history).
