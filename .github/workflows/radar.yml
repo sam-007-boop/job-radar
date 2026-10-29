@@ -3,7 +3,12 @@ name: job-radar
 on:
   schedule:
     - cron: "30 10 * * *"   # 10:30 UTC = 6:30am EDT / 5:30am EST
-  workflow_dispatch: {}      # lets you (or Claude) run it on demand from the Actions tab
+  workflow_dispatch:         # lets you (or Claude) run it on demand from the Actions tab
+    inputs:
+      reset_seen:
+        description: "Re-report roles already seen today (for testing)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -22,7 +27,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests pyyaml
-      - run: python radar.py
+      - run: python radar.py ${{ inputs.reset_seen && '--reset-seen' || '' }}
       - name: Save results
         run: |
           git config user.name "job-radar"

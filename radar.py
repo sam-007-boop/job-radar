@@ -98,7 +98,7 @@ def fetch_greenhouse(slug):
                     "posted": posted,
                     "posted_label": "first published" if j.get("first_published") else "last updated (no publish date)",
                     "date_reliable": bool(j.get("first_published")),
-                    "url": j.get("absolute_url", "")})
+                    "url": j.get("absolute_url", ""), "jd_ref": ("greenhouse", slug, j["id"])})
     return out
 
 
@@ -113,7 +113,10 @@ def fetch_lever(slug):
         out.append({"id": f"lv:{slug}:{j['id']}", "title": j.get("text", ""),
                     "location": cat.get("location") or ", ".join(cat.get("allLocations") or []),
                     "posted": posted, "posted_label": "created", "date_reliable": True,
-                    "url": j.get("hostedUrl", "")})
+                    "url": j.get("hostedUrl", ""),
+                    "jd_text": (j.get("descriptionPlain") or "") + "\n" + "\n".join(
+                        f"{l.get('text','')}: " + re.sub(r"<[^>]+>", " ", l.get("content", "")) for l in j.get("lists") or [])
+                        + "\n" + (j.get("additionalPlain") or "")})
     return out
 
 
@@ -128,7 +131,7 @@ def fetch_ashby(slug):
                     "location": j.get("location", "") or "",
                     "posted": parse_iso(j.get("publishedAt")), "posted_label": "published",
                     "date_reliable": bool(j.get("publishedAt")),
-                    "url": j.get("jobUrl", "")})
+                    "url": j.get("jobUrl", ""), "jd_text": j.get("descriptionPlain") or ""})
     return out
 
 
@@ -167,7 +170,8 @@ def fetch_workday(spec):
             out.append({"id": f"wd:{tenant}:{p.get('externalPath', p.get('title'))}", "title": p.get("title", ""),
                         "location": loc, "posted": posted,
                         "posted_label": p.get("postedOn", ""), "date_reliable": age is not None,
-                        "url": f"{base}/{site}{p.get('externalPath', '')}"})
+                        "url": f"{base}/{site}{p.get('externalPath', '')}",
+                        "jd_ref": ("workday", f"{base}/wday/cxs/{tenant}/{site}{p.get('externalPath', '')}")})
         offset += 20
         if not posts or offset >= total or offset >= 2000:
             break
@@ -192,8 +196,42 @@ def fetch_oracle(spec):
         out.append({"id": f"or:{host}:{j.get('Id')}", "title": j.get("Title", ""),
                     "location": j.get("PrimaryLocation", "") or "", "posted": posted,
                     "posted_label": "posted", "date_reliable": bool(d),
-                    "url": f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{j.get('Id')}"})
+                    "url": f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{j.get('Id')}",
+                    "jd_ref": ("oracle", host, site, j.get("Id"))})
     return out
+
+
+def html_to_text(h: str) -> str:
+    import html as _h
+    h = re.sub(r"(?i)<br\s*/?>|</p>|</li>|</h\d>", "\n", h or "")
+    h = re.sub(r"(?i)<li[^>]*>", "- ", h)
+    t = _h.unescape(re.sub(r"<[^>]+>", " ", _h.unescape(h)))
+    return re.sub(r"[ \t]+", " ", re.sub(r"\n\s*\n+", "\n\n", t)).strip()
+
+
+def fetch_jd(job) -> str:
+    """Full job description text for one posting (only called for fresh roles)."""
+    if job.get("jd_text"):
+        return html_to_text(job["jd_text"])
+    ref = job.get("jd_ref")
+    if not ref:
+        return ""
+    kind = ref[0]
+    if kind == "greenhouse":
+        r = requests.get(f"https://boards-api.greenhouse.io/v1/boards/{ref[1]}/jobs/{ref[2]}", headers=UA, timeout=TIMEOUT)
+        r.raise_for_status(); return html_to_text(r.json().get("content", ""))
+    if kind == "workday":
+        r = requests.get(ref[1], headers=UA, timeout=TIMEOUT)
+        r.raise_for_status(); return html_to_text((r.json().get("jobPostingInfo") or {}).get("jobDescription", ""))
+    if kind == "oracle":
+        _, host, site, jid = ref
+        url = (f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails"
+               f"?expand=all&onlyData=true&finder=ById;Id=%22{jid}%22,siteNumber={site}")
+        r = requests.get(url, headers=UA, timeout=TIMEOUT); r.raise_for_status()
+        it = (r.json().get("items") or [{}])[0]
+        return html_to_text("\n".join(str(it.get(k) or "") for k in
+                                       ("ExternalDescriptionStr", "ExternalResponsibilitiesStr", "ExternalQualificationsStr")))
+    return ""
 
 
 FETCHERS = {"oracle": fetch_oracle, "greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "workday": fetch_workday}
@@ -215,6 +253,8 @@ def main() -> int:
     wl = yaml.safe_load((ROOT / "watchlist.yaml").read_text())
     seen_path = DATA / "seen.json"
     seen = set(json.loads(seen_path.read_text())) if seen_path.exists() else set()
+    if "--reset-seen" in sys.argv:
+        seen = set()
 
     fresh, probe_lines, errors = [], [], []
     for group in ("verified", "probe"):
@@ -239,7 +279,16 @@ def main() -> int:
                     if j["id"] in seen:
                         continue
                     seen.add(j["id"])
-                    fresh.append({"company": entry["name"], "track": entry.get("track", ""),
+                    jd_file = ""
+                    try:
+                        jd = fetch_jd(j)
+                        if jd:
+                            jd_file = f"data/jd/{re.sub(r'[^A-Za-z0-9]+', '_', j['id'])[-80:]}.txt"
+                            (ROOT / jd_file).parent.mkdir(parents=True, exist_ok=True)
+                            (ROOT / jd_file).write_text(f"{entry['name']} — {j['title']}\n{j['url']}\n\n{jd}\n")
+                    except Exception as e:  # noqa: BLE001
+                        errors.append(f"- JD fetch failed for {entry['name']} / {j['title']}: {type(e).__name__}")
+                    fresh.append({"jd": jd_file,"company": entry["name"], "track": entry.get("track", ""),
                                   "title": j["title"], "location": j["location"],
                                   "postedDate": j["posted"].astimezone(ET).date().isoformat(),
                                   "postedLabel": j["posted_label"], "source": kind, "url": j["url"], "id": j["id"]})

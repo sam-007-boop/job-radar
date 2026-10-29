@@ -1,0 +1,185 @@
+## base/data-analytics.docx
+SAM DASGUPTA
+New York, NY | 201-705-9910 | samudra.dasgupta@fordham.edu | www.linkedin.com/in/samudradasg/
+EDUCATION
+FORDHAM UNIVERSITY GABELLI SCHOOL OF BUSINESS	New York, NY
+MBA (STEM Designation)	2025 - 2027
+Relevant Coursework: Data Analytics, Corporate Finance, Accounting
+CHRIST UNIVERSITY	Bangalore, IN
+B.Com, International Finance	2016 - 2019
+Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2
+Internship: Decision Scientist - improved data quality & automated extraction, resulting in saving 10 hours/week on diagnosis
+EXPERIENCE
+JPMORGAN ASSET MANAGEMENT
+Consultant	6/24 – 6/25
+Developed cross-platform campaign analytics frameworks to track KPIs, achieving 135% increase in engagements while reducing media spend by up to 83% maintaining a 0.47% CTR
+Conducted data-driven performance analysis and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment decisions
+Built financial models to evaluate $10M+ in capital deployment strategies, automating data extraction and quantifying ROI across portfolio scenarios
+Synthesized large datasets into executive-level reporting and dashboards, translating complex data into actionable insights for senior leadership on capital allocation and strategic planning
+LENOVO
+Senior Business Analyst	5/22 – 5/24
+Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%
+Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week
+Defined audience segmentation strategies and documented business requirements for campaign initiatives, translating stakeholder needs into dashboards that improved campaign ROI by 20%
+Conducted variance, sensitivity, and trend analyses on budget reallocation strategies, translating findings into clear stakeholder recommendations across cross-functional teams
+THOMSON REUTERS
+Order Management Associate	10/19 – 04/22
+Managed financial operations and cash flow analysis, overseeing 80%+ of total inflows and improving working capital efficiency
+Streamlined the OTC process with automation, reducing the cash conversion cycle by 20% and enhancing liquidity management
+Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting
+Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region
+PROJECTS
+FINANCIAL ACCOUNTING & REPORTING DATA ANALYSIS
+Analyzed financial statements and disclosures to assess performance and earnings quality across firms and peers
+Prepared core financial statements from underlying transactions and assessed impacts on profitability, cash flow, and key ratios
+Performed ratio and accounting analysis using firm and industry-level metrics to support investment decision-making
+MODERN FINANCIAL ANALYSIS
+Valued J.M. Smucker using equity and enterprise value bridges, normalizing EBITDA & deriving trading multiples using comps
+Built an SJM DCF model incorporating WACC, terminal value work, and sensitivity analysis matched against a sell-side model
+Constructed LBO model for SJM, analyzed packaged food M&A using Capital IQ assessing multiples, activity, returns metrics
+ADDITIONAL
+Technical: Excel, Tableau, Salesforce, Datorama, Python, SQL, CRM Systems, ETL Processes, SAP, PowerPoint, CRM, Financial Modeling, JIRA, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ
+Certifications: SAP, Datorama Admin, Tableau Data Analytics & Visualization, Six Sigma Yellow Belt
+Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment
+
+## base/finance-core-with-notes.docx
+SAM DASGUPTA
+                New York, NY | 201-705-9910 | samudra.dasgupta@fordham.edu | www.linkedin.com/in/samudradasg/
+ 
+EDUCATION
+FORDHAM UNIVERSITY GABELLI SCHOOL OF BUSINESS                                                                      New York, NY
+MBA, Finance (STEM Designation)                                                                                                                                 2025 - 2027
+Relevant Coursework: Valuation (DCF, Comparable Companies, Precedent Transactions), Corporate Finance, Accounting
+ 
+CHRIST UNIVERSITY                                                                                                                                              Bangalore, IN
+B.Com, International Finance                                                                                                                                        2016 - 2019
+Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2
+Internship: Decision Scientist - improved data quality & automated extraction, resulting in saving 10 hours/week on diagnosis
+
+EXPERIENCE
+JPMORGAN ASSET MANAGEMENT                                                                                                                            
+Consultant	                                                                                                                                                               6/24 – 6/25
+Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns
+Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions
+Analyzed underperforming initiatives to reallocate funding toward higher-yield opportunities, improving overall capital productivity and driving a 1.5x increase in performance metrics
+Prepared executive-level investment briefs integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning
+LENOVO                                                                                                                                                                             
+Senior Business Analyst                                                                                                                                                  5/22 – 5/24
+Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%
+Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions
+Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning
+THOMSON REUTERS                                                                                                                                              
+Order Management Associate                                                                                                                                    10/19 – 04/22
+Managed financial operations and cash flow analysis, overseeing 80%+ of total inflows and improving working capital efficiency
+Streamlined the OTC process with automation, reducing the cash conversion cycle by 20% and enhancing liquidity management
+Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting
+Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region
+
+PROJECTS
+MODERN FINANCIAL ANALYSIS
+Valued J.M. Smucker using equity and enterprise value bridges, normalizing EBITDA & deriving trading multiples using comps
+Built an SJM DCF model incorporating WACC, terminal value work, and sensitivity analysis matched against a sell-side model
+Constructed LBO model for SJM, analyzed packaged food M&A using Capital IQ assessing multiples, activity, returns metrics
+FINANCIAL ACCOUNTING & REPORTING DATA ANALYSIS
+Analyzed financial statements and disclosures to assess performance and earnings quality across firms and peers
+Prepared core financial statements from underlying transactions and assessed impacts on profitability, cash flow, and key ratios
+Performed ratio and accounting analysis using firm and industry-level metrics to support investment decision-making
+
+ADDITIONAL
+Technical: Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM, Python
+Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ
+Certifications: SAP, Datorama Admin, Tableau Data Analytics & Visualization, Six Sigma Yellow Belt
+Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment
+
+## base/finance-marketing.docx
+SAM DASGUPTA
+New York, NY | 201-705-9910 | samudra.dasgupta@fordham.edu | www.linkedin.com/in/samudradasg/
+EDUCATION
+FORDHAM UNIVERSITY GABELLI SCHOOL OF BUSINESS	New York, NY
+MBA, Finance (STEM Designation)	2025 - 2027
+Relevant Coursework: Valuation (DCF, Comparable Companies, Precedent Transactions), Corporate Finance, Accounting
+CHRIST UNIVERSITY	Bangalore, IN
+B.Com, International Finance	2016 - 2019
+Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2
+Internship: Decision Scientist - improved data quality & automated extraction, resulting in saving 10 hours/week on diagnosis
+EXPERIENCE
+JPMORGAN ASSET MANAGEMENT
+Consultant	6/24 – 6/25
+Built and managed paid campaigns in LinkedIn and Meta by structuring campaign groups, configuring target audiences, and managing bid strategy, achieving a 135% increase in engagements while reducing media spend by 83% at a 0.47% CTR
+Conducted data-driven performance analysis and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment decisions
+Built financial models to evaluate $10M+ in capital deployment strategies, automating data extraction and quantifying ROI across portfolio scenarios
+Synthesized large datasets into executive-level reporting and dashboards, translating complex data into actionable insights for senior leadership on capital allocation and strategic planning
+LENOVO
+Senior Business Analyst	5/22 – 5/24
+Managed simultaneous LinkedIn and Meta campaigns through precise audience segmentation, creative trafficking, and in-flight optimization, improving overall campaign ROI by 20%.
+Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%
+Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week
+Conducted variance, sensitivity, and trend analyses on budget reallocation strategies, translating findings into clear stakeholder recommendations across cross-functional teams
+THOMSON REUTERS
+Order Management Associate	10/19 – 04/22
+Managed financial operations and cash flow analysis, overseeing 80%+ of total inflows and improving working capital efficiency
+Streamlined the OTC process with automation, reducing the cash conversion cycle by 20% and enhancing liquidity management
+Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting
+Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region
+PROJECTS
+FINANCIAL ACCOUNTING & REPORTING DATA ANALYSIS
+Analyzed financial statements and disclosures to assess performance and earnings quality across firms and peers
+Prepared core financial statements from underlying transactions and assessed impacts on profitability, cash flow, and key ratios
+Performed ratio and accounting analysis using firm and industry-level metrics to support investment decision-making
+MODERN FINANCIAL ANALYSIS
+Valued J.M. Smucker using equity and enterprise value bridges, normalizing EBITDA & deriving trading multiples using comps
+Built an SJM DCF model incorporating WACC, terminal value work, and sensitivity analysis matched against a sell-side model
+Constructed LBO model for SJM, analyzed packaged food M&A using Capital IQ assessing multiples, activity, returns metrics
+ADDITIONAL
+Technical: Excel, Tableau, Salesforce, Datorama, Python, CRM Systems, SAP, PowerPoint, CRM, Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ
+Certifications: SAP, Datorama Admin, Tableau Data Analytics & Visualization, Six Sigma Yellow Belt
+Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment
+
+## base/project-finance-solar.docx
+SAM DASGUPTA
+                New York, NY | 201-705-9910 | samudra.dasgupta@fordham.edu | www.linkedin.com/in/samudradasg/
+ 
+EDUCATION
+FORDHAM UNIVERSITY GABELLI SCHOOL OF BUSINESS                                                                      New York, NY
+MBA, Finance (STEM Designation)                                                                                                                                 2025 - 2027
+Relevant Coursework: Valuation (DCF, Comparable Companies, Precedent Transactions), Corporate Finance, Accounting
+ 
+CHRIST UNIVERSITY                                                                                                                                              Bangalore, IN
+B.Com, International Finance                                                                                                                                        2016 - 2019
+Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2
+Internship: Decision Scientist - improved data quality & automated extraction, resulting in saving 10 hours/week on diagnosis
+
+EXPERIENCE
+JPMORGAN ASSET MANAGEMENT                                                                                                                            
+Consultant	                                                                                                                                                               6/24 – 6/25
+Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns
+Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions
+Analyzed underperforming initiatives to reallocate funding toward higher-yield opportunities, improving overall capital productivity and driving a 1.5x increase in performance metrics
+Prepared executive-level investment briefs integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning
+LENOVO                                                                                                                                                                             
+Senior Business Analyst                                                                                                                                                  5/22 – 5/24
+Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%
+Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions
+Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning
+THOMSON REUTERS                                                                                                                                              
+Order Management Associate                                                                                                                                    10/19 – 04/22
+Managed financial operations and cash flow analysis, overseeing 80%+ of total inflows and improving working capital efficiency
+Streamlined the OTC process with automation, reducing the cash conversion cycle by 20% and enhancing liquidity management
+Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting
+Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region
+
+PROJECTS
+NAUTILUS SOLAR ENERGY
+Built project- and portfolio-level financial models for a 6-project, 35.4 MW Illinois solar portfolio, evaluating capital structure, DSCR, NPV, and levered IRR under post-ITC scenarios
+Analyzed senior debt, sustainability-linked loan, and green loan + ABS structures to assess financing alternatives, tax incentive impacts, and downside sensitivities.
+Recommended a phased green loan + ABS strategy that reduced sponsor equity by $11.1M and improved levered IRR from 8.58% to 9.79%.
+MODERN FINANCIAL ANALYSIS
+Valued J.M. Smucker using equity and enterprise value bridges, normalizing EBITDA & deriving trading multiples using comps
+Built an SJM DCF model incorporating WACC, terminal value work, and sensitivity analysis matched against a sell-side model
+Constructed LBO model for SJM, analyzed packaged food M&A using Capital IQ assessing multiples, activity, returns metrics
+
+ADDITIONAL
+Technical: Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM
+Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ
+Certifications: SAP, Datorama Admin, Tableau Data Analytics & Visualization, Six Sigma Yellow Belt
+Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment
