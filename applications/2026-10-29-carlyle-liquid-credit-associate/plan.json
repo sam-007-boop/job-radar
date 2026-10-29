@@ -1,0 +1,28 @@
+{
+  "company": "Carlyle",
+  "role": "Associate, Liquid Credit Research",
+  "variant": "finance-core",
+  "job_url": "https://carlyle.wd1.myworkdayjobs.com/Carlyle/job/New-York-NY/Associate--Liquid-Credit-Research_R-00302",
+  "edits": [
+    {"old": "Constructed LBO model for SJM, analyzed packaged food M&A using Capital IQ assessing multiples, activity, returns metrics",
+     "new": "Constructed LBO model for SJM, modeling leverage and returns; analyzed packaged food M&A multiples using Capital IQ",
+     "why": "Posting asks for transaction values and capital structure analysis on leveraged credits."},
+    {"old": "Analyzed financial statements and disclosures to assess performance and earnings quality across firms and peers",
+     "new": "Analyzed financial statements and disclosures to assess performance, earnings quality and cash flow across peers",
+     "why": "Posting focuses credit analysis on cash flow and on/off balance sheet assets and liabilities."},
+    {"old": "Prepared executive-level investment briefs integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning",
+     "new": "Prepared executive-level investment briefs integrating financial analysis, industry trends, and performance data to support senior leadership in capital allocation and strategic planning",
+     "why": "Posting asks for a point of view on industry trends, drivers and economics."},
+    {"old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+     "new": "Finance: Financial Modeling, Financial Analysis & Research, Investment Research, Due Diligence, Corporate Finance, Market Analysis, Understanding of Financial Products, Data Presentation, Bloomberg, S&P Capital IQ",
+     "why": "Same skills, reordered so modeling, financial analysis and investment research lead."}
+  ],
+  "cover_letter": {
+    "greeting": "Dear Carlyle Loans & Structured Credit Team,",
+    "paragraphs": [
+      "I am applying for the Associate, Liquid Credit Research role in New York. I am completing an MBA in Finance (STEM) at Fordham Gabelli after roles at JPMorgan Asset Management, Lenovo and Thomson Reuters. Your team's disciplined, fundamental approach to senior secured loans, built on cash flow analysis and protecting principal, is the kind of investing I want to learn and contribute to, with the benefit of Carlyle's industry insight behind each credit view.",
+      "My strongest preparation is in valuation and cash flow modeling. I valued J.M. Smucker using equity and enterprise value bridges and trading comps, built a DCF with WACC, terminal value and sensitivity analysis that I matched against a sell-side model, and built an LBO modeling leverage and returns. At Thomson Reuters I managed cash flow analysis covering 80%+ of total inflows and helped cut the cash conversion cycle by 20%, which gave me a practical feel for working capital and liquidity.",
+      "That work maps to the cash flow, valuation and capital structure analysis your associates do on each assigned credit. At JPMorgan Asset Management I also performed due diligence and peer benchmarking and wrote executive-level investment briefs on sector trends for senior leadership, so I am comfortable forming a view and defending it. I would welcome the chance to discuss how I can support the team's research."
+    ]
+  }
+}

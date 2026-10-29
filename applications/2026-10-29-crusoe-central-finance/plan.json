@@ -1,0 +1,34 @@
+{
+  "company": "Crusoe",
+  "role": "Senior Financial Analyst, Central Finance",
+  "variant": "project-finance-solar",
+  "job_url": "https://jobs.ashbyhq.com/Crusoe/d40eda63-0bda-4559-8f0d-fc275c6760ea",
+  "edits": [
+    {"old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+     "new": "Built forecasting models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+     "why": "Posting leads with building models for corporate planning and cash flow forecasting with scenario analysis."},
+    {"old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+     "new": "Ran variance and sensitivity analyses on budget reallocation to optimize resource deployment and strengthen financial planning and budgeting",
+     "why": "Posting asks for sensitivity, scenario and variance analysis and drives the annual budgeting process."},
+    {"old": "Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions",
+     "new": "Built AI-powered analytical dashboards integrating predictive metrics and financial projections to support leadership investment and funding decisions",
+     "why": "Posting wants someone to integrate AI and automation into forecasting and reporting."},
+    {"old": "Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region",
+     "new": "Partnered with business finance teams on monthly P&L forecasting, variance analysis, and closing activities for the ANZ region",
+     "why": "Posting: partner with business unit finance teams to drive monthly forecasting and consolidate actuals."},
+    {"old": "Prepared executive-level investment briefs integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning",
+     "new": "Prepared executive-level reports integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning",
+     "why": "Posting asks for monthly executive team reports and performance narratives for leadership."},
+    {"old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+     "new": "Finance: Financial Modeling, Financial Analysis, Data Presentation, Project Finance, Renewable Energy Finance, Valuation Analysis, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Bloomberg, S&P Capital IQ",
+     "why": "Same skills, reordered so modeling, analysis, reporting and energy finance lead."}
+  ],
+  "cover_letter": {
+    "greeting": "Dear Crusoe Central Finance Team,",
+    "paragraphs": [
+      "I am applying for the Senior Financial Analyst, Central Finance role in New York. I am completing an MBA in Finance (STEM) at Fordham Gabelli after finance and analytics roles at JPMorgan Asset Management, Lenovo and Thomson Reuters. Crusoe's energy-first approach to AI infrastructure, owning every layer from electrons to tokens, is the business I most want to help plan and finance, and a central role that spans FP&A, Corporate Development and Treasury is where I can contribute fastest.",
+      "Planning and forecasting is the core of my experience. At Lenovo I built forecasting models and scenario analyses for capital allocation that improved capital efficiency by 15%, ran variance and sensitivity analysis on budget reallocation, and built AI-powered dashboards that automated reporting and saved 4+ hours a week. At Thomson Reuters I supported monthly P&L forecasting, variance analysis and close for the ANZ region and helped cut the cash conversion cycle by 20%. I also bring energy finance depth: for Nautilus Solar I modeled a 35.4 MW, 6-project portfolio, including DSCR, NPV and levered IRR, and compared financing structures.",
+      "That combination maps directly to your monthly forecast and annual budget, executive and board reporting, and the push to bring AI and automation into the planning platform. At JPMorgan Asset Management I prepared executive-level reports for senior leadership on capital allocation, and I would bring the same clarity to Crusoe's leadership team. I would welcome the chance to discuss how I can contribute."
+    ]
+  }
+}

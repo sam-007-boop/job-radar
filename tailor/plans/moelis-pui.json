@@ -1,0 +1,28 @@
+{
+  "company": "Moelis",
+  "role": "Investment Banking Analyst - Power, Utilities & Infrastructure",
+  "variant": "project-finance-solar",
+  "job_url": "https://moelis.wd1.myworkdayjobs.com/Experienced-Hires/job/New-York/Investment-Banking-Analyst---Power--Utilities---Infrastructure--New-York-City_REQ102370",
+  "edits": [
+    {"old": "Analyzed senior debt, sustainability-linked loan, and green loan + ABS structures to assess financing alternatives, tax incentive impacts, and downside sensitivities.",
+     "new": "Evaluated senior debt, sustainability-linked loan, and green loan + ABS financing structures, tax incentive impacts, and downside sensitivities",
+     "why": "Posting covers financing assignments and asset-level drivers like capital investment and cash flow stability."},
+    {"old": "Constructed LBO model for SJM, analyzed packaged food M&A using Capital IQ assessing multiples, activity, returns metrics",
+     "new": "Built LBO model for SJM and analyzed packaged-food precedent transactions in Capital IQ, assessing multiples and returns",
+     "why": "Posting lists DCF, comparable company and precedent transaction analyses as core analyst work."},
+    {"old": "Prepared executive-level investment briefs integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning",
+     "new": "Prepared executive-level presentations integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning",
+     "why": "Posting asks for presentations that communicate sector dynamics and strategic alternatives."},
+    {"old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+     "new": "Finance: Financial Modeling, Valuation Analysis, Project Finance, Renewable Energy Finance, Due Diligence, Market Analysis, Investment Research, Financial Analysis, Data Presentation, Understanding of Financial Products, Bloomberg, S&P Capital IQ",
+     "why": "Same skills, reordered so modeling, valuation and power/renewables finance lead."}
+  ],
+  "cover_letter": {
+    "greeting": "Dear Moelis Power, Utilities & Infrastructure Team,",
+    "paragraphs": [
+      "I am applying for the Investment Banking Analyst role on the Power, Utilities & Infrastructure team in New York. I am completing an MBA in Finance (STEM) at Fordham Gabelli after roles at JPMorgan Asset Management, Lenovo and Thomson Reuters. Your team's coverage across renewables, energy transition and digital infrastructure, and its focus on how contracted revenues, energy demand and capital investment shape these businesses, is the area of finance I have chosen to build my career in.",
+      "My closest proof is project finance in power. For Nautilus Solar I built project- and portfolio-level models for a 6-project, 35.4 MW Illinois solar portfolio, evaluating capital structure, DSCR, NPV and levered IRR under post-ITC scenarios, and recommended a phased green loan + ABS strategy that reduced sponsor equity by $11.1M and improved levered IRR from 8.58% to 9.79%. On the valuation side, I built a DCF, trading comps and an LBO for J.M. Smucker, matched the DCF against a sell-side model, and analyzed packaged-food precedent transactions in Capital IQ.",
+      "Those are the models, valuation analyses and asset-level operating assumptions your analysts turn into client presentations. At JPMorgan Asset Management I also performed due diligence and peer benchmarking and prepared executive-level presentations for senior leadership, so I am used to turning analysis into a clear recommendation under deadline. I would welcome the chance to discuss how I can support the team's M&A and financing work."
+    ]
+  }
+}
