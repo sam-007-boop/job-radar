@@ -1,0 +1,25 @@
+{"company": "Stripe", "role": "Startup Products Strategy & Operations, Insights & Analytics", "variant": "data-analytics",
+ "job_url": "https://stripe.com/jobs/search?gh_jid=8234710",
+ "edits": [
+  {"old": "Developed cross-platform campaign analytics frameworks to track KPIs, achieving 135% increase in engagements while reducing media spend by up to 83% maintaining a 0.47% CTR",
+   "new": "Built cross-platform analytics frameworks and KPI metrics, driving a 135% increase in engagements while cutting media spend by up to 83% at a 0.47% CTR",
+   "why": "Posting asks you to own high-signal metrics; leads with the metric framework itself."},
+  {"old": "Synthesized large datasets into executive-level reporting and dashboards, translating complex data into actionable insights for senior leadership on capital allocation and strategic planning",
+   "new": "Synthesized large datasets into executive-level dashboards and clear narratives, translating complex data into actionable recommendations for senior leadership on strategy",
+   "why": "Posting stresses turning data into clear internal narratives and recommendations."},
+  {"old": "Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "new": "Designed and deployed AI-powered dashboards tracking real-time product and usage metrics, automating reporting and saving 4+ hours/week",
+   "why": "Posting asks for a streamlined set of internal dashboards on user behavior, plus experience using AI tools."},
+  {"old": "Conducted variance, sensitivity, and trend analyses on budget reallocation strategies, translating findings into clear stakeholder recommendations across cross-functional teams",
+   "new": "Led variance, sensitivity and trend deep dives on budget reallocation, diagnosing drivers and turning findings into clear cross-functional recommendations",
+   "why": "Posting asks to identify trends and anomalies, diagnose drivers, and lead analytical deep dives."},
+  {"old": "Technical: Excel, Tableau, Salesforce, Datorama, Python, SQL, CRM Systems, ETL Processes, SAP, PowerPoint, CRM, Financial Modeling, JIRA, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Technical: SQL, Python, Tableau, Excel, ETL Processes, Data Presentation, Market Analysis, Financial Modeling, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM, JIRA, Due Diligence, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "why": "Same skills, reordered so the analytics stack (SQL, Python, Tableau) comes first."}
+ ],
+ "cover_letter": {"greeting": "Dear Stripe Startup Products Team,",
+  "paragraphs": [
+   "I am applying for the Strategy & Operations, Insights & Analytics role on Stripe's Startup Products team. I am completing an MBA (STEM) at Fordham Gabelli after analytics and finance roles at JPMorgan Asset Management, Lenovo and Thomson Reuters. Atlas sits at the moment a founder decides to start a company, and the chance to explain how startups are being built on Stripe, both to the team and to the market, is the kind of analytics work I want to do.",
+   "Two pieces of my experience map closely to this role. At JPMorgan Asset Management I built cross-platform analytics frameworks and KPI metrics that drove a 135% increase in engagements while cutting media spend by up to 83%, and I synthesized large datasets into executive-level dashboards and narratives for senior leadership. At Lenovo I designed and deployed AI-powered dashboards that automated reporting and saved 4+ hours a week, and defined segmentation strategies that improved campaign ROI by 20%.",
+   "That combination of owning metrics, running deep dives that explain what changed and why, and packaging the answer clearly for stakeholders is what your team describes. I would bring the same rigor to understanding founders and shaping Startup Products priorities, and I would welcome the chance to discuss how I can contribute."
+  ]}}
