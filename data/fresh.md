@@ -1,20 +1,5 @@
-# Fresh roles — 2026-11-02 10:58 ET
+# Fresh roles — 2026-11-02 11:08 ET
 
-16 new finance roles posted today or yesterday.
+1 new finance roles posted today or yesterday.
 
-- **ElevenLabs** — [Partnerships - Private Equity](https://jobs.ashbyhq.com/elevenlabs/f1427164-3037-47d1-a768-11cfb87953ae) · New York · posted 2026-11-01 · AI x finance
-- **Dentsu** — [Associate Digital Manager](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Associate-Digital-Manager_R1132823) · Ho Chi Minh City · posted 2026-11-02 · Analytics
-- **Dentsu** — [Digital Intern](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/HoChiMinhCity/Digital-Intern_R1131799) · Ho Chi Minh City · posted 2026-11-02 · Analytics
-- **Instacart** — [Senior Corporate Finance Manager](https://instacart.careers/job/?gh_jid=8337522) · United States - Remote · posted 2026-11-02 · Analytics
-- **LSEG** — [Credit Controller - AMERS](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Credit-Controller---AMERS_R0124685) · PHL-Taguig City-CitiPlaza · posted 2026-11-02 · Analytics
-- **LSEG** — [Operational Resilience and BCM Analyst](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Operational-Resilience-and-BCM-Analyst_R0123458) · IND-BLR-Divyasree Technopolis · posted 2026-11-02 · Analytics
-- **LSEG** — [Senior Associate, Post Trade Solutions, Business Operations](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Senior-Associate--Business-Operations--PTS_R0121702-1) · PHL-Taguig City-CitiPlaza · posted 2026-11-02 · Analytics
-- **LSEG** — [Intern, Financial Control](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Intern--Financial-Control_R0124216) · Colombo, Sri Lanka · posted 2026-11-02 · Analytics
-- **Microsoft** — [Business Program Manager, Global Intern Experience & Innovation](https://apply.careers.microsoft.com/careers/job/1970393557043712) · United States, Washington, Redmond · posted 2026-11-02 · Analytics
-- **Houlihan Lokey (campus)** — [2028 Investment Banking Summer Financial Analyst (Class of 2029) – NY M&A](https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2028-Investment-Banking-Summer-Financial-Analyst--Class-of-2029----NY-M-A_R3721-1) · New York, NY, USA · posted 2026-11-02 · IB
-- **Houlihan Lokey (campus)** — [2028 Investment Banking Summer Financial Analyst (Class of 2029) – Boston/New York Digital Infrastructure](https://hl.wd1.myworkdayjobs.com/Campus/job/Boston-MA-USA/XMLNAME-2028-Investment-Banking-Summer-Financial-Analyst--Class-of-2029----Boston-New-York-Digital-Infrastructure_R3722-1) · Boston MA USA · posted 2026-11-02 · IB
-- **Houlihan Lokey (campus)** — [2028 Investment Banking Summer Financial Analyst (Class of 2029) – Chicago Industrials](https://hl.wd1.myworkdayjobs.com/Campus/job/Chicago-IL-USA/XMLNAME-2028-Investment-Banking-Summer-Financial-Analyst--Class-of-2029----Chicago-Industrials_R3728-1) · Chicago, IL, USA · posted 2026-11-02 · IB
-- **Houlihan Lokey (campus)** — [2028 Investment Banking Summer Financial Analyst (Class of 2029) – Chicago Financial Services](https://hl.wd1.myworkdayjobs.com/Campus/job/Chicago-IL-USA/XMLNAME-2028-Investment-Banking-Summer-Financial-Analyst--Class-of-2029----Chicago-Financial-Services_R3730-1) · Chicago, IL, USA · posted 2026-11-02 · IB
-- **Houlihan Lokey (campus)** — [2028 Investment Banking Summer Financial Analyst (Class of 2029) – Chicago Healthcare](https://hl.wd1.myworkdayjobs.com/Campus/job/Chicago-IL-USA/XMLNAME-2028-Investment-Banking-Summer-Financial-Analyst--Class-of-2029----Chicago-Healthcare_R3726-1) · Chicago, IL, USA · posted 2026-11-02 · IB
-- **Houlihan Lokey (campus)** — [2028 Investment Banking Summer Financial Analyst (Class of 2029) – Chicago Consumer](https://hl.wd1.myworkdayjobs.com/Campus/job/Chicago-IL-USA/XMLNAME-2028-Investment-Banking-Summer-Financial-Analyst--Class-of-2029----Chicago-Consumer_R3724-1) · Chicago, IL, USA · posted 2026-11-02 · IB
-- **Mount Sinai** — [Financial Manager II - Dean's Office - ISM](https://careers.mountsinai.org/jobs/3043714) · New York, NY, US · posted 2026-11-01 · University (cap-exempt)
+- **(see posting)** — [Associate, Strategy & Corporate Development](https://www.builtinnyc.com/job/associate-strategy-corporate-development/12005877) ·  · posted 2026-11-02 · Mixed · via Built In NYC
