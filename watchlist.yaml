@@ -100,7 +100,7 @@ feeds:
   - {name: WeWorkRemotely, track: Mixed, rss: "https://weworkremotely.com/remote-jobs.rss"}
   # Employer APIs
   - {name: Amazon, track: Analytics, amazon: "finance;financial analyst;corporate development;FP&A"}
-  - {name: Microsoft, track: Analytics, microsoft: "finance;financial analyst"}
+  - {name: Microsoft, track: Analytics, microsoft: "finance"}
   - {name: Publicis Groupe, track: Analytics, jsonapi: "https://careers.publicisgroupe.com/api/jobs?keywords={kw}|finance;financial analyst"}
   # Greenhouse tenants from the list (finance / strategy / analytics roles only get through the filter)
   - {name: AlphaSights, track: Analytics, greenhouse: alphasights}

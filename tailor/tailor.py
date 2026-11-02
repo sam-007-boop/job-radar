@@ -64,6 +64,27 @@ def _has(n, h, cs=False):
     return re.search(r"(?<!\w)" + re.escape(n) + r"(?!\w)", h, 0 if cs else re.I)
 
 
+# Sam's accuracy guardrails (from his Interviews project instructions). New text that trips one of these stops the run.
+GUARDRAILS = [
+    (r"investment memo", "JPMorgan work was marketing-channel budget allocation; don't upgrade 'briefs' to investment memos"),
+    (r"\bsecurities\b", "no securities investing experience"),
+    (r"\b(closed|executed|sourced|led|worked on|supported)\b[^.]{0,40}\b(deals?|transactions?|acquisitions?)\b",
+     "no live deal / transaction experience; frame modeling as coursework/project work"),
+    (r"\b(deal|transaction|buy-side|sell-side|M&A) (diligence|due diligence)\b", "diligence at JPM/TR was not deal diligence"),
+    (r"capital allocation at JPMorgan|investing at JPMorgan|investment (role|team) at JPMorgan",
+     "JPMorgan role was marketing-channel budget allocation"),
+    (r"\bfound(ed|er|ing)\b[^.]{0,40}\blabel\b", "negotiated and managed a sponsorship deal; did not found a record label"),
+    (r"1,?000\+", "research paper sample was about 466 (convenience sample)"),
+    (r"\b(coded|programmed|built|developed) (the )?(bots?|automation|RPA)\b", "Lenovo automation: owned mapping and QA, not the build"),
+    (r"de anda", "Sam did not work at De Anda"),
+    (r"\u2014", "no em dashes (Sam's writing rule); use a comma, period or parentheses"),
+]
+
+
+def guardrail_check(text: str) -> list[str]:
+    return sorted({f'"{m.group(0)}": {why}' for pat, why in GUARDRAILS for m in [re.search(pat, text, re.I)] if m})
+
+
 def claims_gate(text: str, company: str) -> list[str]:
     base_nums = {_canon(m.group(0)) for m in NUM.finditer(FACTS)}
     bad = []
@@ -260,7 +281,7 @@ def main():
 
     # 1. claims gate on everything new
     new_text = "\n".join(e["new"] for e in plan["edits"]) + "\n" + "\n".join(plan["cover_letter"]["paragraphs"])
-    problems = claims_gate(new_text, company)
+    problems = claims_gate(new_text, company) + guardrail_check(new_text)
     if problems:
         print("CLAIMS GATE FAILED. Nothing was generated. Remove or fix:\n  - " + "\n  - ".join(problems))
         sys.exit(2)
