@@ -1,0 +1,52 @@
+Citi — Senior Data Test Analyst
+https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Senior-Data-Test-Analyst_261003207
+
+The IT Quality Sr Analyst is a seasoned professional role. Applies in-depth disciplinary knowledge, contributing to the development of new techniques and the improvement of processes and work-flow for the area or function. Integrates subject matter and industry expertise within a defined area. Requires in-depth understanding of how areas collectively integrate within the sub-function as well as coordinate and contribute to the objectives of the function and overall business. Evaluates moderately complex and variable issues with substantial potential impact, where development of an approach/taking of an action involves weighing various alternatives and balancing potentially conflicting situations using multiple sources of information. Requires good analytical skills in order to filter, prioritize and validate potentially complex and dynamic material from multiple sources. Strong communication and diplomacy skills are required. Regularly assumes informal/formal leadership role within teams. Involved in coaching and training of new recruits Significant impact in terms of project size, geography, etc. by influencing decisions through advice, counsel and/or facilitating services to others in area of specialization. Work and performance of all teams in the area are directly affected by the performance of the individual.
+
+ Responsibilities: 
+ - This is a hands-on engineering role for someone who brings a rare blend of financial domain expertise , modern data engineering proficiency , AI-augmented testing capability , and a genuine engineering mindset — not just a test execution background.
+- You will be embedded in a high-velocity, high-stakes data program spanning Wealth . You will own quality across complex data pipelines end-to-end — from ingestion through transformation to consumption.
+- Responsible for initiatives related to User Acceptance Testing (UAT) process and product rollout into production, making recommendations of solutions and improvements. Responsibilities may also include software quality assurance testing.
+- Conducts complex process monitoring, product evaluation and audit assignments; reports issues and makes recommendations for solutions.
+- Ensures project standards and procedures exist, are fully / clearly documented and followed throughout the software development life cycle; makes recommendations for enhanced documentation.
+- Monitors products for conformance to standards; monitors processes for conformance to procedures; identifies risks and recommends solutions; ensures annual organizational reviews of standards and procedures are conducted.
+- Documents findings and performs root cause analyses to provide recommended improvements. Independently recommends solutions and improvements to existing standards and procedures; collaborates with other areas in technology to develop new standards and procedures.
+- Ensures all corrective actions are assigned, documented and completed. Verifies traceability in project work products. Gathers, maintains and creates reports on quality metrics.
+- Exhibits sound understanding of concepts and principles in own technical area and a basic knowledge of these elements in other areas.
+- Requires in-depth understanding of how own area integrates within IT Quality and has basic commercial awareness.
+- Acts as advisor and mentor for junior members of the team.
+- Makes evaluative judgments based on analysis of factual information in complicated and novel situations and provides solutions to problems.
+- Has direct impact on the team and closely related teams by ensuring the quality of the tasks/services/information provided by self and others.
+- Requires sound and comprehensive communication and diplomacy skills to exchange complex information.
+- Performs other duties and functions as assigned.
+- Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+
+ Recommended Qualifications: 
+ - 10-12 years experience in an IT Quality role.
+- Champion and implement AI/ML-assisted testing techniques — anomaly detection on data outputs, intelligent test case generation, self-healing test scripts, and predictive defect analysis
+- Design, build, and maintain automated validation frameworks using Python / PySpark for large-scale data pipelines on cloud and on-premise environments.
+- Familiarity with Databricks, Snowflake. 
+- Demonstrated execution capabilities.
+- Development experience in a fast-paced, time-to-market driven environment Experience with test automation, test scenario and test scripts creation and modification Comfortable with writing complex queries Experience with reporting tools. Hands on experience with testing automation tools.
+- Strong expertise in Python/PySpark, Hadoop/ETF framework. 
+- Should also possess strong domain knowledge of the Wealth systems and data architecture to align with the consumption layer pipeline.
+
+ Education: 
+ - Bachelor’s/University degree or equivalent experience
+
+ ------------------------------------------------------ 
+ Job Family Group: 
+Technology ------------------------------------------------------ 
+ Job Family: 
+Technology Quality ------------------------------------------------------ 
+ Time Type: 
+Full time ------------------------------------------------------ 
+ Most Relevant Skills 
+Please see the requirements listed above. ------------------------------------------------------
+ Other Relevant Skills 
+For complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------
+ Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. 
+
+ If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . 
+
+ View Citi’s EEO Policy Statement and the Know Your Rights poster.

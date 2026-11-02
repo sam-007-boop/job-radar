@@ -1,0 +1,69 @@
+Citi — Control Testing Automation Development- Senior Analyst
+https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Control-Testing-Automation-Development--Senior-Analyst_26998011
+
+About CITI 
+ Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress. We have 200+ years of experience helping our clients meet the world's toughest challenges and embrace its greatest opportunities.
+
+ About AIM: 
+ Analytics and Information Management (AIM) is a global community that is driving data driven transformation across Citi in multiple functions with the objective to create actionable intelligence for our business leaders. We are a fast-growing organization working with Citi businesses and functions across the world.
+
+   What do we do: 
+               We simplify, streamline, and automate controls—strengthening our ability to prevent issues.
+ Control Testing Automation Team automates manual testing through data driven capabilities using industry standard tools & techniques in collaboration with Business, Internal Audit, Internal Citi Risk and Control and Technology.
+ Through automation we identify control, testing gaps and provide the evidence to Business/Risk teams to mitigate any type of risk like Regulatory/AML/KYC/Sanctions/Anti Bribery/Sales Practice/Reputational/Fraud and Theft.
+
+ Expertise Required: 
+
+ Analytical Skills 
+ - Intermediate knowledge in Data analysis & Data patterns
+ - Skillful in transforming data sets and performing quantitative & qualitative analysis
+ - Knowledge on data manipulation and problem solving to effectively work with large datasets and drive actionable conclusions.
+
+ Tools and Platforms       
+ - Hands-on experience in SAS, SQL and Shell script
+ - Hands-on experience in Python
+ - Knowledge on schedulers (Autosys/LSF)
+ - Proficient in MS Excel, PowerPoint, and VBA
+ - Familiarity with any version control tool, preferably Bitbucket
+ - undefined
+ - undefined
+ Nice to have – Experience one of the below technologies.
+ - SAS on Mainframe
+ - Python Knowledge in web scraping
+ - Workflow management tools like Jira, Confluence etc.
+
+ Domain Skills 
+ Good understanding of
+ - Banking Products (Wealth, Cards, Deposit, Loans & Insurance etc.)
+
+ Functional Skills 
+ Nice to have - Knowledge of Finance Regulations, Understanding of Audit Process
+
+ Soft Skills 
+ - Should have good communication and inter-personal skills.
+ - Mentoring junior members in the team
+ - Ability to thrive in a dynamic and fast-paced environment.
+ - Contribute to organizational initiatives in wide ranging areas including competency development, training, organizational building activities etc.
+ - Proactive approach in solving problems and eye for details.
+ - A strong team player
+
+ Basic Qualifications 
+ - Master’s degree in information technology / Information Systems / Computer Applications / Engineering from a premier institute. BTech/B. E/MCA in Information Technology / Information Systems / Computer Applications.
+ - (Preferred) Postgraduate in – Masters in computers
+ ·       5 - 8 years of hands-on experience in Development/Production Support – identifying production failures and fixing issues towards resolution involving codes in SAS, Python & SQL environment
+ ------------------------------------------------------ 
+ Job Family Group: 
+Decision Management ------------------------------------------------------ 
+ Job Family: 
+Data/Information Management ------------------------------------------------------ 
+ Time Type: 
+Full time ------------------------------------------------------ 
+ Most Relevant Skills 
+Please see the requirements listed above. ------------------------------------------------------
+ Other Relevant Skills 
+For complementary skills, please see above and/or contact the recruiter. ------------------------------------------------------
+ Citi is an equal opportunity employer, and qualified candidates will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other characteristic protected by law. 
+
+ If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi . 
+
+ View Citi’s EEO Policy Statement and the Know Your Rights poster.

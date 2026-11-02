@@ -1,0 +1,6 @@
+Simple Analytics — https://www.simpleanalytics.com/jobs/devops
+https://news.ycombinator.com/item?id=50338732
+
+Simple Analytics | DevOps Engineer | REMOTE (worldwide, any timezone) | Full-time, 32h, 24h possible | €5,000/month (full-time) | https://www.simpleanalytics.com/jobs/devops Hi HN, I'm Adriaan. Simple Analytics exists thanks to HN: it started with my Show HN in 2018 [1]. Today we're a self-funded, profitable team of four building privacy-first analytics. Privacy is why we run our own bare-metal servers instead of the cloud. We're preparing for a LOT more traffic, and you'll own the infrastructure and its reliability. We have good documentation. First project: leading the infra side of our Elasticsearch to ClickHouse migration, with Alex, our developer. Stack: Ansible, OpenTofu, Docker Compose, Grafana, GitHub Actions, TypeScript. Clear async communication matters more than knowing every tool. You can apply from your terminal: curl https://www.simpleanalytics.com/jobs/devops.md
+
+[1] https://news.ycombinator.com/item?id=18024277
