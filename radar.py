@@ -30,29 +30,49 @@ BROWSER = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
            "Accept-Language": "en-US,en;q=0.9"}
 TIMEOUT = 25
 
+# A title must name a finance area. Generic words ("Analyst", "Associate", "Consultant", "Intern") never pass on their own.
 INCLUDE = re.compile(
-    r"financ|fp&a|fp & a|capital|corporate development|corp dev|strateg|invest|associate|analyst|"
-    r"m&a|mergers|treasury|valuation|private equity|credit|infrastructure|portfolio|"
-    r"analytics|data analyst|bizops|business operations|mba|intern|summer|off-cycle|rotational|"
-    r"project finance|tax equity|structured finance|sustainab|\besg\b|impact|climate|energy transition|"
-    r"power markets|budget|endowment|consultant|consulting|advisory",
+    r"financ|fp&a|fp & a|capital markets|capital solutions|corporate development|corp dev|strateg|invest|"
+    r"m&a|mergers|acquisitions|treasury|valuation|private equity|private credit|credit (analyst|research|risk)|"
+    r"leveraged|restructuring|underwriting|equity research|portfolio (finance|management|analyst|associate)|"
+    r"infrastructure (invest|finance|equity|debt|fund|banking|group)|digital infrastructure|"
+    r"project finance|tax equity|structured finance|sustainab|\besg\b|impact invest|climate (finance|invest)|"
+    r"energy transition|power markets|budget|endowment|banking|summer associate|\bmba\b|"
+    r"analytics|data analyst|bizops|business operations|economist|pricing",
     re.I)
 EXCLUDE = re.compile(
     r"engineer|engineering|technician|software|developer|sales|account executive|account manager|"
     r"recruit|legal|counsel|paralegal|attorney|nurse|facilit|construction|electrician|mechanical|"
     r"security officer|guard|receptionist|executive assistant|administrative|\bhr\b|human resources|"
-    r"vice president|\bvp\b|managing director|\bhead of|\bprincipal\b|\bpartner\b|chief|"
+    r"vice president|\bvp\b|managing director|\bhead of|\bprincipal\b|\bpartner\b|partnerships|chief|"
     r"senior manager|\bdirector\b|scientist|designer|marketing|content|procurement|sourcing|security|cyber|"
     r"network|hse\b|safety|product operations|business development|customer|support|"
-    r"\bavp\b|lead\b|clinical|warehouse|logistics|\bit\b",
+    r"\bavp\b|lead\b|clinical|warehouse|logistics|\bit\b|"
+    r"banker|teller|branch|processing|dispute|loan (iq|documentation|servicing|closing)|collections|"
+    r"\bkyc\b|\baml\b|fraud|accounts payable|accounts receivable|billing|payroll|bookkeep|"
+    r"\btest|\bqa\b|quality|media|geolog|air quality|permitting|social consultant|"
+    r"events?\b|private client|financial advisor|wealth advisor|project manager|program manager",
     re.I)
+US_STATES = ("alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|idaho|"
+             "illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|minnesota|"
+             "mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|new york|"
+             "north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode island|south carolina|"
+             "south dakota|tennessee|texas|utah|vermont|virginia|washington|west virginia|wisconsin|wyoming|"
+             "district of columbia")
+US_LOC = re.compile(
+    r"united states|\busa?\b|\bu\.s\.|remote|nyc|new york|manhattan|brooklyn|jersey city|hoboken|"
+    r"san francisco|bay area|seattle|boston|chicago|austin|houston|dallas|denver|atlanta|los angeles|miami|"
+    r"charlotte|philadelphia|pittsburgh|washington|arlington|stamford|greenwich|"
+    r"(,|\s)\s*(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|"
+    r"NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)\b|" + US_STATES)
 NON_US = re.compile(
     r"london|united kingdom|\buk\b|singapore|india|bangalore|bengaluru|mumbai|hyderabad|toronto|canada|"
     r"seoul|korea|tokyo|japan|sydney|melbourne|australia|hong kong|paris|france|frankfurt|germany|"
     r"dublin|ireland|amsterdam|netherlands|luxembourg|madrid|spain|milan|italy|stockholm|zurich|"
     r"switzerland|dubai|abu dhabi|riyadh|são paulo|sao paulo|brazil|mexico|bogota|colombia|"
-    r"gurugram|gurgaon|noida|pune|chennai|telangana|haryana|calgary|ontario|"
-    r"warsaw|poland|tel aviv|israel|shanghai|beijing|china|manila|philippines|johannesburg|emea|apac",
+    r"gurugram|gurgaon|noida|pune|chennai|telangana|haryana|calgary|ontario|cybercity|"
+    r"warsaw|poland|tel aviv|israel|shanghai|beijing|china|manila|philippines|johannesburg|emea|apac|"
+    r"bangkok|thailand|gabon|jordan|kenya|nigeria|egypt|vietnam|malaysia|indonesia|taiwan|peru|chile|argentina",
     re.I)
 
 
@@ -76,11 +96,13 @@ def title_ok(title: str) -> bool:
 
 
 def location_ok(loc: str) -> bool:
-    if not loc:
+    """US only. Empty location passes (some boards don't give one); otherwise it must look American."""
+    loc = (loc or "").strip()
+    if not loc or loc.lower() in ("remote", "remote · ", "remote ·"):
         return True
-    if re.search(r"united states|\busa\b|\bus\b|remote|new york|nyc", loc, re.I):
-        return True
-    return not NON_US.search(loc)
+    if NON_US.search(loc) and not re.search(r"united states|\busa\b", loc, re.I):
+        return False
+    return bool(US_LOC.search(loc)) or bool(re.search(US_STATES, loc, re.I))
 
 
 def parse_iso(s):
