@@ -60,11 +60,11 @@ US_STATES = ("alabama|alaska|arizona|arkansas|california|colorado|connecticut|de
              "south dakota|tennessee|texas|utah|vermont|virginia|washington|west virginia|wisconsin|wyoming|"
              "district of columbia")
 US_LOC = re.compile(
-    r"united states|\busa?\b|\bu\.s\.|remote|nyc|new york|manhattan|brooklyn|jersey city|hoboken|"
+    r"(?i:united states|\busa?\b|\bu\.s\.|remote|nyc|new york|manhattan|brooklyn|jersey city|hoboken|"
     r"san francisco|bay area|seattle|boston|chicago|austin|houston|dallas|denver|atlanta|los angeles|miami|"
-    r"charlotte|philadelphia|pittsburgh|washington|arlington|stamford|greenwich|"
+    r"charlotte|philadelphia|pittsburgh|washington|arlington|stamford|greenwich)|"
     r"(,|\s)\s*(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|"
-    r"NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)\b|" + US_STATES)
+    r"NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)\b|(?i:" + US_STATES + ")")
 NON_US = re.compile(
     r"london|united kingdom|\buk\b|singapore|india|bangalore|bengaluru|mumbai|hyderabad|toronto|canada|"
     r"seoul|korea|tokyo|japan|sydney|melbourne|australia|hong kong|paris|france|frankfurt|germany|"
