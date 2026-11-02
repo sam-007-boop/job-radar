@@ -1,0 +1,46 @@
+{
+ "company": "Guidehouse",
+ "role": "Financial Services Advisory Consultant - Banking, Insurance & Capital Markets",
+ "variant": "finance-core",
+ "job_url": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---NY-New-York/Financial-Services-Advisory-Consultant---Banking--Insurance---Capital-Markets_46271",
+ "edits": [
+  {
+   "old": "Analyzed underperforming initiatives to reallocate funding toward higher-yield opportunities, improving overall capital productivity and driving a 1.5x increase in performance metrics",
+   "new": "Analyzed underperforming initiatives and built the case to reallocate funding toward higher-yield opportunities, driving a 1.5x increase in performance metrics",
+   "why": "Posting asks for business cases and practical recommendations."
+  },
+  {
+   "old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+   "new": "Conducted variance and sensitivity analyses on budget reallocation strategies, turning findings into clear recommendations for cross-functional stakeholders",
+   "why": "Posting asks to translate findings into actionable recommendations for stakeholders."
+  },
+  {
+   "old": "Prepared executive-level investment briefs integrating financial analysis, sector trends, and performance data to support senior leadership in capital allocation and strategic planning",
+   "new": "Prepared executive-level investment briefs integrating financial analysis, sector trends, and performance data to give senior leadership clear recommendations",
+   "why": "Posting stresses presentations to client leadership."
+  },
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Market Analysis, Financial Analysis & Research, Understanding of Financial Products, Data Presentation, Due Diligence, Financial Modeling, Investment Research, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "why": "Same skills, reordered toward advisory work."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Guidehouse Financial Services Advisory Team,",
+  "paragraphs": [
+   "I am applying for the Financial Services Advisory Consultant role in New York. I am completing an MBA in Finance (STEM) at Fordham Gabelli, after working at JPMorgan Asset Management, Lenovo and Thomson Reuters. I am interested in Guidehouse because this practice works across banking, insurance and capital markets, and the job is to turn hard business problems into recommendations clients can act on.",
+   "Two parts of my background fit that. As a Consultant at JPMorgan Asset Management I worked on budget and capital allocation across marketing channels, and I analyzed underperforming initiatives and made the case to move funding toward higher-yield ones, which drove a 1.5x increase in performance metrics. At Lenovo I ran variance and sensitivity analyses and scenario models that improved capital efficiency by 15%, and I turned the findings into recommendations for cross-functional stakeholders.",
+   "I would bring that mix of analysis and stakeholder work to your client teams, from building business cases to preparing leadership presentations. My background is in finance and analytics more than regulatory compliance, and I am ready to learn that side from your team. I would welcome the chance to talk about where I can help."
+  ]
+ }
+}

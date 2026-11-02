@@ -1,0 +1,41 @@
+{
+ "company": "Stifel",
+ "role": "Private Equity Due Diligence Specialist",
+ "variant": "finance-core",
+ "job_url": "https://join.stifel.com/jobs/9670?lang=en-us",
+ "edits": [
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Reviewed historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "This is a PE diligence role, so the line must say plainly that this was marketing budget work and not investment diligence."
+  },
+  {
+   "old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+   "new": "Conducted variance and sensitivity analyses on budget reallocation, monitoring results to optimize resource deployment and strengthen financial planning",
+   "why": "Posting includes monitoring and reporting; same analysis, closer wording."
+  },
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Due Diligence, Investment Research, Financial Modeling, Financial Analysis & Research, Market Analysis, Understanding of Financial Products, Corporate Finance, Data Presentation, Bloomberg, S&P Capital IQ",
+   "why": "Same skills, reordered so diligence and research lead."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Stifel Hiring Team,",
+  "paragraphs": [
+   "I am applying for the Private Equity Due Diligence Specialist role in New York. I am completing an MBA in Finance (STEM) at Fordham Gabelli, after working at JPMorgan Asset Management, Lenovo and Thomson Reuters. This role interests me because it combines quantitative and qualitative diligence with explaining private equity investments clearly to Financial Advisors and clients.",
+   "My investment analysis so far comes from my MBA. For a class project I valued J.M. Smucker with comps, built a DCF checked against a sell-side model, and built an LBO model using Capital IQ. My work experience adds the analytical base. At JPMorgan Asset Management I worked on budget and capital allocation across marketing channels and found 30% efficiency gains by benchmarking past allocations, and I prepared executive-level briefs for senior leadership. At Lenovo I built scenario models that improved capital efficiency by 15%.",
+   "I know private equity from coursework rather than from a job, and I do not want to overstate that. What I would bring is careful modeling, clear writing for senior readers, and steady follow-through on monitoring and documentation. I would welcome the chance to talk about how I can support your senior investment professionals."
+  ]
+ }
+}

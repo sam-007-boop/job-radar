@@ -1,0 +1,46 @@
+{
+ "company": "TD Securities",
+ "role": "Associate, Structured Trade & Export Finance, Global Transaction Banking",
+ "variant": "finance-core",
+ "job_url": "https://www.linkedin.com/jobs/view/4486402626/",
+ "edits": [
+  {
+   "old": "Analyzed financial statements and disclosures to assess performance and earnings quality across firms and peers",
+   "new": "Analyzed corporate financial statements and disclosures to assess performance and earnings quality across peers",
+   "why": "Posting asks for familiarity with financial statements; leads with corporate statements, the same coursework."
+  },
+  {
+   "old": "Performed ratio and accounting analysis using firm and industry-level metrics to support investment decision-making",
+   "new": "Performed ratio and accounting analysis using firm and industry-level metrics to assess profitability and cash flow",
+   "why": "Corporate credit analysis is a stated need; points the same ratio work at profitability and cash flow without claiming credit experience."
+  },
+  {
+   "old": "Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions",
+   "new": "Created data-driven pitch materials and AI powered dashboards integrating financial projections and predictive metrics to support funding decisions",
+   "why": "Role supports originators on pitch decks; keeps pitch materials and funding decisions up front."
+  },
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Financial Analysis & Research, Financial Modeling, Data Presentation, Understanding of Financial Products, Market Analysis, Due Diligence, Corporate Finance, Investment Research, Bloomberg, S&P Capital IQ",
+   "why": "Same skills, reordered so analysis, modeling and presentation come first."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear TD Securities Global Transaction Banking Team,",
+  "paragraphs": [
+   "I am applying for the Associate, Structured Trade & Export Finance role in New York. I am completing an MBA in Finance (STEM) at Fordham Gabelli, after working at JPMorgan Asset Management, Lenovo and Thomson Reuters. What draws me to this team is that the Associate works directly with the senior trade finance originators, so the work stays close to clients and to how companies actually fund their trade flows.",
+   "Two parts of my background fit that work. At Thomson Reuters I managed cash flow analysis covering 80%+ of total inflows and worked with finance teams on monthly P&L forecasting and close for the ANZ region, which taught me how working capital moves through a business. At Lenovo I built forecasts and scenario models on capital allocation that improved capital efficiency by 15%, and I created pitch materials for funding decisions. At Fordham I have added financial statement analysis and valuation coursework, including a DCF and LBO model on J.M. Smucker.",
+   "I would bring that analytical base and careful presentation work to the pitch decks, financial statement analysis and reporting your team relies on. Trade finance itself is new to me, and I want to learn it from your originators. I would welcome the chance to talk about how I can help."
+  ]
+ }
+}
