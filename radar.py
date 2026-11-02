@@ -33,7 +33,9 @@ TIMEOUT = 25
 INCLUDE = re.compile(
     r"financ|fp&a|fp & a|capital|corporate development|corp dev|strateg|invest|associate|analyst|"
     r"m&a|mergers|treasury|valuation|private equity|credit|infrastructure|portfolio|"
-    r"analytics|data analyst|bizops|business operations|mba|intern|summer|off-cycle|rotational",
+    r"analytics|data analyst|bizops|business operations|mba|intern|summer|off-cycle|rotational|"
+    r"project finance|tax equity|structured finance|sustainab|\besg\b|impact|climate|energy transition|"
+    r"power markets|budget|endowment|consultant|consulting|advisory",
     re.I)
 EXCLUDE = re.compile(
     r"engineer|engineering|technician|software|developer|sales|account executive|account manager|"

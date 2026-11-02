@@ -65,12 +65,7 @@ probe:
   - {name: Moelis (campus),  track: IB, try: ["workday:moelis|wd1|Campus", "workday:moelis|wd1|Students", "workday:moelis|wd1|Campus-Recruiting"]}
 
   # Listed in both Greenhouse and Ashby in the source file; first one that answers wins
-  - {name: Hex, track: Analytics, try: ["ashby:hex", "greenhouse:hex"]}
-  - {name: Notion, track: Analytics, try: ["ashby:notion", "greenhouse:notionhq", "lever:notion"]}
-  - {name: Mistral AI, track: AI x finance, try: ["lever:mistral", "ashby:mistralai", "greenhouse:mistralai"]}
   - {name: Princeton University, track: University (cap-exempt), first_seen: true, try: ["links:https://main-princeton.icims.com/jobs/search?ss=1&searchKeyword=finance", "links:https://main-princeton.icims.com/jobs/intro"]}
-  - {name: EliseAI, track: AI x finance, try: ["ashby:eliseai", "greenhouse:eliseai"]}
-  - {name: Spot & Tango, track: Analytics, try: ["greenhouse:spotandtango", "ashby:spotandtango"]}
   # Plain HTML university boards: may be script-rendered; the report says whether each one resolved
   - {name: Fordham University, track: University (cap-exempt), first_seen: true, try: ["links:https://careers.fordham.edu/postings/search"]}
   - {name: Weill Cornell Medicine, track: University (cap-exempt), first_seen: true, try: ["links:https://jobs.weill.cornell.edu/jobs/search?q=finance"]}
@@ -80,88 +75,124 @@ probe:
   - {name: Rowan University, track: University (cap-exempt), first_seen: true, try: ["links:https://jobs.rowan.edu/postings/search"]}
   - {name: Sacred Heart University, track: University (cap-exempt), first_seen: true, try: ["links:https://jobs.shu.edu/postings/search"]}
   - {name: UIDP job board, track: University (cap-exempt), first_seen: true, aggregator: true, try: ["links:https://uidp.careerwebsite.com/jobs/"]}
-  - {name: SaaShr small employer, track: Mixed, first_seen: true, try: ["links:https://secure4.saashr.com/ta/6169792.careers?CareersSearch"]}
+
+  # --- guesses for target firms (2026-11-02); the source report shows which resolve ---
+  - {name: JPMorgan Chase, track: IB, try: ["oracle:jpmc.fa.oraclecloud.com|CX_1001"]}
+  - {name: SMBC, track: IB, try: ["workday:smbcgroup|wd1|SMBC_Careers", "workday:smbc|wd1|SMBC"]}
+  - {name: Nomura, track: IB, try: ["workday:nomura|wd3|Nomura_Campus", "workday:nomura|wd3|Nomura"]}
+  - {name: BNP Paribas, track: IB, try: ["workday:bnpparibas|wd3|BNPP_Careers"]}
+  - {name: Generate Capital, track: PE / infra, try: ["greenhouse:generatecapital", "lever:generatecapital", "ashby:generatecapital"]}
+  - {name: Summit Ridge Energy, track: PE / infra, try: ["greenhouse:summitridgeenergy", "lever:summitridgeenergy", "ashby:summitridgeenergy"]}
+  - {name: Nautilus Solar Energy, track: PE / infra, try: ["greenhouse:nautilussolar", "lever:nautilussolar", "ashby:nautilussolar"]}
+  - {name: Crux (climate finance), track: PE / infra, try: ["ashby:crux", "ashby:cruxclimate", "greenhouse:crux"]}
+  - {name: Reunion (tax credits), track: PE / infra, try: ["ashby:reunion", "greenhouse:reunioninfra", "lever:reunion"]}
+  - {name: Spruce Power, track: PE / infra, try: ["greenhouse:sprucepower", "lever:sprucepower"]}
+  - {name: Arcadia, track: PE / infra, try: ["greenhouse:arcadia", "lever:arcadia", "ashby:arcadia"]}
+  - {name: Form Energy, track: PE / infra, try: ["greenhouse:formenergy", "lever:formenergy"]}
+  - {name: Sunrun, track: PE / infra, try: ["workday:sunrun|wd5|Sunrun", "greenhouse:sunrun"]}
+  - {name: ICF, track: Analytics, try: ["workday:icf|wd5|ICFExternal_Career_Site", "workday:icf|wd5|ICF"]}
+  - {name: ERM, track: Analytics, try: ["workday:erm|wd3|ERM_Careers", "workday:erm|wd3|ERM"]}
+  - {name: Hatch, track: Analytics, try: ["workday:hatch|wd3|Hatch", "workday:hatch|wd3|HatchCareers"]}
+  - {name: Climatebase (NYC finance), track: Mixed, first_seen: true, aggregator: true, try: ["links:https://climatebase.org/jobs?l=New%20York%2C%20NY%2C%20USA&categories=Finance"]}
 
 # Not readable automatically (custom career sites). These reach Sam through LinkedIn alerts instead:
 # KKR, Stonepeak, Macquarie (Avature), Evercore (Oleeo), Moody's, MSCI, Applied Digital, IREN,
 # Aligned Data Centers, Marathon Capital. Digital Realty dropped (almost no H-1B history).
 
 # ---------------------------------------------------------------------------------------------
-# Added 2026-11-02 from Sam's source list (jobs-hunter-website-sources-2026-10-30.csv).
-# Every source still goes through the same filters: finance-type title, US location, posted
-# today/yesterday. "first_seen: true" = the board shows no posting date, so a listing counts as
-# new only if it wasn't there at the previous daily run (the first run just records a baseline).
+# Retuned 2026-11-02 to Sam's targets: FP&A / senior financial analyst, IB and PE, project and
+# sustainability finance, climate and impact finance, AI/data-center finance, consulting internships;
+# analytics as the fallback. Every source still goes through the same filters (finance-type title,
+# US location, posted today/yesterday). "first_seen: true" = the board shows no posting date, so a
+# listing counts as new only if it wasn't there at the previous daily run.
 # ---------------------------------------------------------------------------------------------
 feeds:
   # Job boards
+  - {name: Built In NYC, track: Mixed, first_seen: true, aggregator: true, links: "https://www.builtinnyc.com/jobs/finance;https://www.builtinnyc.com/jobs/search?search=financial%20analyst;https://www.builtinnyc.com/jobs/search?search=fp%26a;https://www.builtinnyc.com/jobs/search?search=strategic%20finance;https://www.builtinnyc.com/jobs/search?search=project%20finance"}
   - {name: Hacker News Who's Hiring, track: Mixed, hn: current}
-  - {name: Built In NYC, track: Mixed, first_seen: true, aggregator: true, links: "https://www.builtinnyc.com/jobs/finance;https://www.builtinnyc.com/jobs/search?search=financial%20analyst;https://www.builtinnyc.com/jobs/search?search=strategic%20finance;https://www.builtinnyc.com/jobs/search?search=corporate%20development"}
-  - {name: Remotive, track: Mixed, remotive: "finance-legal;data"}
-  - {name: WeWorkRemotely, track: Mixed, rss: "https://weworkremotely.com/remote-jobs.rss"}
-  # Employer APIs
-  - {name: Amazon, track: Analytics, amazon: "finance;financial analyst;corporate development;FP&A"}
-  - {name: Microsoft, track: Analytics, microsoft: "finance"}
-  - {name: Publicis Groupe, track: Analytics, jsonapi: "https://careers.publicisgroupe.com/api/jobs?keywords={kw}|finance;financial analyst"}
-  # Greenhouse tenants from the list (finance / strategy / analytics roles only get through the filter)
+  - {name: Remotive, track: Mixed, remotive: "finance-legal"}
+
+  # Banks: IB, corporate and project finance; large NYC H-1B sponsors
+  - {name: Mizuho Americas, track: IB, workday: "mizuho|wd1|mizuhoamericas"}
+  - {name: MUFG, track: IB, workday: "mufgub|wd3|MUFG-Careers"}
+  - {name: Citi, track: IB, workday: "citi|wd5|2"}
+  - {name: CIBC (campus), track: IB, workday: "cibc|wd3|campus"}
+  - {name: Rothschild & Co, track: IB, workday: "rothschildandco|wd3|RothschildAndCo_Lateral"}
+  - {name: Piper Sandler, track: IB, workday: "pipersandler|wd501|Piper_Sandler_Careers"}
+  - {name: Perella Weinberg, track: IB, workday: "pwp|wd1|PWP_Experienced_Opportunities"}
+  - {name: Neuberger Berman, track: PE / infra, workday: "nb|wd1|NBCareers"}
+
+  # PE, infrastructure and impact / climate investors
+  - {name: TPG (incl. TPG Rise), track: PE / infra, greenhouse: tpgcareers}
+  - {name: General Atlantic (incl. BeyondNetZero), track: PE / infra, greenhouse: generalatlantic}
+  - {name: Ardian, track: PE / infra, workday: "ardian|wd103|ArdianCareers"}
+  - {name: Energy Impact Partners, track: PE / infra, greenhouse: energyimpactpartnerslp}
+  - {name: Galvanize Climate Solutions, track: PE / infra, greenhouse: galvanizeclimatesolutions}
+
+  # Project finance and energy developers (your Nautilus Solar story)
+  - {name: Arevon Energy, track: PE / infra, greenhouse: arevonenergyimpltest}
+  - {name: Adapture Renewables, track: PE / infra, greenhouse: adapturerenewables}
+  - {name: Hanwha Qcells / Renewables, track: PE / infra, greenhouse: hanwharenewables}
+  - {name: Silicon Ranch, track: PE / infra, greenhouse: siliconranch}
+  - {name: The Nuclear Company, track: PE / infra, greenhouse: thenuclearcompany}
+  - {name: Fervo Energy, track: PE / infra, greenhouse: fervoenergy}
+  - {name: Scale Microgrids, track: PE / infra, lever: ScaleMicrogridSolutions}
+  - {name: Commonwealth Fusion Systems, track: PE / infra, lever: cfsenergy}
+
+  # Consulting (internship target: energy, sustainability, transactions)
+  - {name: Guidehouse, track: Analytics, workday: "guidehouse|wd1|External"}
+  - {name: Wood Mackenzie, track: Analytics, workday: "woodmac|wd3|woodmaccareers"}
   - {name: AlphaSights, track: Analytics, greenhouse: alphasights}
-  - {name: Omnicom + IPG (mediabrands), track: Analytics, greenhouse: mediabrands}
+
+  # AI and data-center finance
+  - {name: Amazon (incl. AWS data-center finance), track: AI x finance, amazon: "financial analyst;FP&A;corporate development;data center finance;energy finance;treasury"}
+  - {name: Microsoft (incl. datacenter finance), track: AI x finance, microsoft: "finance"}
+  - {name: Perplexity, track: AI x finance, ashby: perplexity}
+  - {name: ElevenLabs, track: AI x finance, ashby: elevenlabs}
+  - {name: Harvey, track: AI x finance, ashby: harvey}
+
+  # FP&A / strategic finance at NYC fintech, ratings and markets firms
+  - {name: KBRA (Kroll Bond Rating), track: Analytics, greenhouse: krollbondratingagency}
+  - {name: LSEG, track: Analytics, workday: "lseg|wd3|Careers"}
+  - {name: Gemini, track: Analytics, greenhouse: gemini}
+  - {name: Securitize, track: Analytics, greenhouse: securitize}
+  - {name: Axial, track: Analytics, greenhouse: axial}
   - {name: Chime, track: Analytics, greenhouse: chime}
   - {name: Affirm, track: Analytics, greenhouse: affirm}
   - {name: Coinbase, track: Analytics, greenhouse: coinbase}
   - {name: Gusto, track: Analytics, greenhouse: gusto}
   - {name: Justworks, track: Analytics, greenhouse: justworks}
   - {name: Forter, track: Analytics, greenhouse: forter}
+
+  # Large tech with NYC FP&A / strategic finance teams (fallback for FP&A roles)
   - {name: Datadog, track: Analytics, greenhouse: datadog}
-  - {name: Reddit, track: Analytics, greenhouse: reddit}
-  - {name: Airtable, track: Analytics, greenhouse: airtable}
-  - {name: Asana, track: Analytics, greenhouse: asana}
-  - {name: GitLab, track: Analytics, greenhouse: gitlab}
-  - {name: Klaviyo, track: Analytics, greenhouse: klaviyo}
-  - {name: Braze, track: Analytics, greenhouse: braze}
-  - {name: DoubleVerify, track: Analytics, greenhouse: doubleverify}
-  - {name: PubMatic, track: Analytics, greenhouse: pubmatic}
-  - {name: Taboola, track: Analytics, greenhouse: taboola}
-  - {name: StackAdapt, track: Analytics, greenhouse: stackadapt}
-  - {name: The Trade Desk, track: Analytics, greenhouse: thetradedesk}
-  - {name: Yext, track: Analytics, greenhouse: yext}
   - {name: Squarespace, track: Analytics, greenhouse: squarespace}
   - {name: Peloton, track: Analytics, greenhouse: peloton}
-  - {name: Attentive, track: Analytics, greenhouse: attentive}
-  - {name: Samsara, track: Analytics, greenhouse: samsara}
-  - {name: SeatGeek, track: Analytics, greenhouse: seatgeek}
-  - {name: Handshake, track: Analytics, greenhouse: handshake}
-  - {name: Lattice, track: Analytics, greenhouse: lattice}
+  - {name: Notion, track: Analytics, ashby: notion}
   - {name: Figma, track: Analytics, greenhouse: figma}
-  - {name: Discord, track: Analytics, greenhouse: discord}
-  - {name: Duolingo, track: Analytics, greenhouse: duolingo}
-  - {name: Instacart, track: Analytics, greenhouse: instacart}
-  - {name: Dropbox, track: Analytics, greenhouse: dropbox}
-  - {name: Twilio, track: Analytics, greenhouse: twilio}
+  - {name: Reddit, track: Analytics, greenhouse: reddit}
   - {name: Airbnb, track: Analytics, greenhouse: airbnb}
-  - {name: Flatiron Health, track: Analytics, greenhouse: flatironhealth}
   - {name: DoorDash, track: Analytics, greenhouse: doordashusa}
-  # Ashby orgs from the list
-  - {name: Linear, track: AI x finance, ashby: linear}
-  - {name: Vercel, track: AI x finance, ashby: vercel}
-  - {name: Replit, track: AI x finance, ashby: replit}
-  - {name: Perplexity, track: AI x finance, ashby: perplexity}
-  - {name: ElevenLabs, track: AI x finance, ashby: elevenlabs}
-  - {name: Cursor (Anysphere), track: AI x finance, ashby: cursor}
-  - {name: PostHog, track: AI x finance, ashby: posthog}
-  - {name: Sierra, track: AI x finance, ashby: sierra}
-  - {name: Harvey, track: AI x finance, ashby: harvey}
-  # Workday tenants from the list
-  - {name: LSEG, track: Analytics, workday: "lseg|wd3|Careers"}
+  - {name: Instacart, track: Analytics, greenhouse: instacart}
   - {name: Adobe, track: Analytics, workday: "adobe|wd5|external_experienced"}
-  - {name: Dentsu, track: Analytics, workday: "dentsuaegis|wd3|DAN_GLOBAL"}
-  # Universities and research hospitals (H-1B cap-exempt employers)
+
+  # Universities and research hospitals: H-1B cap-exempt employers (finance, budget, investment-office roles)
   - {name: Cornell University, track: University (cap-exempt), workday: "cornell|wd1|CornellCareerPage"}
   - {name: Barnard College, track: University (cap-exempt), workday: "barnard|wd1|Staff"}
   - {name: CUNY Research Foundation, track: University (cap-exempt), workday: "rfcuny|wd108|RFCUNY"}
   - {name: NJIT, track: University (cap-exempt), workday: "njit|wd108|NJIT_Careers"}
-  - {name: Mount Sinai, track: University (cap-exempt), jibe: "careers.mountsinai.org|finance;financial analyst;budget"}
-  - {name: Montefiore / Einstein, track: University (cap-exempt), jibe: "careers.einsteinmed.edu|finance;financial analyst;budget"}
-  - {name: Rockefeller University, track: University (cap-exempt), jibe: "careers.rockefeller.edu|finance;financial analyst;budget"}
+  - {name: Mount Sinai, track: University (cap-exempt), jibe: "careers.mountsinai.org|financial analyst;budget;finance manager"}
+  - {name: Montefiore / Einstein, track: University (cap-exempt), jibe: "careers.einsteinmed.edu|financial analyst;budget;finance"}
+  - {name: Rockefeller University, track: University (cap-exempt), jibe: "careers.rockefeller.edu|financial analyst;budget;investment"}
   - {name: NJ Innovation Institute, track: University (cap-exempt), smartrecruiters: NewJerseyInnovationInstitute}
   - {name: Columbia University, track: University (cap-exempt), first_seen: true, sitemap: "https://opportunities.columbia.edu/sitemap.xml"}
 
+# Switched off 2026-11-02 (product, marketing or ad-tech focus; rarely post finance roles at Sam's level).
+# To turn one back on, move its line up into the feeds list.
+#  - {name: WeWorkRemotely, track: Mixed, rss: "https://weworkremotely.com/remote-jobs.rss"}
+#  - {name: Publicis Groupe, track: Analytics, jsonapi: "https://careers.publicisgroupe.com/api/jobs?keywords={kw}|finance;financial analyst"}
+#  - {name: Omnicom + IPG (mediabrands), track: Analytics, greenhouse: mediabrands}
+#  - {name: Dentsu, track: Analytics, workday: "dentsuaegis|wd3|DAN_GLOBAL"}
+#  ad tech: doubleverify, pubmatic, taboola, stackadapt, thetradedesk, braze, attentive, yext, klaviyo (greenhouse)
+#  product / dev tools: handshake, lattice, seatgeek, duolingo, discord, airtable, asana, gitlab, twilio, dropbox,
+#    samsara, flatironhealth, spotandtango (greenhouse); linear, vercel, replit, posthog, cursor, sierra, hex, eliseai (ashby)
