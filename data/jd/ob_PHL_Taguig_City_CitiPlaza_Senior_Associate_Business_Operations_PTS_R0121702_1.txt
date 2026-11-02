@@ -1,0 +1,64 @@
+LSEG — Senior Associate, Post Trade Solutions, Business Operations
+https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Senior-Associate--Business-Operations--PTS_R0121702-1
+
+Our market leading services connect a network of participants and deliver sophisticated algorithms that rebalance and reduce risk – growing the efficiency and liquidity of markets, improving returns for clients and making the financial system safer.
+
+ Post Trade Solutions (PTS) Optimisation is a progressive and rapidly expanding business. We pride ourselves on being a forward-thinking organisation that can respond rapidly to client demands and needs through sophisticated technology and our skilled workforce. We want to attract dynamic, innovative and curious individuals who are passionate about being the best they can be. We strive to uphold the highest standards of integrity within our company. Our ambition is to grow our people organically and to create a positive, friendly culture.
+
+ Are you looking to advance your career in a global business with a FinTech start-up feel? Come join us!
+
+ Duties and Responsibilities 
+
+ Coordinate optimisation runs 
+ Provide key support for the optimisation runs by:
+ - Setting up all vital configurations prior to the optimisation.
+- Validating optimisation input data in a timely manner to ensure success in optimisation runs.
+- Running optimisations and resolving any issues in a run.
+- Carrying out post run checks of optimisation run results.
+- Continued liaison with team members supervising the run.
+- Complete post execution processes including trade booking & regulatory reporting within prescribed timelines.
+- Providing post run analysis to the team.
+
+ Client Onboarding, Data Analysis & Testing 
+ - You will support client onboarding with internal set up of new clients and testing. 
+- Running scenarios and carrying out data analysis on these will aid the client onboarding process and provide insights for growing the service for existing clients. 
+- Additionally, you will participate in QA testing of product & process improvements, ensuring they meet the specified requirement within weekly release schedules.
+
+ Internal Communication 
+ - Effective communication is key to this role. 
+- You will clearly report any run-related issues to the global team and contribute ideas for process improvements. 
+- Presenting data analysis findings in a clear and insightful manner is expected, especially when identifying issues or anomalies. 
+- Maintaining ongoing, two-way engagement with team members across all aspects of the role is vital for success.
+
+ Requirements and Qualifications 
+ - Prior experience working within an investment bank or related trade lifecycle processes, ideally within OTC derivatives, middle office, trade support, risk, or similar role, with practical understanding of financial products and derivatives (e.g., swaps, FX forwards). 
+- Operational mentality: Ability to follow structured processes, run recurring tasks, and ensure timely execution of scheduled activities.
+- Bachelor's degree or degree in a numerate or technical field (e.g., Mathematics, Finance, Engineering, Computer Science) or equivalent experience.
+- Strong analytical and problem-solving skills, with high attention to detail and accuracy.
+- Proficiency in data handling tools such as Excel (Pivot Tables, VLOOKUP), with exposure to Python or SQL being an advantage.
+- Ability to work to tight deadlines in a fast-paced environment, handling multiple priorities efficiently.
+- Excellent written English communication for documentation and internal coordination.
+- QA testing and Jira experience advantageous.
+
+ This role is a hybrid working role, with a blended approach of home and office working.
+
+ Career Stage: 
+Senior Associate 
+ London Stock Exchange Group (LSEG) Information: 
+ Join us and be part of a team that values innovation, quality, and continuous improvement. If you're ready to take your career to the next level and make a significant impact, we'd love to hear from you.
+
+ LSEG is a leading global financial markets infrastructure and data provider. Our purpose is driving financial stability, empowering economies and enabling customers to create sustainable growth.
+
+ Our purpose is the foundation on which our culture is built. Our values of Integrity, Partnership , Excellence and Change underpin our purpose and set the standard for everything we do, every day. They go to the heart of who we are and guide our decision making and everyday actions.
+
+ Working with us means that you will be part of a dynamic organisation of 25,000 people across 65 countries. However, we will value your individuality and enable you to bring your true self to work so you can help enrich our diverse workforce.
+
+ We are proud to be an equal opportunities employer. This means that we do not discriminate on the basis of anyone’s race, religion, colour, national origin, gender, sexual orientation, gender identity, gender expression, age, marital status, veteran status, pregnancy or disability, or any other basis protected under applicable law. Conforming with applicable law, we can reasonably accommodate applicants' and employees' religious practices and beliefs, as well as mental health or physical disability needs.
+
+ You will be part of a collaborative and creative culture where we encourage new ideas. We are committed to sustainability across our global business and we are proud to partner with our customers to help them meet their sustainability objectives. Our charity, the LSEG Foundation provides charitable grants to community groups that help people access economic opportunities and build a secure future with financial independence. Colleagues can get involved through fundraising and volunteering.
+
+ LSEG offers a range of tailored benefits and support, including healthcare, retirement planning, paid volunteering days and wellbeing initiatives.
+
+ Please take a moment to read this privacy notice carefully, as it describes what personal information London Stock Exchange Group (LSEG) (we) may hold about you, what it’s used for, and how it’s obtained, your rights and how to contact us as a data subject . 
+
+ If you are submitting as a Recruitment Agency Partner, it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.
