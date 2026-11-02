@@ -66,6 +66,9 @@ probe:
 
   # Listed in both Greenhouse and Ashby in the source file; first one that answers wins
   - {name: Hex, track: Analytics, try: ["ashby:hex", "greenhouse:hex"]}
+  - {name: Notion, track: Analytics, try: ["ashby:notion", "greenhouse:notionhq", "lever:notion"]}
+  - {name: Mistral AI, track: AI x finance, try: ["lever:mistral", "ashby:mistralai", "greenhouse:mistralai"]}
+  - {name: Princeton University, track: University (cap-exempt), first_seen: true, try: ["links:https://main-princeton.icims.com/jobs/search?ss=1&searchKeyword=finance", "links:https://main-princeton.icims.com/jobs/intro"]}
   - {name: EliseAI, track: AI x finance, try: ["ashby:eliseai", "greenhouse:eliseai"]}
   - {name: Spot & Tango, track: Analytics, try: ["greenhouse:spotandtango", "ashby:spotandtango"]}
   # Plain HTML university boards: may be script-rendered; the report says whether each one resolved
@@ -108,7 +111,6 @@ feeds:
   - {name: Gusto, track: Analytics, greenhouse: gusto}
   - {name: Justworks, track: Analytics, greenhouse: justworks}
   - {name: Forter, track: Analytics, greenhouse: forter}
-  - {name: Notion, track: Analytics, greenhouse: notion}
   - {name: Datadog, track: Analytics, greenhouse: datadog}
   - {name: Reddit, track: Analytics, greenhouse: reddit}
   - {name: Airtable, track: Analytics, greenhouse: airtable}
@@ -146,7 +148,6 @@ feeds:
   - {name: ElevenLabs, track: AI x finance, ashby: elevenlabs}
   - {name: Cursor (Anysphere), track: AI x finance, ashby: cursor}
   - {name: PostHog, track: AI x finance, ashby: posthog}
-  - {name: Mistral AI, track: AI x finance, ashby: mistral}
   - {name: Sierra, track: AI x finance, ashby: sierra}
   - {name: Harvey, track: AI x finance, ashby: harvey}
   # Workday tenants from the list
@@ -163,5 +164,4 @@ feeds:
   - {name: Rockefeller University, track: University (cap-exempt), jibe: "careers.rockefeller.edu|finance;financial analyst;budget"}
   - {name: NJ Innovation Institute, track: University (cap-exempt), smartrecruiters: NewJerseyInnovationInstitute}
   - {name: Columbia University, track: University (cap-exempt), first_seen: true, sitemap: "https://opportunities.columbia.edu/sitemap.xml"}
-  - {name: Princeton University, track: University (cap-exempt), first_seen: true, links: "https://main-princeton.icims.com/jobs/search?ss=1&searchKeyword=finance&in_iframe=1;https://main-princeton.icims.com/jobs/search?ss=1&searchKeyword=financial%20analyst&in_iframe=1"}
 

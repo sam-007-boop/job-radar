@@ -553,13 +553,15 @@ def main() -> int:
                 if first_seen and key not in baselines:
                     # first run on an undated board: remember everything listed today, report nothing yet
                     seen.update(j["id"] for j in jobs); baselines.add(key)
-                    note = " — baseline saved; new listings reported from the next run"
+                    note = f" — baseline of {len(jobs)} saved; new listings reported from the next run"
                     jobs = []
                 elif first_seen:
                     for j in jobs:
                         if j["id"] not in seen:
                             j["posted"], j["date_reliable"] = today_et(), True
-                probe_lines.append(f"- OK  {entry['name']} -> {kind}:{spec[:70]} ({len(jobs) if not note else 'baseline'} listings){note}")
+                dated = sum(1 for j in jobs if j.get("date_reliable"))
+                probe_lines.append(f"- OK  {entry['name']} -> {kind}:{spec[:70]}" +
+                                   (note if note else f" ({len(jobs)} listings, {dated} with a posting date)"))
                 for j in jobs:
                     if first_seen and j["id"] in seen:
                         continue
