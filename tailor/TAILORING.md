@@ -5,10 +5,12 @@ Used by the "Morning fresh roles" scheduled task and by Claude in chat. The engi
 ## 1. Pick the base resume
 | Role is mostly… | Variant |
 |---|---|
-| IB, PE, corp dev, asset management | `finance-core` |
-| Infra / energy / data-center / project finance, AI-infra finance | `project-finance-solar` |
-| Data analytics, BizOps, FP&A-analytics, fintech ops | `data-analytics` |
-| Growth or marketing analytics, consumer/tech strategy | `finance-marketing` |
+| **Default.** FP&A, senior financial analyst, IB, PE, corp dev, asset management, strategy / AI-adjacent finance, consulting | `finance-core` |
+| Project finance, sustainability / climate / impact finance, infra, energy, data-center finance | `project-finance-solar` |
+| Cross-functional ops or pure data / business analytics roles (fallback track) | `data-analytics` |
+| Marketing roles only | `finance-marketing` |
+
+(This follows Sam's own rule: the finance/valuation resume is his default.)
 
 Run `python3 tailor.py --list <variant>` and copy "old" lines exactly from that output.
 
