@@ -1,0 +1,46 @@
+{
+ "company": "Citadel",
+ "role": "Finance & Accounting - Intern (US)",
+ "variant": "finance-core",
+ "job_url": "https://www.builtinnyc.com/job/finance-accounting-intern-us/10975614",
+ "edits": [
+  {
+   "old": "Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region",
+   "new": "Supported monthly close, P&L forecasting and variance analysis with finance teams for the ANZ region",
+   "why": "Posting asks for help with the close and monthly journal entries, so close leads the line."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Posting is about books, records and reporting, so reconciliation is the point here."
+  },
+  {
+   "old": "Technical: Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM, Python",
+   "new": "Technical: Excel, SAP, Tableau, PowerPoint, Python, Salesforce, Datorama, CRM Systems, CRM",
+   "why": "Same skills, reordered so Excel and SAP lead; the posting asks for advanced Excel."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: says plainly this was marketing budget work, not investment diligence."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Citadel Finance & Accounting Team,",
+  "paragraphs": [
+   "I'm applying for the Finance & Accounting internship at Citadel. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, with work experience at JPMorgan Asset Management, Lenovo and Thomson Reuters. The fund and broker-dealer accounting and financial reporting placements interest me most, because they would show me how an investment firm's books, NAVs and financial statements come together.",
+   "At Thomson Reuters I worked in order management and financial operations. I handled cash flow analysis covering 80%+ of total inflows, ran reconciliations with 85%+ accuracy in revenue recognition and reporting, and supported monthly P&L forecasting, variance analysis and close for the ANZ region. In my MBA coursework I prepared core financial statements from underlying transactions and analyzed statements and disclosures to assess earnings quality across firms.",
+   "That background fits the close, reporting and review work your team describes. I'm strong in Excel, careful with detail, and happy to keep at a process until it is right. I'd welcome the chance to talk about the program."
+  ]
+ }
+}
