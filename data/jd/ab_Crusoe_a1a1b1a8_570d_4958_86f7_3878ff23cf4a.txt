@@ -1,0 +1,98 @@
+Crusoe — Staff Enterprise Technology Administrator, Finance Systems
+https://jobs.ashbyhq.com/Crusoe/a1a1b1a8-570d-4958-86f7-3878ff23cf4a
+
+Crusoe is on a mission to accelerate the abundance of energy and intelligence. As the only vertically integrated AI infrastructure company built from the ground up, we own and operate each layer of the stack — from electrons to tokens — to power the world's most ambitious AI workloads. When you join Crusoe, you join a team that is building the future, faster.
+
+We're in the midst of the greatest industrial revolution of our time. The demand for AI compute is boundless, and power is a bottleneck. We're solving that — with an energy-first approach that makes AI infrastructure better for the world and faster for the people innovating with AI.
+
+We're looking for problem-solving, opportunity-finding teammates with a sense of urgency, who believe in the scale of our ambition and thrive on a path not fully paved — people who want to grow their careers alongside a team of experts across energy, manufacturing, data center construction, and cloud services.
+
+If you want to do the most meaningful work of your career, help our customers and partners advance their AI strategies, and be part of a high-performing team that believes in each other, come build with us at Crusoe.
+
+About the Role:
+
+We’re seeking a Staff Enterprise Technology Administrator to join our Enterprise Technology team, a specialized group within IT responsible for the financial and operational systems that power the business.
+
+In this role, you will serve as the primary subject matter expert and dedicated system owner for Procure-to-Pay (P2P) and Order-to-Cash (O2C) processes, owning both sides of the workflow stack as equally weighted responsibilities. You’ll own the configuration, maintenance, and optimization of key financial platforms including Coupa, Sage Intacct, and Acumatica, while supporting an ecosystem of connected tools such as Stripe, LeaseQuery, Asset4000, FloQast, and Workiva. At this level, you will also set the governance model, access framework, and technical roadmap these platforms operate under going forward.
+
+Working at the intersection of finance and technology, you will partner closely with Procurement, Sourcing, Finance, Accounting, and Sales Operations leadership to ensure systems run reliably while proactively driving improvements to financial workflows and integrations, rather than only responding to requests as they arrive.
+
+What You'll Be Working On:
+
+ - Administering, configuring, and optimizing financial platforms including Coupa, Sage Intacct, and Acumatica to ensure system stability, data integrity, and performance, and establishing the governance standards these platforms are run against
+
+ - Owning Procure-to-Pay workflows end to end, including purchase requisitions, purchase orders, supplier onboarding, and accounts payable processes
+
+ - Owning Order-to-Cash operations end to end, including invoicing automation, accounts receivable workflows, and revenue recognition configurations
+
+ - Partnering with Finance and Sales Operations leadership to troubleshoot billing, collections, and system integration issues, and shaping multi-quarter enhancement roadmaps rather than handling issues one at a time
+
+ - Setting strategy and governance for the finance-related service desk function, including SLAs, recurring issue identification, and automation or self-service improvements that structurally reduce support volume over time
+
+ - Maintaining and troubleshooting integrations between Coupa, Sage Intacct, Stripe, and CRM systems to ensure reliable data flow
+
+ - Owning the periodic access review and audit program to maintain SOX compliance, and setting the least-privilege access model and control framework other stakeholders are expected to follow
+
+What You'll Bring to the Team:
+
+ - 8+ years of hands-on experience as a Systems Administrator, Financial Systems Analyst, or similar role directly administering financial platforms, not adjacent business, sourcing, or project-controller roles
+
+ - Deep, current hands-on administration experience with at least one of Coupa, Sage Intacct, or Acumatica, meaning direct configuration and system ownership rather than end-user familiarity or implementation-only exposure, with demonstrated ability to ramp quickly on the others
+
+ - Demonstrated, hands-on ownership of both Procure-to-Pay workflows (procurement, supplier management, accounts payable) and Order-to-Cash workflows (billing, accounts receivable, revenue recognition) as equally required competencies, not a primary-plus-nice-to-have pairing
+
+ - A track record of proactive process improvement and governance ownership, having served as the primary or sole subject matter expert for a financial system rather than operating in a purely reactive, ticket-driven capacity
+
+ - Experience supporting integrations between financial systems, including API-based integrations, and demonstrated experience implementing financial software or delivering major system enhancements
+
+ - Confirmed, hands-on experience with SOX compliance, periodic access reviews, and audit support, meaning personal ownership of controls work rather than operating within an environment someone else governed
+
+ - Strong written and verbal communication skills, with demonstrated ability to partner with Finance and Accounting leadership, translate ambiguous business requirements into system solutions, and manage competing priorities across multiple stakeholder groups
+
+Bonus Points
+
+ - Experience supporting financial platform ecosystems including Stripe, LeaseQuery, Asset4000, FloQast, and Workiva
+
+ - Familiarity with finance system integration architecture or middleware platforms
+
+ - Experience supporting financial systems in high-growth technology organizations
+
+Benefits:
+
+ - Competitive compensation and equity packages
+
+ - Restricted Stock Units
+
+ - Paid time off, paid holidays & leave of absence programs
+
+ - Comprehensive health, dental & vision insurance
+
+ - Employer contributions to HSA account
+
+ - Paid parental leave
+
+ - Paid life insurance, short-term and long-term disability
+
+ - Professional development & tuition reimbursement
+
+ - Mental health & wellness support
+
+ - Commuter benefits (parking & transit)
+
+ - Cell phone stipend
+
+ - 401(k) Retirement plan with company match up to 4% of salary
+
+ - Volunteer time off
+
+ - Global travel insurance & emergency assistance
+
+ - Daily meals allowance
+
+ - Additional perks & programs specific to location
+
+Compensation Range
+
+Compensation will be paid in the range of up to $155,000 -$180,000 + Bonus. Restricted Stock Units are included in all offers. Compensation to be determined by the applicant's knowledge, education, and abilities, as well as internal equity and alignment with market data.
+
+Crusoe is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, disability, genetic information, pregnancy, citizenship, marital status, sex/gender, sexual preference/ orientation, gender identity, age, veteran status, national origin, or any other status protected by law or regulation.

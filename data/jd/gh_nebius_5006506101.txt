@@ -1,0 +1,83 @@
+Nebius — Field CTO, Financial Services AI Infrastructure 
+https://careers.nebius.com/?gh_jid=5006506101
+
+About Nebius: 
+ Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. 
+ Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. 
+ Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. About Nebius: 
+ Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. 
+ Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. 
+ Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. 
+ The role: 
+ Nebius is building the AI infrastructure that financial institutions will run AI on in production, from quantitative research and real-time risk to agentic workflows in banks and insurers. 
+ The Field CTO for Financial Services is a senior technical leadership role at the intersection of production GPU infrastructure and the regulated business of financial services. You will lead the technical side of the vertical: the architecture conversation with CTOs and heads of research infrastructure, the technical content of regulated-buyer diligence, the reference architectures for financial workloads, and the product requirements that come out of the field. 
+ Financial institutions buy AI infrastructure differently from most customers. Quantitative funds and AI-native fintechs buy GPU capacity directly and judge it on price-performance, availability, and how the cluster behaves under their own workloads. Banks and insurers add a second review: security, third-party risk, data residency, and exit planning are assessed before a deal reaches architecture discussions. You will earn the trust of both kinds of buyer and help make Nebius an approved supplier to financial institutions. 
+ You will work alongside the Head of Financial Services, Sales, Security and GRC, Product, and Engineering. The role begins as a hands-on individual contributor, with a clear path to building and leading forward deployed engineers as the vertical scales. 
+ This is a ground-floor opportunity to define how financial institutions run AI in production on a specialized AI cloud. 
+ You are welcome to work remotely from the United States (New York City preferred). Travel expectations are 10% to 20% for customer visits, executive meetings, and key industry events. 
+ Your responsibilities will include: 
+
+ Executive Technical Leadership:  Serve as the technical face of Nebius to financial services customers, partners, and ecosystem stakeholders. Lead architecture workshops and technical discovery with CTOs, heads of quant and ML platforms, and CIOs, showing technical buyers how Nebius performs on their own workloads and institutions how the architecture fits their control framework. 
+ Lighthouse Deal Support:  Partner with Sales leadership on strategic financial services deals, including workload-level cost comparisons against on-premises and hyperscaler options. 
+ Regulated-Buyer Diligence:  Work with Security, GRC, and Legal to turn our SOC 2 Type II and ISO 27001 certifications, and our alignment with frameworks such as DORA, into answers that third-party risk teams accept. Cover data residency, tenant isolation, key management, audit logging, resilience evidence, concentration risk, and exit and portability plans. Flag gaps early and bring them to Product as requirements. 
+ Architectural Guidance:  Define reference architectures for financial workloads: quantitative research and backtesting, real-time risk and fraud inference, LLM and agentic workflows in KYC, AML, and document processing, and fine-tuning on sensitive proprietary data. 
+ Technical Product Strategy:  Translate what you learn in accounts into prioritized, evidence-backed requirements for Product, Engineering, and Infrastructure teams, and keep a structured feedback loop so R&D can act on them. 
+ Field Enablement:  Act as a force multiplier for the sales organization by creating the technical narrative, reference architectures, and training materials that help Field SAs and sellers engage financial services buyers credibly. 
+ Ecosystem & M&A:  Partner with ecosystem vendors (market and reference data providers, model risk and AI governance tooling, trading and risk platforms, systems integrators) to identify integration opportunities and evaluate potential technical M&A targets. 
+ Team Building:  Build and lead forward deployed engineers as the vertical grows, setting how they scope, deliver, and hand learnings back to Product. 
+
+ We expect you to have: 
+
+ 10+ years of experience in cloud infrastructure, platform engineering, distributed systems, or a closely related technical domain, including 5+ years in AI, ML, or MLOps with exposure to production or large-scale systems. 
+ Prior experience in a senior technical leadership role, for example Field CTO, CTO or technical co-founder of a fintech or AI-native company, head of quant or ML platform, or principal-level architect on a cloud vendor financial services team. 
+ Dual Competency:  You can draw a distributed system on a whiteboard for engineers and explain its value and risk profile to a CIO or a Chief Risk Officer. 
+ GTM Fluency:  Experience partnering with Sales to close large enterprise deals and enabling field teams with technical assets. 
+ Product-Minded Leadership:  You have defined requirements from field evidence and shaped platform strategy. You are comfortable telling a customer no when a request would create technical debt, and proposing a better alternative. 
+ Mastery of the Stack:  Expert-level, production-grade knowledge of GPU architectures, Kubernetes and Slurm orchestration including Soperator, high-performance and parallel file systems, and networking constraints (InfiniBand and Ethernet). 
+ Inference Optimization:  You understand the nuances of model serving, including batch sizes, quantization, KV caching, and latency tradeoffs, and can architect for both massive throughput and latency-sensitive demands such as real-time risk and fraud scoring. 
+ Financial Services Fluency:  First-hand experience in at least one of capital markets and quant research infrastructure, bank or insurer AI platforms, AI-native fintech, or an FSI technical role at a cloud or GPU provider, plus working knowledge of how regulated buyers review vendors: data residency, third-party and concentration risk, and model risk management expectations (for example SR 11-7 in the US). 
+ Builder Mentality:  You arrive with your own point of view on where financial institutions are heading with AI infrastructure and pursue it without waiting to be directed. You are comfortable starting as a hands-on individual contributor and growing into a team. 
+ Public Technical Voice:  Conference talks, writing, or open-source work that shows credibility with engineering and executive audiences. 
+ Communication:  Strong executive presence, capable of influencing product teams and leadership through clarity and credibility. 
+ Comfort in Ambiguity:  Experience operating in fast-moving environments (hyperscalers, cloud platforms, or advanced AI startups) where requirements are evolving. 
+
+   Preferred Qualifications: 
+
+ Hands-on experience with quantitative research infrastructure, low-latency trading systems, or model risk management in a regulated institution. 
+ Familiarity with the hybrid and on-premises GPU environments financial institutions run. 
+ Strategic Empathy:  The ability to distinguish customers who need raw cluster access from those who need managed endpoints, and the judgment to prescribe the right path. 
+
+ Why Nebius: 
+
+ Build Solutions:  You will shape how financial institutions run AI in production on a specialized AI cloud. 
+ Scale:  Opportunity to help build the Financial Services vertical from the ground up. 
+ Frontier Technology:  Work at the frontier of AI infrastructure, agentic workflows, and financial intelligence alongside leading customers and partners. 
+ Strategic Impact:  Real influence over product direction, platform strategy, and ecosystem development. 
+ Ownership:  Join a team that values technical depth, ownership, and speed of execution. 
+ Mission:  Help define how intelligence moves from the data center into trading desks, risk engines, and the operations of banks and insurers. 
+
+ What's it like to work at Nebius: 
+ Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI 
+ Key employee benefits in the US: 
+
+ Health insurance:  100% company-paid medical, dental, and vision coverage for employees and families. 
+ 401(k) plan:  Up to 4% company match with immediate vesting. 
+ Parental leave:  20 weeks paid for primary caregivers, 12 weeks for secondary caregivers. 
+ Remote work reimbursement:  Up to $85/month for mobile and internet. 
+ Disability & life insurance : Company-paid short-term, long-term and life insurance coverage. 
+ Pay Transparency 
+ We offer competitive compensation and benefits packages. Actual compensation will be determined based on job-related factors, including experience, skills, qualifications, the level at which the candidate is hired, and geographic location, consistent with applicable law. Base Compensation Range $210,000 — $260,000 USD Benefits & Perks: 
+
+ Competitive compensation 
+ Career growth and learning opportunities 
+ Flexibility and ownership 
+ Collaborative and innovative culture 
+ Opportunity to work on impactful AI projects 
+ International environment and talented teams 
+
+ What's it like to work at Nebius: 
+ Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI  
+ Equal Opportunity Statement: 
+ Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law. 
+ Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire.  
+ If you need accommodations during the application process, please let us know.
