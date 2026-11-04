@@ -1,0 +1,46 @@
+{
+ "company": "Crusoe",
+ "role": "Financial Analyst, Real Estate, Land & Leases",
+ "variant": "project-finance-solar",
+ "job_url": "https://jobs.ashbyhq.com/Crusoe/4abb136c-f02f-4b1b-a287-e73b59aee9a6",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting asks for models that support go/no-go investment decisions."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Posting includes accounting support and financial tracking; this keeps the accurate reconciliation work."
+  },
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Project Finance, Financial Modeling, Due Diligence, Valuation Analysis, Renewable Energy Finance, Financial Analysis, Market Analysis, Investment Research, Understanding of Financial Products, Data Presentation, Bloomberg, S&P Capital IQ",
+   "why": "Posting lists project finance and financial modeling first."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: says plainly this was marketing budget work, not investment diligence."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Crusoe Real Estate Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Financial Analyst, Real Estate, Land & Leases role at Crusoe. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. What interests me is your point that land and power access are often the binding constraint on how fast infrastructure gets built. That makes site-level economics a real input into what gets built and when.",
+   "My closest experience is an MBA project: I built project- and portfolio-level financial models for a 6-project, 35.4 MW Illinois solar portfolio, evaluating capital structure, DSCR, NPV and levered IRR under post-ITC scenarios. I compared senior debt with green loan + ABS structures, and the phased green loan + ABS recommendation reduced sponsor equity by $11.1M in the model and improved levered IRR from 8.58% to 9.79%. At Lenovo I built models and scenario analyses on capital allocation that improved capital efficiency by 15%.",
+   "That maps to the site-level models and to the work on how ownership and lease structures affect financing. The solar project was coursework, not a live transaction, and ground leases would be new to me, so I'd expect to learn a lot from the Real Estate and Project Finance teams. I'd welcome the chance to talk."
+  ]
+ }
+}

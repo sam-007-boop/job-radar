@@ -1,0 +1,46 @@
+{
+ "company": "Seso",
+ "role": "Financial Analyst",
+ "variant": "finance-core",
+ "job_url": "https://www.builtinnyc.com/job/financial-analyst/12054801",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting asks for driver-based forecasts and scenario models."
+  },
+  {
+   "old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+   "new": "Conducted variance and sensitivity analyses on budget reallocation strategies, explaining drivers and what moved against plan to strengthen financial planning",
+   "why": "Posting asks for Budget vs. Actuals variance commentary."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Posting asks for reconciling the revenue model and billing data until they tie."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: says plainly this was marketing budget work, not investment diligence."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Seso Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Financial Analyst role at Seso. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. I like that this role owns the path from contract to invoice to cash to reported revenue, and that you want someone who would rather build a tool than repeat a task twice.",
+   "At Thomson Reuters I managed financial operations and cash flow analysis covering 80%+ of total inflows, and ran reconciliations with 85%+ accuracy in revenue recognition and reporting. At Lenovo I built forecasts and scenario analyses on capital allocation that improved capital efficiency by 15%, ran variance and sensitivity analyses on budget changes, and created AI powered dashboards that combined predictive metrics with financial projections.",
+   "That maps to owning the revenue model, tying it out each month and writing the commentary behind the numbers. I know agricultural labor and the H-2A program only from your description, so I'd have that to learn. I work plainly and check my own numbers, and I'd welcome the chance to talk about the role."
+  ]
+ }
+}

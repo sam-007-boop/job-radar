@@ -1,0 +1,46 @@
+{
+ "company": "CIBC",
+ "role": "2027 Summer Intern, Investment Communication (NYC)",
+ "variant": "finance-core",
+ "job_url": "https://cibc.wd3.myworkdayjobs.com/campus/job/New-York-NY/XMLNAME-2027-Summer-Intern-Investment-Communication--NYC_2620149",
+ "edits": [
+  {
+   "old": "Analyzed underperforming initiatives to reallocate funding toward higher-yield opportunities, improving overall capital productivity and driving a 1.5x increase in performance metrics",
+   "new": "Analyzed underperforming marketing channels to reallocate budget toward higher-yield ones, improving capital productivity and driving a 1.5x increase in performance metrics",
+   "why": "Posting sits between investments and marketing; this also states the JPMorgan work accurately."
+  },
+  {
+   "old": "Technical: Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM, Python",
+   "new": "Technical: PowerPoint, Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, CRM, Python",
+   "why": "Posting is built around presentations and reports."
+  },
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Data Presentation, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Financial Modeling, Due Diligence, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "why": "Posting asks for market commentary and product-related content, so presentation and market skills come first."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: says plainly this was marketing budget work, not investment diligence."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear CIBC Private Wealth Investment Team,",
+  "paragraphs": [
+   "I'm applying for the 2027 Summer Intern, Investment Communication role in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. This internship stood out because it sits where investment insight meets the people who use it, turning the team's views into materials for clients and advisors.",
+   "At JPMorgan Asset Management I worked on budget allocation across marketing channels and prepared executive-level investment briefs that brought together financial analysis, sector trends and performance data for senior leadership. I also moved funding away from underperforming channels, which drove a 1.5x increase in performance metrics. At Lenovo I created data-driven pitch materials and AI powered dashboards that combined predictive metrics with financial projections.",
+   "That maps to drafting market commentaries, reports and presentations alongside the Investment, Performance, Marketing and Compliance teams. I've spent my career around both the numbers and how they get presented, and I write plainly. I'd welcome the chance to talk about the internship."
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "company": "Two Sigma",
+ "role": "FP&A Sr. Analyst",
+ "variant": "finance-core",
+ "job_url": "https://www.builtinnyc.com/job/fp-sr-analyst/12042088",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting centers on the annual planning process, projections and scenario modeling."
+  },
+  {
+   "old": "Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions",
+   "new": "Created AI powered analytical dashboards and data-driven materials integrating predictive metrics and financial projections to support funding decisions",
+   "why": "Posting asks for financial dashboards built with AI-assisted tools."
+  },
+  {
+   "old": "Technical: Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM, Python",
+   "new": "Technical: Excel, Python, Tableau, Datorama, SAP, PowerPoint, Salesforce, CRM Systems, CRM",
+   "why": "Puts data and dashboard tools first, since the role is built around reporting tooling."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: says plainly this was marketing budget work, not investment diligence."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Two Sigma FP&A Team,",
+  "paragraphs": [
+   "I'm applying for the FP&A Sr. Analyst role at Two Sigma. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. What drew me to this role is the focus on compute spend. At a firm built on engineering and research, how you plan for that spend and charge it out is a real business question, and you want the answers in dashboards people can use.",
+   "At Lenovo I built forecasts and scenario analyses on capital allocation that improved capital efficiency by 15%, ran variance and sensitivity analyses on budget changes, and created AI powered dashboards that combined predictive metrics with financial projections. At JPMorgan Asset Management I worked on budget allocation across marketing channels. I built models to evaluate how to deploy $10M and benchmarked past allocations, which identified 30% in efficiency gains.",
+   "That maps to the annual planning, monthly reporting and scenario tooling you describe for the Engineering area. My background is corporate finance and analytics rather than cloud cost management, so that part would be new to me. I'd bring the habits that matter here: making sure the numbers tie, and explaining them plainly to the people who rely on them. I'd welcome the chance to talk about the role."
+  ]
+ }
+}
