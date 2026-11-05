@@ -1,0 +1,38 @@
+Stripe — Financial Services Transfer Pricing Strategist
+https://stripe.com/jobs/search?gh_jid=8318680
+
+Who we are 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. 
+ About the team 
+ Stripe’s Tax Transfer Pricing team designs, implements, and defends the intercompany pricing policies that support Stripe’s global operating model, ensuring pricing between Stripe entities is compliant, defensible, and aligned with how the business creates value. 
+ As Stripe expands its product portfolio and international footprint, our transfer pricing policies and documentation must evolve alongside the business. Transactions between Stripe affiliates are becoming increasingly complex and, in some cases, share characteristics with transactions commonly undertaken by financial services institutions. These arrangements, including those supporting Stripe’s stablecoin-related activities, may also be subject to scrutiny from regulators that oversee the financial services sector. We are seeking an experienced Transfer Pricing Specialist with financial services expertise to help develop practical, scalable transfer pricing policies, work through the tax and regulatory considerations relevant to intercompany arrangements, and provide subject matter expertise in audit defense and dispute resolution. 
+ What you’ll do 
+ The Financial Services Transfer Pricing Strategist will be a hands-on, collaborative member of the team responsible for developing and implementing compliant, practical transfer pricing policies and processes. The role will focus on transactions between Stripe’s legal entities that have characteristics commonly associated with the financial services sector, including intercompany arrangements supporting Stripe’s stablecoin-related activities. 
+ This individual will work closely with teams across the organization and must be an excellent communicator who can explain complex transfer pricing concepts clearly to non-tax audiences. The ideal candidate will have transfer pricing experience in payments, fintech, banking, or another regulated financial services environment, as well as a track record of partnering effectively with cross-functional teams and other members of the tax organization. 
+ Responsibilities 
+
+ Partner with teams within and outside of Finance to develop, execute, and maintain transfer pricing policies for Stripe’s current and future operating structure and product offerings with a strong moral compass and integrity 
+ Analyze financial information to design, prepare, and review detailed calculations, assist in preparing legal entity forecasts, and support the tax provision process 
+ Address the transfer pricing impacts of special projects related to restructurings, acquisitions, and corporate initiatives, and ensure operating models are fit for purpose in the context of evolving global tax and transfer pricing frameworks and other regulations that apply to transactions between affiliates 
+ Build relationships with product and business leaders to understand their organizational structure and activities, and adapt transfer pricing policies in response to changes 
+ Assist finance, legal, and tax teams in government and regulatory audits, and support Stripe’s participation in tax audits, advance pricing agreements, and competent authority proceedings 
+ Prepare and maintain transfer pricing documentation and compliance in accordance with Organisation for Economic Co-operation and Development (OECD) guidelines and local tax and regulatory requirements, ensuring efficiency and quality across a subset of assigned jurisdictions 
+ Build or simplify transfer pricing models for clarity, efficiency, and ease of use 
+
+ Who you are 
+ We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. 
+ Minimum requirements 
+
+ A bachelor’s degree or higher in accounting, economics, business, law, or a related field, and 10+ years of relevant experience 
+ Strong knowledge of global transfer pricing laws and regulations, experience with international tax planning for a multinational, and experience in financial services, banking, fintech, payments, or another regulated industry 
+ Experience managing transfer pricing documentation and compliance; practical experience with transfer pricing dispute resolution, including audits, advance pricing agreement negotiations, and competent authority negotiations; and experience developing, maintaining, and implementing intercompany agreements 
+ Knowledge of financial accounting concepts, including accounting for intercompany transactions; professional experience with Excel, Oracle, and Smart View; and enjoyment of working with and digging into data from multiple sources 
+ Excellent written and verbal communication and presentation skills, strong interpersonal and team-building capabilities across different functional areas and cultures, and curiosity, empathy, and humility 
+
+ Preferred qualifications 
+
+ An advanced degree or professional qualification in tax, accounting, economics, or law, such as a Certified Public Accountant (CPA) credential, Juris Doctor (JD), or Master of Laws (LLM) 
+ Experience working in a high-growth, rapidly scaling environment 
+ Working knowledge of Regulation W, Sections 23A and 23B of the Federal Reserve Act, or comparable affiliate transaction requirements, including pricing, documentation, governance, or monitoring considerations, with a practical understanding of how regulatory requirements affect operating models and affiliate arrangements 
+ Experience with stablecoins, digital assets, wallets, on-chain financial infrastructure, payments, or treasury products

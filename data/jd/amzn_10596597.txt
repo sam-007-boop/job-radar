@@ -1,0 +1,43 @@
+Amazon (incl. AWS data-center finance) — Sr. Financial Analyst, Ring and Blink PL Finance
+https://www.amazon.jobs/en/jobs/10596597/sr-financial-analyst-ring-and-blink-pl-finance
+
+The Senior Financial Analyst (SFA)— is the consolidation partner for the Ring and Blink Finance team's Hardware Gross Profit reporting. This role works directly with multiple finance managers to bring their inputs together into a single integrated GP view across devices and accessories, online and offline, NA and International. Within that shared model, the SFA owns the inventory reserve calculations outright, serves as the point of contact for system data integrity, and owns the forecasting and MEC calendars that keep both brands' cycles on track. 
+
+Working with limited guidance, the role applies business and financial principles to decision-making, understands the trade-offs behind the numbers, and proactively audits its own work to ensure reporting accuracy during OP1, OP2, 3YF, Quarterly Guidance, the monthly Latest Estimate, and actuals/MEC reviews.
+
+Key job responsibilities
+*Create and own the forecasting and MEC calendars for the business partners: build the cycle timelines (OP1, OP2, 3YF, Quarterly Guidance, monthly Latest Estimate, and month-end close), publish key dates and input deadlines to the two brand leads and cross-functional partners, and drive the cadence so submissions, reviews, and sign-offs land on time.
+*Consolidate Hardware GP across both brands: partner with multiple Finance managers across both brands to aggregate their cycle inputs — net units, net revenue, COGS/BOM, and hardware gross profit — and reconcile them into one integrated view across devices and accessories, NA and International.
+*Compile the monthly Latest Estimate (LE): gather and validate the brand leads' submissions against the LE templates and timeline, bridge LE-over-LE and LE-vs-guidance variances, and prepare the review-ready consolidated GP financials each cycle, seeking guidance from team leaders where needed.
+*Own the inventory valuation and reserve calculations feeding the consolidated GP position:
+Inventory impairment — quantify impairment on at-risk hardware inventory.
+Lower of Cost or Market (LCM) — calculate LCM reserves where carrying cost exceeds net realizable value, applying the methodology agreed with Accounting.
+Excess & Obsolete (E&O) — compute E&O reserves across devices and accessories using EOL timing, demand/forecast coverage, and sell-through assumptions.
+Partner with Accounting on sign-off and carry the reserve positions into the consolidated GP and MEC.
+*Serve as the POC for system data integrity: act as the primary contact for the accuracy and consistency of the Finance data sources that feed consolidation and reserves (e.g., TM1/Vista/Prophecy, TCPU/BOM, DIDM, inventory and demand data) — identifying and correcting data discrepancies, validating flows across systems, and escalating more complex issues to the right owners.
+*Support month-end close (MEC) consolidation for Hardware GP across both brands — units, revenue, COGS, promotions/MDF, and the impairment/LCM/E&O reserves — delivering accurate, on-time reporting and auditing for discrepancies.
+*Partner with cross-functional teams — Category, Supply Chain, Operations, Accounting, and FinTech — to validate COGS/BOM assumptions, reserve inputs, inventory positions, and system data, and to explain variance drivers.
+*Optimize and document the consolidation and reserve processes: improve and automate recurring compilation steps, maintain SOPs and reconciliation logic, and contribute to continuous-improvement efforts that reduce defects.
+*Communicate clearly and concisely, both verbally and in writing, adjusting style to the audience with support, and summarizing GP and reserve movements for the brand leads, the Finance team, and business partners.
+
+- 3+ years of applying key financial performance indicators (KPIs) to analyses experience
+- 3+ years of creating process improvements with automation and analysis experience
+- 3+ years of identifying, leading, and executing opportunities to improve, automate, standardize or simplify finance or business tools and processes experience
+- 3+ years of contributing to cross-functional initiatives that drive financial performance and strategy experience
+- 3+ years of finance, accounting, or related analytical field experience
+- Bachelor's degree in business, finance, accounting, tax, economics, or a related analytical field
+- 3+ years of dissecting financial data and identifying patterns that support business strategy experience
+
+- 4+ years of participating in continuous improvement projects in your team to scale and improve controllership with measurable results experience
+- MBA, or CPA
+- Experience working with large-scale data mining and reporting tools (examples: SQL, MS Access, Essbase, Cognos) and other financial systems (examples: Oracle, SAP, Lawson, JD Edwards)
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+ The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . 
+
+USA, CA, Hawthorne - 72,600.00 - 117,100.00 USD annually

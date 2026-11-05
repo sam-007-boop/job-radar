@@ -1,0 +1,63 @@
+ICF — Public Health Data Analyst
+https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Public-Health-Data-Analyst_R2603699
+
+We are seeking a Public Health Data Analyst to support data analysis, data quality, visualization, and epidemiologic activities for public health surveillance programs. This position combines hands-on quantitative analysis with an understanding of epidemiology, surveillance systems, and public health data.
+
+ The ideal candidate will bring a strong foundation in either public health surveillance, including syndromic surveillance and ESSENCE, or analytical programming and data analysis using R or comparable tools. This role offers the opportunity to apply those skills to meaningful public health surveillance work while developing additional expertise and working closely with project colleagues and clients.
+
+ Key Responsibilities 
+ - Monitor and analyze public health surveillance data using ESSENCE, R, and other analytical tools to identify trends, patterns, anomalies, data-quality issues, and potential public health events of interest.
+- Support enhanced and time-sensitive surveillance activities, including analysis, reporting, and development or maintenance of analytical and dashboard products using CDC-provided formats and requirements.
+- Contribute to reports, slides, dashboards, and other analytical products for CDC and response partners, working with senior epidemiologists and analysts as appropriate.
+- Support the development, testing, and validation of syndrome definitions and surveillance categories, incorporating feedback from CDC subject-matter experts and STLT public health partners.
+- Support analysis and reporting of emergency department data and additional public health data sources, such as NNDSS, commercial laboratory, Veteran’s Affairs, and other data sources, as they are incorporated into surveillance activities.
+- Take ownership of assigned analytical work, manage multiple priorities and short timelines, and communicate questions, issues, or risks as they arise.
+
+ Basic Qualifications 
+
+ - Bachelor's degree in Public Health, Epidemiology, Biostatistics, Data Science, Informatics, Statistics, or a related quantitative field and 2-4 years of relevant professional experience in public health, epidemiology, healthcare data analysis, surveillance, or a related analytical field.
+- 3+ years experience with either public health or syndromic surveillance, including ESSENCE or comparable surveillance systems; or 3+ years experience with analytical programming and data analysis using R, or comparable tools.
+- Experience analyzing public health, epidemiologic, healthcare, or other complex datasets.
+- Ability to take ownership of assigned work, manage competing priorities, and communicate questions or issues as they arise.
+- Understanding of basic epidemiologic and statistical concepts.
+- Experience cleaning, transforming, validating, analyzing, or visualizing data.
+- Strong analytical, problem-solving, organizational, and documentation skills.
+- Ability to communicate analytical findings clearly to technical and nontechnical audiences.
+
+ Preferred Qualifications 
+
+ - Experience with syndromic surveillance and/or ESSENCE.
+- Experience using R or other analytical programming tools for public health or epidemiologic analysis.
+- Experience working with state, local, tribal, or territorial (STLT) public health agencies or their surveillance data, systems, or reporting activities.
+- Master's degree in Epidemiology, Public Health, Biostatistics, Data Science, Informatics, Statistics, or a related quantitative field.
+- Familiarity with healthcare and public health data standards or terminology, such as HL7, ICD-9/10, SNOMED, or LOINC.
+
+ Working at ICF 
+ICF is a global advisory and technology services provider, but we’re not your typical consultants. We combine unmatched expertise with cutting-edge technology to help clients solve their most complex challenges, navigate change, and shape the future.
+ We can only solve the world's toughest challenges by building a workplace that allows everyone to thrive. We are an equal opportunity employer. Together, our employees are empowered to share their expertise and collaborate with others to achieve personal and professional goals. For more information, please read our  EEO  policy.
+
+ We will consider for employment qualified applicants with arrest and conviction records.
+
+ Work Authorization and Sponsorship 
+ All candidates must be authorized to work in the United States. This position is not eligible for new H-1B visa sponsorship by ICF. Candidates who currently hold valid work authorization may be considered for a change of employer petition, subject to company policy and applicable immigration requirements.
+
+ Reasonable Accommodations 
+ Reasonable Accommodations are available, including, but not limited to, for disabled veterans, individuals with disabilities, and individuals with sincerely held religious beliefs, in all phases of the application and employment process. To request an accommodation, please email  Candidateaccommodation@icf.com  and we will be happy to assist. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.  
+
+ Read more about  workplace discrimination rights  or our benefit offerings which are included in the  Transparency in (Benefits) Coverage Act.  
+
+ Bot and Third-Party Applications 
+ Please note that this application must be submitted directly by the applicant for consideration.  Failure to do so may result in the application being excluded for consideration .   Applicants needing an accommodation for disability or religious purposes in connection with the application process should contact  Candidateaccommodation@icf.com  for assistance.
+
+ Candidate AI Usage Policy 
+ At ICF, we are committed to ensuring a fair interview process for all candidates based on their own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) tools to generate or assist with responses during interviews (whether in-person or virtual) is not permitted. This policy is in place to maintain the integrity and authenticity of the interview process.  
+
+ However, we understand that some candidates may require accommodation that involves the use of AI. If such an accommodation is needed, candidates are instructed to contact us in advance at  candidateaccommodation@icf.com . We are dedicated to providing the necessary support to ensure that all candidates have an equal opportunity to succeed.  
+
+ Pay Range 
+ There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work experience, skills, certifications and competencies that align to the specified role, geographic location, education and certifications as well as contract provisions regarding labor categories that are specific to the position. 
+
+ The pay range for this position based on full-time employment is:
+$61,232.00 - $104,094.00 
+
+Nationwide Remote Office (US99)

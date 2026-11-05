@@ -1,0 +1,98 @@
+Guidehouse — Financial Management Technology Solution Architect
+https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Financial-Management-Technology-Solution-Architect_45654
+
+Job Family : 
+Solutions Architecture Consulting 
+ Travel Required : 
+Up to 10% 
+ Clearance Required : 
+Active Secret 
+
+ What You Will Do : 
+ Guidehouse is seeking a highly qualified Financial Management Technology Solution Architect to support Department of Defense (DoD) financial transformation, audit readiness, and modernization initiatives. This role serves as a technology leader responsible for architecting enterprise financial management solutions, leading delivery teams, and advising government executives on modernization strategies across finance, data, analytics, automation, and cloud platforms.
+ Responsibilities include, but are not limited to:
+ - Serve as a lead solution architect supporting DoD financial management transformation, audit readiness, business process modernization, and enterprise data initiatives.
+- Design and implement end-to-end technology architectures that integrate financial, logistics, acquisition, workforce, and operational data across complex defense environments while ensuring alignment with enterprise architecture, cybersecurity, and governance standards.
+- Lead the design, development, and deployment of enterprise financial management, analytics, and decision-support solutions leveraging technologies such as Palantir Foundry, Databricks, AWS, Azure, Power BI, Power Platform, UiPath, and enterprise ERP platforms.
+- Architect scalable data platforms, modern data architectures, and analytics ecosystems that enhance financial transparency, operational effectiveness, auditability, and executive decision-making.
+- Provide technical leadership and oversight for project teams, mentoring consultants and senior consultants while coordinating multiple workstreams to ensure successful delivery of client objectives.
+- Partner with senior government stakeholders, functional leaders, product owners, and technical teams to define technology roadmaps, modernization strategies, and implementation plans that address mission, business, and compliance requirements.
+- Translate complex financial management, audit readiness, and operational requirements into scalable technical solutions, data models, integration architectures, and system designs.
+- Lead requirements analysis, architecture reviews, technical design sessions, solution governance activities, and implementation planning throughout the system development lifecycle.
+- Design and oversee integration solutions that connect ERP, financial, logistics, acquisition, and operational systems to create authoritative and trusted enterprise data environments.
+- Support modernization initiatives within Army and broader DoD enterprise data environments, including platforms such as the War Data Platform (WDP) and other emerging analytics and decision-support ecosystems.
+- Ensure solution delivery adheres to federal financial management regulations, DoD policies, cybersecurity requirements, data governance standards, and audit readiness objectives.
+- Lead Agile delivery teams, oversee technical execution, manage risks and dependencies, and drive successful implementation of complex transformation initiatives.
+- Support business development and growth activities through technical solutioning, proposal development, capability presentations, and client relationship management.
+- This position requires a minimum of two (2) days per week onsite at client facilities, with additional onsite support required based on client needs and project requirements.
+
+ What You Will Need : 
+ - An ACTIVE and MAINTAINED "SECRET" Federal or DoD security clearance 
+- Bachelor's degree
+- EIGHT (8) or more years of professional experience supporting DoD or Federal technology modernization, enterprise data architecture, financial management transformation, digital transformation, analytics, or business systems modernization initiatives. Experience must include: - THREE (3) or more years of experience leading project teams, technical workstreams, solution implementations, architecture efforts, or cross-functional modernization initiatives.
+- Demonstrated experience designing, implementing, or overseeing enterprise technology solutions supporting financial management, audit readiness, enterprise analytics, data modernization, or digital transformation programs.
+- Developing solution architectures, technical roadmaps, integration strategies, and modernization approaches for complex organizations.
+- Hands-on experience with one or more of the following technologies: Palantir Foundry, Databricks, AWS Cloud Services, Microsoft Azure, Power BI, Power Platform, UiPath, SQL and Data Warehousing Technologies, ERP Platforms
+- Strong understanding of DoD or Federal financial management business processes, internal controls, audit readiness requirements, data governance practices, and enterprise reporting capabilities.
+- Working within Agile, DevSecOps, or modern software delivery environments.
+- Demonstrated ability to communicate technical concepts, architecture decisions, and modernization strategies to executive, functional, and technical stakeholders.
+- Facilitating workshops, requirements sessions, architecture reviews, and executive-level briefings.
+
+ What Would Be Nice To Have : 
+ - Master's degree in Information Systems, Computer Science, Data Analytics, Finance, Accounting, Engineering, Public Administration, or a related field.
+- Experience serving as a lead architect, technical lead, or modernization advisor supporting Department of Defense financial management organizations.
+- Experience supporting Army modernization initiatives and enterprise data environments, including War Data Platform (WDP), GFEBS, GFEBS-SA, LMP, Advana, or related enterprise ecosystems.
+- Experience designing and deploying solutions within Palantir Foundry, Databricks, AWS, Azure, or other large-scale cloud and analytics environments.
+- Experience implementing intelligent automation solutions using UiPath or comparable robotic process automation (RPA) technologies.
+- Experience with data governance, master data management, data quality, and enterprise data management frameworks.
+- Experience supporting CFO organizations, Comptroller functions, audit readiness initiatives, or financial statement audit remediation efforts.
+- Experience leading technical proposals, solution development efforts, and client growth initiatives.
+- Experience briefing Senior Executive Service (SES), General Officer/Flag Officer (GO/FO), CFO, Comptroller, or other executive-level stakeholders.
+
+The annual salary range for this position is $130,000.00-$216,000.00. Compensation decisions depend on a wide range of factors, including but not limited to skill sets, experience and training, security clearances, licensure and certifications, and other business and organizational needs. 
+ What We Offer : 
+ Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace.
+
+ Benefits include:
+ - Medical, Rx, Dental & Vision Insurance
+
+- Personal and Family Sick Time & Company Paid Holidays
+
+- Position may be eligible for a discretionary variable incentive bonus
+
+- Parental Leave and Adoption Assistance
+
+- 401(k) Retirement Plan
+
+- Basic Life & Supplemental Life
+
+- Health Savings Account, Dental/Vision & Dependent Care Flexible Spending Accounts
+
+- Short-Term & Long-Term Disability
+
+- Student Loan PayDown
+
+- Tuition Reimbursement, Personal Development & Learning Opportunities
+
+- Skills Development & Certifications
+
+- Employee Referral Program
+
+- Corporate Sponsored Events & Community Outreach
+
+- Emergency Back-Up Childcare Program
+
+- Mobility Stipend
+
+ About Guidehouse 
+ Guidehouse is an Equal Opportunity Employer–Protected Veterans, Individuals with Disabilities or any other basis protected by law, ordinance, or regulation.
+
+ Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco.
+
+ If you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.
+
+ All communication regarding recruitment for a Guidehouse position will be sent from Guidehouse email domains including @guidehouse.com or guidehouse@myworkday.com .  Correspondence received by an applicant from any other domain should be considered unauthorized and will not be honored by Guidehouse.  Note that Guidehouse will never charge a fee or require a money transfer at any stage of the recruitment process and does not collect fees from educational institutions for participation in a recruitment event. Never provide your banking information to a third party purporting to need that information to proceed in the hiring process.
+
+ If any person or organization demands money related to a job opportunity with Guidehouse, please report the matter to Guidehouse’s Ethics Hotline. If you want to check the validity of correspondence you have received, please contact recruiting@guidehouse.com . Guidehouse is not responsible for losses incurred (monetary or otherwise) from an applicant’s dealings with unauthorized third parties.
+
+ Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.

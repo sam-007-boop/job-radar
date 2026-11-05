@@ -1,0 +1,50 @@
+Amazon (incl. AWS data-center finance) — Senior Financial Analyst, AI Transformation 
+https://www.amazon.jobs/en/jobs/10596557/senior-financial-analyst-ai-transformation
+
+About Twitch
+
+Twitch is the world's biggest live streaming service, with global communities built around gaming, entertainment, music, sports, cooking, and more. It's where millions of people come together to chat, interact, and make their own entertainment.
+
+We're about community, inside and out. You'll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We're on a quest to empower live communities, so if this sounds good to you, see what we're up to on LinkedIn and Twitter, get interviewing tips on Instagram, and discover projects we're solving on our Blog.
+
+About the Role
+
+At Twitch, Financial Planning & Analysis (FP&A) partners with key stakeholders across the business to guide financial decisions and deliver actionable insights that shape the company’s growth. We are seeking a Senior Financial Analyst to join our team, reporting to the Director of FP&A. In this role, you will act as a bridge between FP&A and emerging artificial intelligence tools, shifting from manual number-crunching to automated, agentic finance workflows and strategic data insights.
+
+You will help drive visibility into Twitch’s financial performance, support strategic initiatives, and develop data-driven recommendations that influence key business outcomes. Your analysis and insights will directly inform decisions made by the CFO and executive leadership team. If you are passionate about uncovering insights that drive business growth and improve financial outcomes, this role is for you.
+
+You can work from San Francisco, CA; Seattle, WA; New York City, NY; Los Angeles, CA.
+
+You Will
+
+- AI & Workflow Automation: Partner with tech teams to implement AI agents, agentic workflows, and automated data pipelines to streamline budgeting, forecasting, variance analysis, and reconciliations
+FP&A Modernization: Leverage AI tools to move away from manual data extraction and report formatting to focus on real-time driver-based forecasting, KPI metrics, and strategic advisory
+- Technology & ROI Business Analysis: Build financial models and evaluate business usage for enterprise software, AI licensing, and modernization initiatives. Support the annual planning and budgeting process, including data gathering, analysis, and coordination across departments
+- Business Partnering: Serve as a financial partner to Enterprise Platform & Technology (EPT) and Fintech organizations to support all forecasting and performance reporting activities
+- Executive Presentations: Create presentations that distill complex financial data into clear, concise charts and tables for senior leadership
+
+- 3+ years of contributing to cross-functional initiatives that drive financial performance and strategy experience
+- Bachelor's degree in finance, accounting, business, economics, or a related analytical field
+- 3+ years of experience in finance, ideally with experience in FP&A at a public company
+- Experience leveraging AI tools to improve processes and build scalable solutions
+- Excellent analytical, problem-solving, and communication skills
+- Ability to thrive in a fast-paced environment with high standards of quality, accuracy, and fidelity
+- Strong organizational skills and attention to detail
+- Confidence working with all levels of management
+
+- Experience leveraging top-tier agentic AI tools (e.g., OpenAI Codex, Anthropic Claude Code, Google Antigravity) to automate and enhance workflows
+- Experience with Corp FP&A functions, and know-how for leveraging finance applications (TM1, OFA, Hyperion, etc.) in analysis
+- Experience in leading continuous improvement projects with measurable results
+- Experience with coding languages (Python/SQL)
+
+Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+ The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . 
+
+USA, CA, SAN FRANCISCO - 73,600.00 - 128,800.00 USD annually

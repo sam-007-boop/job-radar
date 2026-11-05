@@ -1,0 +1,47 @@
+Airbnb — Staff, Advanced Analytics 
+https://careers.airbnb.com/positions/8331899?gh_jid=8331899
+
+Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way. The Community You Will Join:  
+ Airbnb, a leader in travel and hospitality, is on a mission to create a world where anyone can belong anywhere. We offer unique accommodations and experiences, crafted and curated by locals. As we expand into new marketplaces for in-person experiences and services, we are on the lookout for driven and innovative individuals to help shape our growth trajectory. 
+ The Difference You Will Make: 
+ Airbnb is seeking a Staff, Advanced Analytics, to support our Host Incentives team. This individual will play a pivotal role in supporting strategic business and product initiatives through detailed data analysis, experimentation, statistical modeling, and the development of reporting tools and metrics. The individual will be instrumental in building and scaling an efficient, effective incentive program for our hosts. 
+ A Typical Day:  
+
+ Own the measurement strategy for host incentives end to end, and drive the roadmap with limited direction. 
+ Set the analytical standard for how host incentive programs are evaluated and act as the senior thought partner to Operations, Data Science, Finance, and Product leadership. 
+ Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches. 
+ Apply technical expertise with quantitative analysis, experimentation, data mining, forecasting and the presentation of data to identify trends and patterns that can inform decision-making. 
+ Collaborate closely with Operations, Data Science, Finance, Product and other cross-functional teams to provide actionable insights. 
+ Design, execute, and analyze experiments to measure impact and guide incentive iterations. Leverage causal methods when traditional randomized trials aren’t available. 
+ Design and build metrics / dimensions to monitor product and business performance. 
+ Build sophisticated reporting and analytical tools that empower stakeholders to make data-driven decisions. 
+ Present findings and recommendations to stakeholders, including senior leadership, in a clear and concise manner. 
+ Stay up-to-date with the latest industry trends and advancements in quantitative and qualitative data analysis techniques. 
+ Leverage AI to automate repetitive tasks and empower stakeholders. 
+
+ Your Expertise: 
+
+ 10+ years of industry experience with a degree (Masters or PhD is a plus) in a quantitative field (e.g., Statistics, Econometrics, Computer Science, Engineering, Mathematics, Data Science, Operations Research). 
+ Prior experience in an advanced analytics or data science role. 
+ Experience measuring incentive, promotion, pricing or marketing-spend programs, including incrementality and ROI, strongly preferred. 
+ Exceptional business acumen, strategic thinking skills, and the ability to conduct rigorous analysis and make informed judgments. 
+ Excellent communication skills, capable of engaging with a variety of stakeholders and conveying complex concepts in an accessible manner. 
+ Proven stakeholder management skills, with the ability to collaborate and influence across functions. 
+ Experience partnering with Operations and Finance teams to drive action and provide expertise and direction on analytics, experimental design, and measurement. 
+ Experience in analysis of A|B experiments and statistical data analysis. 
+ Experience designing and building metrics, from conception to building prototypes with data pipelines. 
+ Strong expertise in at least one programming language (Python or R) and SQL. 
+ An agile, growth-minded approach, demonstrated through a history of driving projects from ideation to impact. 
+ Experience with AI-assisted analytics (Claude, ChatGPT, etc). 
+
+ Your Location: 
+ This position is US - Remote Eligible. The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager. While the position is Remote Eligible, you must live in a state where Airbnb, Inc. has a registered entity. Click here for the up-to-date list of excluded states. This list is continuously evolving, so please check back with us if the state you live in is on the exclusion list  If your position is employed by another Airbnb entity, your recruiter will inform you what states you are eligible to work from. 
+ Our Commitment To Inclusion & Belonging: 
+ Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply. 
+ We strive to also provide a disability inclusive application and interview process. If you are a candidate with a disability and require reasonable accommodation in order to submit an application, please contact us at: reasonableaccommodations@airbnb.com . Please include your full name, the role you’re applying for and the accommodation necessary to assist you with the recruiting process.  
+ We ask that you only reach out to us if you are a candidate whose disability prevents you from being able to complete our online application. 
+ Equal Employment Opportunity : 
+ Airbnb values diversity & belonging and is proud to be an Equal Employment Opportunity employer. All individuals seeking employment at Airbnb are considered without regard to race, color, religion, national origin, age, gender, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, gender expression, sexual orientation, or any other legally protected characteristic.  How We'll Take Care of You: 
+ Our job titles may span more than one career level. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future. This role may also be eligible for bonus, equity, benefits, and Employee Travel Credits.   Pay Range $180,000 — $221,000 USD   
+ Reasonable Accommodations: We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role. 
+ A Note on Recruiting Scams: Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @ airbnb.com or @ ext.airbnb.com email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing.  We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb.
