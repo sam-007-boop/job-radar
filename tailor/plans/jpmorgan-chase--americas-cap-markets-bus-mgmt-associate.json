@@ -1,0 +1,46 @@
+{
+ "company": "JPMorgan Chase",
+ "role": "Americas Capital Markets Business Management, Associate",
+ "variant": "finance-core",
+ "job_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800893",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting asks for tracking against monthly, quarterly and annual forecasts."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Posting asks for accurate reporting and attention to detail."
+  },
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Market Analysis, Financial Analysis & Research, Data Presentation, Financial Modeling, Understanding of Financial Products, Corporate Finance, Due Diligence, Investment Research, Bloomberg, S&P Capital IQ",
+   "why": "Posting emphasizes market analysis, reporting and presentation."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: says plainly this was marketing budget work, not investment diligence."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear JPMorgan Capital Markets Business Management Team,",
+  "paragraphs": [
+   "I'm applying for the Americas Capital Markets Business Management Associate role at JPMorgan Chase. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Having worked at the firm as a consultant, I know how much depends on reporting that leaders can trust, and this role sits close to the people who rely on it.",
+   "At JPMorgan Asset Management I worked on budget allocation across marketing channels. I benchmarked past allocations, which identified 30% in efficiency gains, and prepared executive-level briefs for senior leadership. At Lenovo I built forecasts and scenario analyses on capital allocation that improved capital efficiency by 15%, and ran variance analyses on budget changes. At Thomson Reuters I supported monthly P&L forecasting, variance analysis and close for the ANZ region.",
+   "That maps to the P&L and headcount reporting, forecast tracking and competitor benchmarking in this role. I haven't worked on a capital markets desk or used Dealogic, and I don't have deal experience, so the product side would be new to me. I'd bring the ability to make the numbers tie, keep several deadlines moving, and work well with bankers, controllers and compliance. I'd welcome the chance to talk."
+  ]
+ }
+}

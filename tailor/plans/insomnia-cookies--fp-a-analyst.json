@@ -1,0 +1,46 @@
+{
+ "company": "Insomnia Cookies",
+ "role": "FP&A Analyst",
+ "variant": "finance-core",
+ "job_url": "https://www.builtinnyc.com/job/fp-analyst/12073917",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting centers on budgeting, forecasts and models for investment and operational decisions."
+  },
+  {
+   "old": "Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions",
+   "new": "Created AI powered analytical dashboards and data-driven materials integrating predictive metrics and financial projections to support funding decisions",
+   "why": "Posting asks for KPI dashboards and automated reporting."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Posting asks for partnering with Accounting on accurate results."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: says plainly this was marketing budget work, not investment diligence."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Insomnia Cookies Finance Team,",
+  "paragraphs": [
+   "I'm applying for the FP&A Analyst role at Insomnia Cookies. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. What interests me is that this role goes past reporting. Questions about labor, pricing and new bakery openings are concrete decisions, and the analysis either helps an operator make a better call or it doesn't.",
+   "At Lenovo I built forecasts and scenario analyses on capital allocation that improved capital efficiency by 15%, and ran variance and sensitivity analyses on budget changes. At Thomson Reuters I supported monthly P&L forecasting, variance analysis and close for the ANZ region, and worked on cash flow analysis and reconciliation. At JPMorgan Asset Management I worked on budget allocation across marketing channels and benchmarked past allocations, which identified 30% in efficiency gains.",
+   "That maps to the budgeting, monthly reporting and business partnering you describe. My background is corporate rather than restaurant or retail finance, so bakery-level economics would be new to me, and I'd start by learning how the shops run. I'd bring strong Excel habits, and I'm comfortable asking why a number moved and explaining the answer plainly. I'd welcome the chance to talk."
+  ]
+ }
+}

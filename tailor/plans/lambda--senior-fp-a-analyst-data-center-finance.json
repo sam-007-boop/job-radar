@@ -1,0 +1,46 @@
+{
+ "company": "Lambda",
+ "role": "Senior FP&A Analyst - Data Center Finance",
+ "variant": "project-finance-solar",
+ "job_url": "https://jobs.ashbyhq.com/Lambda/c9b27265-ffb4-482a-b778-2c572796b325",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, driver models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting asks for driver-based models and scenario evaluation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Posting asks for reconciling financial data; this keeps the accurate reconciliation work."
+  },
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Project Finance, Financial Modeling, Financial Analysis, Valuation Analysis, Renewable Energy Finance, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Data Presentation, Bloomberg, S&P Capital IQ",
+   "why": "Posting lists project finance exposure and modeling."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: says plainly this was marketing budget work, not investment diligence."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Lambda DC / Infrastructure Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Senior FP&A Analyst, Data Center Finance role at Lambda. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. What interests me is that this role follows a site from budget through deployment and operations, then checks the result against what was approved. Most finance roles only see one piece of that.",
+   "My closest experience is an MBA project: I built project- and portfolio-level models for a 6-project, 35.4 MW Illinois solar portfolio, evaluating capital structure, DSCR, NPV and levered IRR under post-ITC scenarios, with downside sensitivities. At Lenovo I built forecasts and scenario analyses on capital allocation that improved capital efficiency by 15%, and ran variance and sensitivity analyses on budget changes. At Thomson Reuters I worked on cash flow analysis and reconciliation and supported monthly P&L forecasting and close for the ANZ region.",
+   "That maps to the driver-based site models, the variance work and the investment return analysis you describe. The solar project was coursework rather than a live build, and construction budgeting and lease accounting would be new to me, so I'd expect to learn a lot from the Data Center Development team. I'd bring careful modeling and clear explanations of what moved and why. I'd welcome the chance to talk."
+  ]
+ }
+}

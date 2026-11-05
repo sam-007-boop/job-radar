@@ -1,0 +1,46 @@
+{
+ "company": "Lambda",
+ "role": "Senior FP&A Analyst - Supply Chain Finance",
+ "variant": "project-finance-solar",
+ "job_url": "https://jobs.ashbyhq.com/Lambda/e5e78c83-e0c8-465d-8d5b-cc92b7c0ecf8",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting centers on capital spending forecasts and purchasing scenarios."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Posting asks for reconciling detailed financial data and investigating variances."
+  },
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Financial Modeling, Financial Analysis, Project Finance, Valuation Analysis, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Renewable Energy Finance, Data Presentation, Bloomberg, S&P Capital IQ",
+   "why": "Posting leads with financial modeling and cost analysis."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: says plainly this was marketing budget work, not investment diligence."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Lambda DC / Infrastructure Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Senior FP&A Analyst, Supply Chain Finance role at Lambda. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. What interests me is the link you draw between purchasing plans, delivery schedules and cash. For an AI cloud, the timing of equipment spend matters as much as the price, and idle equipment is cash tied up.",
+   "At Thomson Reuters I handled cash flow analysis and reconciliation across 80%+ of total inflows, and the order-to-cash work I supported cut the cash conversion cycle by 20%. At Lenovo I built forecasts and scenario analyses on capital allocation that improved capital efficiency by 15%, and ran variance and sensitivity analyses on budget changes. In my MBA I modeled a 6-project, 35.4 MW solar portfolio, including DSCR, NPV and levered IRR.",
+   "That maps to the commitments tracking, the cash forecasting and the variance work in this role. I haven't worked in hardware supply chain finance, so supplier economics and depreciation by asset class would be new to me, and I'd plan to learn them quickly from Sourcing and Accounting. I'd bring careful reconciliation and clear explanations of what changed and why. I'd welcome the chance to talk."
+  ]
+ }
+}
