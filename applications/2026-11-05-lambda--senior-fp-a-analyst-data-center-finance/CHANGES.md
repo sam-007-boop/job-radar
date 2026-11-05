@@ -10,7 +10,7 @@ Length check: passed (not longer than your original).
 
 **1.** Posting asks for driver-based models and scenario evaluation.
 - Before: Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%
-- After: Built forecasts, driver models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%
+- After: Built forecasts, driver models and scenario analyses on capital allocation, improving capital efficiency by 15%
 
 **2.** Posting asks for reconciling financial data; this keeps the accurate reconciliation work.
 - Before: Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting
