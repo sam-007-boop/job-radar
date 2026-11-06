@@ -1,0 +1,42 @@
+Amazon (incl. AWS data-center finance) — Senior Financial Analyst, Amazon Leo Finance, LEO Infrastructure Finance
+https://www.amazon.jobs/en/jobs/10598151/senior-financial-analyst-amazon-leo-finance-leo-infrastructure-finance
+
+Amazon Leo is building the world's most advanced low Earth orbit satellite network, delivering fast, affordable broadband to enterprise and consumer customers globally. This is one of the most ambitious infrastructure programs in Amazon's history — combining satellite manufacturing, silicon development, global supply chain, terrestrial infrastructure, and enterprise technology at unprecedented scale. Leo Infrastructure Finance is at the center of it all.
+
+It’s Day 1 for Amazon’s next billion dollar business and we are looking for an entrepreneurial minded Senior Financial Analyst to support the Payload Antenna Development organization — the team responsible for designing, building, and sustaining the satellite's most complex subsystem: the Phased Array Antenna (PAA). The team concurrently manages three full-lifecycle programs — Gen1 production and constellation operations, Gen2 PAA development, and Direct-to-Device (D2D), a new phased array architecture enabling satellite-to-handset connectivity. This role may also support a broader consolidation scope spanning ground infrastructure and payload antenna systems across these programs.
+
+The successful candidate will partner with engineering and finance leaders across hardware development, RF & antenna technology, systems engineering, and test infrastructure to develop operating plans, track multi-program budgets spanning OPEX and CAPEX, and deliver financial insights that enable leadership to make resource allocation decisions across competing program priorities. You will need to be strategic, analytical, and comfortable operating in a fast-moving environment where multiple programs compete for shared resources, lab venues, and funding.
+
+Key job responsibilities
+- Partner with Payload engineering leadership and cross-functional teams to manage competing priorities and provide financial guidance across Gen1 PAA production, Gen2 PAA development and D2D phased array development.
+
+- Own multi-program P&L and cost models spanning hardware development builds, antenna test infrastructure, and lab facility investments, and develop accurate Operating Plans, Guidance, headcount plans, and incremental funding requests with clear trade-off and risk narratives.
+
+- Build financial models that quantify cost, schedule, and risk trade-offs — such as antenna test venue contention, dedicated facility investment, and resource allocation across concurrent PAA and ground gateway programs — to drive data-driven decision making.
+
+- Present financial summaries, variance analysis, and business insights to Senior Management (Business and Finance), connecting financial data to hardware program milestones and launch readiness.
+
+- Identify opportunities to improve, automate, or simplify financial processes and reporting tools to scale controllership as program complexity grows.
+
+- Participate in Finance initiatives including month-end close, ad hoc analyses, and periodic reporting activities.
+
+About the team
+This role sits within Leo Infrastructure Finance, the team responsible for financial planning and analysis across Amazon Leo's infrastructure cost pillars. Our team specifically covers customer terminals, ground infrastructure, and antenna development (payload + CT), partnering with engineering and operations leaders across these organizations. You will work alongside finance partners across Amazon Leo in a highly collaborative, cross-functional environment.
+
+- Bachelor's degree in business, finance, accounting, tax, economics, or a related analytical field
+- 3+ years of finance, accounting, or related analytical field experience
+- 3+ years of dissecting financial data and identifying patterns that support business strategy experience
+- 3+ years of contributing to cross-functional initiatives that drive financial performance and strategy experience
+- Can meet export control requirements by being a U.S. citizen or national, U.S. permanent resident (i.e., current Green Card holder), or lawfully admitted into the U.S. as a refugee or granted asylum
+
+- 4+ years of participating in continuous improvement projects in your team to scale and improve controllership with measurable results experience
+- MBA, or CPA
+- Experience working with large-scale data mining and reporting tools (examples: SQL, MS Access, Essbase, Cognos) and other financial systems (examples: Oracle, SAP, Lawson, JD Edwards)
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+ The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . 
+
+USA, WA, BELLEVUE - 82,700.00 - 117,100.00 USD annually
