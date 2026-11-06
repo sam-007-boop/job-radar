@@ -1,0 +1,52 @@
+{
+ "company": "Glia",
+ "role": "Senior FP&A Analyst",
+ "variant": "finance-core",
+ "job_url": "https://www.builtinnyc.com/job/senior-fp-analyst/12097829",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting centers on forecasting and modeling."
+  },
+  {
+   "old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+   "new": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment and strengthen budgeting and forecasting across teams",
+   "why": "Posting asks for company-wide budgeting and forecasting with department leaders."
+  },
+  {
+   "old": "Technical: Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM, Python",
+   "new": "Technical: Excel, Salesforce, Tableau, Datorama, SAP, PowerPoint, Python, CRM Systems, CRM",
+   "why": "Same skills, reordered so Excel, Salesforce and Tableau lead as the posting asks."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Glia Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Senior FP&A Analyst role at Glia. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. I'm interested in Glia because it sells AI to banks and credit unions, and this role connects the operating plan across go-to-market and product at a company that is still scaling.",
+   "At Lenovo I spent two years as a Senior Business Analyst, building forecasts and scenario analyses that improved capital efficiency by 15% and running variance and sensitivity analyses on budget reallocation. At JPMorgan Asset Management I worked as a consultant on marketing-channel budget allocation. I built models to evaluate $10M in spend, benchmarked past allocations to find 30% in efficiency gains, and prepared executive-level briefs for senior leadership. At Thomson Reuters I supported monthly P&L forecasting, variance analysis and close for the ANZ region.",
+   "That maps to the operating plan, department budgets and board and executive reporting here. SaaS metrics and a planning platform like Adaptive would be new for me, but I work well in Excel, Salesforce and Tableau and pick up tools quickly. I'd welcome the modeling test and the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and I'm applying for the Senior FP&A Analyst role at Glia. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15%, and at JPMorgan Asset Management I prepared executive-level briefs on budget allocation. I'd love to hear how the finance team works with department leaders. Would you have 15 minutes for a quick chat?"
+}

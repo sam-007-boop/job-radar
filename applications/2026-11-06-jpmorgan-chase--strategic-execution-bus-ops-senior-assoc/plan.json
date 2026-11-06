@@ -1,0 +1,52 @@
+{
+ "company": "JPMorgan Chase",
+ "role": "Strategic Execution Business Operations Team – Senior Associate",
+ "variant": "data-analytics",
+ "job_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770225",
+ "edits": [
+  {
+   "old": "Synthesized large datasets into executive-level reporting and dashboards, translating complex data into actionable insights for senior leadership on capital allocation and strategic planning",
+   "new": "Synthesized large datasets into executive-level reporting and dashboards, turning complex data into clear, leadership-ready materials on budget allocation and planning",
+   "why": "Posting asks to synthesize complex, cross-team information into clear, leadership-ready materials."
+  },
+  {
+   "old": "Conducted data-driven performance analysis and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "new": "Owned mapping and QA for AI-powered analytical dashboards with real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "why": "Accuracy fix: Sam owned mapping and QA, not the build."
+  },
+  {
+   "old": "Technical: Excel, Tableau, Salesforce, Datorama, Python, SQL, CRM Systems, ETL Processes, SAP, PowerPoint, CRM, Financial Modeling, JIRA, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Technical: Excel, PowerPoint, Tableau, JIRA, Python, SQL, Salesforce, Datorama, CRM Systems, ETL Processes, SAP, CRM, Financial Modeling, Data Presentation, Market Analysis, Due Diligence, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "why": "Same skills, reordered so Excel, PowerPoint and Tableau lead as the posting asks."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Data & Analytics Strategic Execution Team,",
+  "paragraphs": [
+   "I'm applying for the Senior Associate role on the Strategic Execution & Business Operations Team. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. What stands out to me is that this team is the chief-of-staff function for a 2,000-person organization, so the work is about helping leaders turn priorities into coordinated action. I also like that the seat covers AI productivity measurement and executive reporting, not just meeting logistics.",
+   "At JPMorgan Asset Management I worked as a consultant on marketing-channel budget allocation. I turned large datasets into executive reporting and dashboards for senior leadership, and benchmarked past allocations in work that identified 30% in efficiency gains. At Lenovo I spent two years as a Senior Business Analyst working across teams. I documented business requirements, turned stakeholder needs into dashboards, and owned the mapping and QA on reporting automation that saved 4+ hours a week.",
+   "That maps to the operating rhythms, business reviews and leadership materials here. I'm comfortable being the person who tracks the moving parts and gets a clear summary in front of leadership. Exposure to the firm from my JPMorgan work also helps me understand how a large matrixed organization runs. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and I'm applying for the Senior Associate role on the Strategic Execution & Business Operations Team. I worked at JPMorgan Asset Management as a consultant, building executive reporting and dashboards for senior leadership, and at Lenovo before that. I'd love to hear how the team runs its operating rhythms. Would you have 15 minutes for a quick chat?"
+}

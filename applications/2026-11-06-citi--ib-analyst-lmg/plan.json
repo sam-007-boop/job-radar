@@ -1,0 +1,47 @@
+{
+ "company": "Citi",
+ "role": "Investment Banking Analyst - LMG",
+ "variant": "finance-core",
+ "job_url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Investment-Banking-Analyst---LMG_261006859",
+ "edits": [
+  {
+   "old": "Analyzed financial statements and disclosures to assess performance and earnings quality across firms and peers",
+   "new": "Analyzed financial statements and disclosures to assess performance against peers and industry trends",
+   "why": "Posting asks to evaluate company performance against industry and market trends."
+  },
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Financial Modeling, Corporate Finance, Market Analysis, Financial Analysis & Research, Data Presentation, Investment Research, Due Diligence, Understanding of Financial Products, Bloomberg, S&P Capital IQ",
+   "why": "Same skills, reordered so modeling and corporate finance lead."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Citi Investment Banking Team,",
+  "paragraphs": [
+   "I'm applying for the Investment Banking Analyst role in the LMG group in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. I'm interested in this seat because it sits close to the client work, with valuation materials and financial research feeding directly into pitches and advice.",
+   "My strongest preparation is in valuation, and it comes from MBA coursework rather than live deals. I valued J.M. Smucker using equity and enterprise value bridges and trading comps, built a DCF with WACC, terminal value and sensitivity analysis that I matched against a sell-side model, and built an LBO for the company. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15%. At JPMorgan Asset Management I worked on marketing-channel budget allocation, building models to evaluate $10M in spend.",
+   "That maps to the models, valuation materials and research an analyst produces here. I know the transaction side would be new for me, and I'm ready to learn it quickly and do the detailed work well. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and I'm applying for the Investment Banking Analyst role in LMG. My background is in forecasting and modeling at Lenovo and JPMorgan Asset Management, and in my MBA I built a DCF and LBO on J.M. Smucker and matched the DCF against a sell-side model. I'd love to hear what the team looks for. Would you have 15 minutes for a quick chat?"
+}

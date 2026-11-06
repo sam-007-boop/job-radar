@@ -1,0 +1,47 @@
+{
+ "company": "Hightower",
+ "role": "Financial Analyst, Data Management & Reporting - Nucleus Advisors",
+ "variant": "data-analytics",
+ "job_url": "https://www.builtinnyc.com/job/financial-analyst-data-management-reporting-nucleus-advisors/12096473",
+ "edits": [
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation and data checks, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Posting centers on quality checks that keep data accurate and complete. Also an accuracy fix: reconciliation, not diligence."
+  },
+  {
+   "old": "Synthesized large datasets into executive-level reporting and dashboards, translating complex data into actionable insights for senior leadership on capital allocation and strategic planning",
+   "new": "Synthesized large datasets in Excel into executive-level reporting and dashboards, presenting complex data clearly for senior leadership on budget allocation and planning",
+   "why": "Posting asks for analyzing large datasets in Excel and conveying complex topics simply."
+  },
+  {
+   "old": "Conducted data-driven performance analysis and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "new": "Owned mapping and QA for AI-powered analytical dashboards with real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "why": "Accuracy fix: Sam owned mapping and QA, not the build."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Nucleus Advisors Client Portfolios Team,",
+  "paragraphs": [
+   "I'm applying for the Financial Analyst, Data Management & Reporting role at Nucleus Advisors. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. I'm interested in this role because accurate reporting on alternative investments is what clients rely on, and it's a good way to learn asset allocation and private markets from the inside.",
+   "Most of my work has been keeping numbers reliable and easy to read. At Thomson Reuters I handled cash flow analysis covering 80%+ of total inflows and ran reconciliation that reached 85%+ accuracy in revenue recognition and reporting. At JPMorgan Asset Management I turned large datasets into executive reporting and dashboards for senior leadership on marketing-channel budget allocation. At Lenovo I owned the mapping and QA on reporting automation that saved 4+ hours a week, so I know where a reporting process tends to break.",
+   "That maps to the monthly and quarterly client reports, data quality checks and process documentation on your team. Working with fund managers and administrators would be new for me, and I'd want to learn it quickly. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and I'm applying for the Financial Analyst, Data Management & Reporting role at Nucleus Advisors. At Thomson Reuters I ran reconciliation and cash flow analysis, and at JPMorgan Asset Management I built executive reporting and dashboards. I'd love to hear how the Client Portfolios team works. Would you have 15 minutes for a quick chat?"
+}
