@@ -1,0 +1,38 @@
+JPMorgan Chase — Program Management - Firmwide Financial Control
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803998
+
+Help modernize how securities transactions are accounted for and controlled across a global platform. You will work with finance, technology, operations, and accounting policy partners to design solutions that improve accuracy, transparency, and scalability. This role offers broad exposure to complex fixed income products, multi‑region requirements, and large transformation programs. If you enjoy solving ambiguous problems and translating accounting needs into buildable solutions, you’ll thrive here.
+ Job summary 
+ As a Senior Associate within the Strategic Finance Program Management team, you will partner with stakeholders across regions to deliver accounting architecture change from requirements through testing and readiness. You will document accounting requirements for debt instruments under U.S. GAAP and applicable local accounting standards, and translate those requirements into clear deliverables for technology and operations teams. You will contribute to a multi‑year initiative to build an in‑house securities processing platform, with initial focus on Latin America, Europe/Middle East/Africa, and Asia Pacific. You will help strengthen the control environment and ensure solutions align to established finance principles.
+ Job responsibilities 
+ - Partner with finance, operations, and accounting policy stakeholders to define and document detailed accounting requirements and calculations for debt instruments
+- Analyze data and end‑to‑end processes to identify gaps, root causes, and actionable solutions
+- Translate business and accounting requirements into functional documentation and testable outcomes
+- Collaborate with technology teams throughout analysis, build, defect triage, and delivery milestones
+- Write, execute, and document user acceptance testing test cases and results
+- Participate in end‑to‑end testing, production parallel testing, and conversion testing to support implementation readiness
+- Design, assess, and improve controls to support a strong control environment across the new infrastructure
+- Ensure proposed solutions align with established finance principles and key design rules
+- Maintain project governance artifacts, including trackers, project plans, and working group documentation
+- Communicate progress, risks, and decisions clearly to senior and cross‑functional stakeholders
+- Support a portfolio of initiatives ranging from production remediation to large, multi‑year transformation programs
+ Required qualifications, capabilities and skills
+ - Minimum of 3 years of finance or accounting experience
+- Working knowledge of accounting for debt instruments under U.S. GAAP and applicable local accounting standards
+- Experience producing clear requirements documentation and performing functional analysis
+- Strong analytical and problem‑solving skills, including structured root cause analysis
+- Ability to communicate complex topics clearly in writing and in presentations
+- Strong collaboration and relationship‑building skills across functions and regions
+- Ability to manage multiple priorities in a fast‑paced, changing environment
+- High attention to detail and a strong quality mindset
+- Experience supporting testing activities (for example, user acceptance testing)
+- Proficiency in Microsoft Excel (pivot tables, lookups, and functions) and Microsoft PowerPoint and Word
+ Preferred qualifications, capabilities and skills
+ - Fixed income securities accounting experience
+- Experience with finance data and ledger/reporting processes (for example, management reporting and general ledger)
+- Familiarity with SAP S/4HANA general ledger environments
+- Experience supporting large system replacements or multi‑year platform builds
+- Prior experience in requirements analysis for finance transformation initiatives
+- Conversational or fluent Spanish or Portuguese
+- Experience working across Latin America, Europe/Middle East/Africa, and Asia Pacific stakeholder groups
+ To be eligible for this role, you must be authorized to work in the United States. We do not offer any type of employment-based immigration sponsorship for this role. Likewise, JPMorgan Chase & Co. will not provide any assistance or sign any documentation in support of any other form of immigration sponsorship or benefit, including optional practical training (OPT) or curricular practical training (CPT).

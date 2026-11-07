@@ -1,0 +1,30 @@
+JPMorgan Chase — Finance Decision Optimization Team - Analytics Solutions Senior Associate
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806865
+
+Are you passionate about transforming Finance through technology?  
+ As an Analytics Solutions Senior Associate, within the Finance Decision Optimization team, you will enhance and deliver technology-enabled forecasting solutions that improve process efficiency, controls, and stakeholder outcomes and work across Finance, Analytics, Product, and Technology teams to understand forecasting needs, translate them into actionable requirements, analyze data and calculations, and provide hands-on analytical and technical support throughout the delivery lifecycle, from intake through production. 
+ Job responsibilities: 
+ - Translate finance and business needs into clear requirements, user stories, acceptance criteria, and development-ready artifacts for forecasting and analytical solutions  
+- Analyze forecasting processes, business drivers, calculations, data inputs, and outputs to understand requested changes and validate expected results  
+- Use Python, SQL, Databricks, and approved AI-enabled tools to analyze data, troubleshoot issues, and support solution delivery 
+- Partner with Finance, Analytics, Product, and Technology teams through requirements, development, testing, user acceptance testing (UAT), implementation, and post-production validation  
+- Support enhancements to forecasting calculators, analytical workflows, data inputs/outputs, controls, and business processes 
+- Maintain delivery status, dependencies, risks, and progress tracking in Jira; participate in ceremonies/scrums; escalate blockers and drive issues through resolution  
+- Prepare materials for monthly/quarterly reporting deliverables; communicate progress and key risks to stakeholders; identify opportunities to simplify manual activities and improve controls and documentation  
+
+ Required qualifications, capabilities, and skills: 
+ - Bachelor’s degree in either finance, economics, analytics, data science, engineering, computer science, or a related field 
+- 5+ years of relevant experience in forecasting/analytics/data analytics/financial services or similar analytical roles  
+- Strong Python skills to analyze and troubleshoot analytical workflows (read/modify existing code, debug, add validations/sanity checks, and document changes)  
+- Ability to understand business and forecasting logic (inputs, calculations, drivers, assumptions, outputs) and translate it into clear implementation requirements  
+- Experience supporting analytical or technology solutions through requirements, reconciliation/validation, UAT, and implementation  
+- Familiarity with data governance, controls, and controlled production deployment concepts 
+- Strong quantitative, analytical, and problem-solving skills with attention to detail, plus strong execution/organization/communication skills to manage multiple workstreams across Finance, Analytics, Product, and Technology teams  
+
+ Preferred qualifications, capabilities, and skills: 
+ - Experience with budgeting, forecasting, P&A/FP&A, stress testing, CCAR, or other financial services forecasting processes  
+- Experience working with Databricks or a comparable cloud-based data and analytics environment  
+- Experience with Jira and Agile or Kanban delivery practices; familiarity with Git, Bitbucket, and CI/CD concepts 
+- Familiarity with AI-assisted analytics or development tools and their application to requirements analysis, data analysis, testing, troubleshooting, documentation, or code generation  
+
+ We do not offer any type of employment-based immigration sponsorship for this position. Likewise, JPMorganChase , will not provide any assistance or sign any documentation in support of any other form of immigration sponsorship or benefit including optional practical training (OPT) or curricular practical training (CPT).

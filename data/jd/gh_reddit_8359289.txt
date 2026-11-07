@@ -1,0 +1,61 @@
+Reddit — Senior Product Manager, Finance Technology (Procure-to-Pay & Record-to-Report)
+https://job-boards.greenhouse.io/reddit/jobs/8359289
+
+Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com . 
+
+ Join our Finance Applications team as a Senior Product Manager focused on Procure-to-Pay (P2P) and Record-to-Report (R2R). You will own the product roadmap and delivery for the systems and capabilities that support procurement, accounts payable, general ledger, close, consolidation, and financial reporting. Your portfolio will include platforms such as Zip, Coupa, Ramp, NetSuite, Workiva, and related integrations and data products. 
+ At Reddit, you will partner with Finance, Accounting, Procurement, Engineering, and business systems teams to turn complex operational needs into scalable, secure, and well-controlled solutions. You will lead discovery, prioritize the backlog, define requirements, and guide initiatives from concept through launch and adoption. 
+ Success in this role requires strong finance process knowledge, sound product judgment, and the ability to move between strategy and execution. You will bring structure to ambiguous problems, make clear tradeoffs, and deliver measurable improvements in efficiency, controls, data quality, and the employee experience. 
+
+ Responsibilities: 
+
+ Own and maintain the product roadmap and backlog for P2P and R2R capabilities, aligned with Finance Technology priorities and business outcomes. 
+ Partner with Procurement, Accounts Payable, Accounting, Tax, Treasury, Internal Audit, and other stakeholders to understand pain points, map current-state processes, and define scalable future-state solutions. 
+ Translate business needs into clear product requirements, functional specifications, process maps, data flows, user stories, and acceptance criteria. 
+ Lead product discovery, fit-gap analysis, solution design, prioritization, and delivery across Zip, Coupa, Ramp, NetSuite, Workiva, integration middleware, reporting, and related finance applications. 
+ Drive improvements across purchasing, supplier onboarding, invoicing, approvals, payments, general ledger, intercompany, fixed assets, month-end close, consolidation, and financial reporting. 
+ Lead cross-functional initiatives and system enhancements from planning through testing, deployment, change management, adoption, and post-launch measurement. 
+ Partner with engineering, business systems analysts, administrators, and external vendors to design secure, supportable solutions, integrations, workflows, automations, and reporting. 
+ Develop and coordinate test plans, integration testing, and user acceptance testing; ensure releases meet business requirements and control expectations. 
+ Use product and operational metrics to measure adoption, cycle time, quality, control effectiveness, and business impact, and use those insights to refine priorities. 
+ Manage production issues and enhancement requests against the roadmap based on severity, business impact, risk, and available capacity. 
+ Support SOX compliance and audit readiness by embedding appropriate controls, maintaining documentation, and participating in technical and process walkthroughs. 
+ Communicate priorities, decisions, dependencies, risks, and progress clearly to both technical and non-technical audiences. 
+
+ Required Qualifications: 
+
+ 5+ years of product management, product ownership, business systems, or finance technology experience, including ownership of enterprise application initiatives. 
+ Strong knowledge of Procure-to-Pay processes, including supplier onboarding, purchasing, approvals, invoicing, expenses, accounts payable, and payments. 
+ Strong knowledge of Record-to-Report processes, including general ledger, intercompany, fixed assets, close, consolidation, reconciliations, and financial reporting. 
+ Experience with NetSuite or a comparable ERP and with procurement or spend-management platforms such as Zip or Coupa. 
+ Demonstrated ability to translate finance and accounting requirements into scalable product and systems solutions, including workflows, integrations, controls, data, and reporting. 
+ Experience leading cross-functional initiatives through discovery, requirements, design, testing, launch, and adoption in an Agile delivery environment. 
+ Strong prioritization, analytical, documentation, and stakeholder-management skills, with the ability to make progress in a fast-paced and ambiguous environment. 
+ Experience supporting public-company control requirements, including SOX, audit evidence, segregation of duties, and change management. 
+
+ Nice to haves: 
+
+ Experience with Workato or another integration platform, and finance data or reporting tools. 
+ Hands-on familiarity with NetSuite workflows, saved searches, reporting, custom records, or integration patterns. 
+ Experience with multi-entity, multi-country, and multi-currency finance operations. 
+ Experience with finance transformation, ERP or procurement-platform implementations, or large-scale process redesign. 
+ Relevant product, NetSuite, Ramp, Zip, Coupa, Workiva, or Agile certification. 
+ Experience in the technology or digital media industry. 
+
+ Benefits: 
+
+ Comprehensive Healthcare Benefits and Income Replacement Programs 
+ 401k with Employer Match 
+ Global Benefit programs that fit your lifestyle, from workspace to professional development to caregiving support 
+ Family Planning Support 
+ Gender-Affirming Care 
+ Mental Health & Coaching Benefits 
+ Flexible Vacation & Paid Volunteer Time Off 
+ Generous Paid Parental Leave  
+
+   Pay Transparency: 
+ This job posting may span more than one career level. 
+ In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/ . 
+ To provide greater transparency to candidates, we share base salary ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below. The base salary range for this position is: $167,500 — $234,500 USD In select roles and locations, the interviews will be recorded, transcribed and summarized by artificial intelligence (AI). You will have the opportunity to opt out of recording, transcription and summarization prior to any scheduled interviews. 
+ During the interview, we will collect the following categories of personal information: Identifiers, Professional and Employment-Related Information, Sensory Information (audio/video recording), and any other categories of personal information you choose to share with us. We will use this information to evaluate your application for employment or an independent contractor role, as applicable.  We will not sell your personal information or disclose it to any third party for their marketing purposes.  We will delete any recording of your interview promptly after making a hiring decision.  For more information about how we will handle your personal information, including our retention of it, please refer to our Candidate Privacy Policy for Potential Employees and Contractors . 
+ Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If, due to a disability, you need an accommodation during the interview process, please let your recruiter know.
