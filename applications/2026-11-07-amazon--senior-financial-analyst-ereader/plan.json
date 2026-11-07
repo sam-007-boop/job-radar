@@ -1,0 +1,47 @@
+{
+ "company": "Amazon",
+ "role": "Senior Financial Analyst, eReader",
+ "variant": "finance-core",
+ "job_url": "https://www.amazon.jobs/en/jobs/10599102/senior-financial-analyst-ereader",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting centers on forecasts, operating plans and multi-year financial views."
+  },
+  {
+   "old": "Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region",
+   "new": "Worked with finance teams on monthly P&L forecasting, variance analysis and close activities for the ANZ region",
+   "why": "Posting includes controllership and near-term forecasts."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Amazon Devices Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Senior Financial Analyst role supporting the eReader product line at Amazon. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. I'm interested because the role covers the full product line, from operating plans and near-term forecasts to the financial view on future products.",
+   "At Lenovo I spent two years as a Senior Business Analyst, building forecasts and scenario analyses that improved capital efficiency by 15% and running variance and sensitivity analyses on budget reallocation. At Thomson Reuters I supported monthly P&L forecasting, variance analysis and close for the ANZ region, and streamlined the order-to-cash process with automation, cutting the cash conversion cycle by 20%.",
+   "That maps to the operating plan, forecasts and the push to automate and simplify controllership work on your team. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and I'm applying for the Senior Financial Analyst role on eReader at Amazon. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15%, and at Thomson Reuters I supported monthly P&L forecasting and close. I'd love to hear how the team plans new products. Would you have 15 minutes for a quick chat?"
+}
