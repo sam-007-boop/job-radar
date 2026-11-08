@@ -1,0 +1,47 @@
+{
+ "company": "Cerberus",
+ "role": "Finance & Analytics Analyst",
+ "variant": "finance-core",
+ "job_url": "https://www.linkedin.com/jobs/view/4488422308/",
+ "edits": [
+  {
+   "old": "Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions",
+   "new": "Built AI-powered analytical dashboards integrating predictive metrics and financial projections to support funding decisions",
+   "why": "Posting asks for hands-on fluency with AI tools in finance and analytics work."
+  },
+  {
+   "old": "Technical: Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM, Python",
+   "new": "Technical: Excel, Python, Tableau, PowerPoint, SAP, Salesforce, Datorama, CRM Systems",
+   "why": "Posting leads with Excel and lists Python or scripting as a plus; reordered, nothing added."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Cerberus Hiring Team,",
+  "paragraphs": [
+   "I'm applying for the Finance & Analytics Analyst role with Cerberus Asset-Backed Opportunities. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. The role caught my attention because it puts Excel modeling and AI tools side by side, which is how I like to work.",
+   "At Lenovo I spent two years as a Senior Business Analyst, building forecasts and scenario analyses that improved capital efficiency by 15%. I also worked on AI-powered analytical dashboards, where I owned the mapping and QA, and they saved the team 4+ hours a week on reporting. At Thomson Reuters I managed cash flow analysis covering 80%+ of inflows and handled reconciliation with 85%+ accuracy in revenue recognition and reporting.",
+   "That lines up with building models, keeping the numbers clean, and finding ways to cut manual work in recurring reporting. I'm careful with detail and comfortable juggling several workstreams at once. I'd welcome the chance to talk about the team."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli and I'm applying for the Finance & Analytics Analyst role at Cerberus. At Lenovo I built forecasts and scenario models that improved capital efficiency by 15%, and worked on AI-powered dashboards that cut 4+ hours a week of reporting. I'd love to hear how the team uses AI tools day to day. Would you have 15 minutes for a quick chat?"
+}

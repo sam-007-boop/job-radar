@@ -1,0 +1,47 @@
+{
+ "company": "Citi",
+ "role": "Energy Corporate Banking Analyst",
+ "variant": "finance-core",
+ "job_url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Energy-Corporate-Banking-Analyst_261008625-1",
+ "edits": [
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Financial Analysis & Research, Corporate Finance, Financial Modeling, Understanding of Financial Products, Market Analysis, Data Presentation, Investment Research, Bloomberg, S&P Capital IQ",
+   "why": "Posting asks for financial research, performance evaluations and an understanding of corporate banking; reordered, Due Diligence dropped."
+  },
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting mentions efficiently deploying the firm's capital."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Citi Energy Corporate Banking Team,",
+  "paragraphs": [
+   "I'm applying for the Energy Corporate Banking Analyst role in Houston. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Energy is the sector I want to build a career in, and corporate banking is a good place to learn how energy companies fund themselves and how a bank decides where to put its capital.",
+   "At Lenovo I spent two years as a Senior Business Analyst, building forecasts and scenario analyses that improved capital efficiency by 15%. At JPMorgan Asset Management I worked as a consultant on marketing-channel budget allocation, built models to evaluate $10M in spend, and prepared executive-level briefs for senior leadership. In my MBA coursework I built a DCF, comps and an LBO for J.M. Smucker.",
+   "That maps to organizing data for client proposals, running financial performance evaluations, and writing clear recommendations for senior bankers. I'd welcome the chance to talk about the team."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli and I'm applying for the Energy Corporate Banking Analyst role in Houston. At Lenovo I built forecasts and scenario models that improved capital efficiency by 15%, and I've built DCF, comps and LBO models in my MBA coursework. I'd love to hear how the energy coverage team works. Would you have 15 minutes for a quick chat?"
+}
