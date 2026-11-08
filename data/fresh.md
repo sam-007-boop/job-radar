@@ -1,41 +1,6 @@
-# Fresh roles — 2026-11-07 06:17 ET
+# Fresh roles — 2026-11-08 06:19 ET
 
-37 new finance roles posted today or yesterday.
+2 new finance roles posted today or yesterday.
 
-- **Amazon (incl. AWS data-center finance)** — [Senior Financial Analyst, eReader](https://www.amazon.jobs/en/jobs/10599102/senior-financial-analyst-ereader) · Seattle, Washington, USA · posted 2026-11-06 · AI x finance
-- **Anthropic** — [Political Economist, Rule of Law](https://job-boards.greenhouse.io/anthropic/jobs/5474544008) · San Francisco, CA | New York City, NY; Washington, DC · posted 2026-11-06 · AI x finance
-- **CoreWeave** — [Senior Insider Threat Investigator, Insider Risk](https://coreweave.com/careers/job?4727750006&board=coreweave&gh_jid=4727750006) · Sunnyvale, CA · posted 2026-11-06 · AI x finance
-- **ElevenLabs** — [Deployment Strategist, Public Sector (Federal & SLED) - North America](https://jobs.ashbyhq.com/ElevenLabs/7758cdc5-b5c9-4a5c-8c80-11678f7cba9d) · United States · posted 2026-11-06 · AI x finance
-- **Galaxy Digital (data centers)** — [2027 Digital Infrastructure Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004) · New York · posted 2026-11-06 · AI x finance
-- **OpenAI** — [GTM Strategy & Planning](https://jobs.ashbyhq.com/openai/41408133-b45f-4c7b-a0df-c050f16d92de) · New York City · posted 2026-11-06 · AI x finance
-- **DoorDash** — [Manager, New Verticals - In-Store Data Platform Strategy & Operations](https://job-boards.greenhouse.io/doordashusa/jobs/8359599) · New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Seattle, WA; Washington, DC; Chicago, IL; Tempe, AZ · posted 2026-11-06 · Analytics
-- **FactSet** — [Associate Director, Core Performance & Fixed Income Analytics - Americas](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/New-York-NY-USA/Associate-Director--Core-Performance---Fixed-Income-Analytics---Americas_R33627) · New York NY USA · posted 2026-11-06 · Analytics
-- **Guidehouse** — [Power Markets Senior Consultant](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---DC-Washington/Power-Markets-Senior-Consultant_44638) · US - DC, Washington · posted 2026-11-06 · Analytics
-- **Guidehouse** — [Senior Consultant, Data Analyst / Visualization](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Senior-Consultant--Data-Analyst---Visualization_46115) · US   VA Arlington · posted 2026-11-06 · Analytics
-- **Guidehouse** — [Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---NC-Charlotte/Consulting-Analyst---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46423) · US   NC Charlotte · posted 2026-11-06 · Analytics
-- **Guidehouse** — [Intern - Health Automation & Analytics, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Intern---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46421) · US   VA Arlington · posted 2026-11-06 · Analytics
-- **Guidehouse** — [Junior Regulatory & Banking SME](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Junior-Regulatory---Banking-SME_46306) · US   VA McLean · posted 2026-11-06 · Analytics
-- **Guidehouse** — [Regulatory and Banking SME](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Regulatory-and-Banking-SME_46305) · US   VA McLean · posted 2026-11-06 · Analytics
-- **Reddit** — [Senior Product Manager, Finance Technology (Procure-to-Pay & Record-to-Report)](https://job-boards.greenhouse.io/reddit/jobs/8359289) · Remote - United States · posted 2026-11-06 · Analytics
-- **Citi** — [Banking - Investment Banking Shareholder Advisory Group, Full Time Analyst, New York - USA, 2027](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Banking---Investment-Banking-Shareholder-Advisory-Group--Full-Time-Analyst--New-York---USA--2027_26979065) · New York New York United States · posted 2026-11-06 · IB
-- **Citi** — [Credit Risk - Acquisition Strategy and Capabilities](https://citi.wd5.myworkdayjobs.com/2/job/Schaumburg-Illinois-United-States/Credit-Risk---Acquisition-Strategy-and-Capabilities_26996503-1) · Schaumburg Illinois United States · posted 2026-11-06 · IB
-- **Citi** — [Investor- Citi Ventures](https://citi.wd5.myworkdayjobs.com/2/job/San-Francisco-California-United-States/Investor--Citi-Ventures_261001535) · San Francisco California United States · posted 2026-11-06 · IB
-- **Citi** — [Energy Corporate Banking Analyst](https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Energy-Corporate-Banking-Analyst_261008625-1) · Houston Texas United States · posted 2026-11-06 · IB
-- **JPMorgan Chase** — [Card Lending Services (CLS) – Business Analysis Associate II / Strategy & Innovation](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769376) · Tempe, AZ, United States · posted 2026-11-07 · IB
-- **JPMorgan Chase** — [Consumer & Community Bank Strategy, Senior Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798878) · New York, NY, United States · posted 2026-11-06 · IB
-- **JPMorgan Chase** — [Program Management - Firmwide Financial Control](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803998) · Newark, DE, United States · posted 2026-11-06 · IB
-- **JPMorgan Chase** — [Senior Associate, Payments Strategy & Planning](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804980) · New York, NY, United States · posted 2026-11-06 · IB
-- **JPMorgan Chase** — [Documents Examiner - Trade Finance / Commercial Letters of Credit](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806514) · Tampa, FL, United States · posted 2026-11-06 · IB
-- **JPMorgan Chase** — [Finance & Business Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806608) · Jersey City, NJ, United States · posted 2026-11-06 · IB
-- **JPMorgan Chase** — [Finance Decision Optimization Team - Analytics Solutions Senior Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806865) · Columbus, OH, United States · posted 2026-11-06 · IB
-- **Moelis** — [Investment Banking Associate, Data Centers & Emerging Telecom – New York City](https://moelis.wd1.myworkdayjobs.com/Experienced-Hires/job/New-York/Investment-Banking-Associate--Data-Centers---Emerging-Telecom---New-York-City_REQ102265) · New York · posted 2026-11-06 · IB
-- **Piper Sandler** — [Experienced Investment Banking Analyst – Healthcare: B2B MedTech and Outsourced Life Sciences](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/Experienced-Investment-Banking-Analyst---Healthcare--B2B-MedTech-and-Outsourced-Life-Sciences_R-100795-1) · Minneapolis MN   HQ · posted 2026-11-06 · IB
-- **(see posting)** — [Manager, Finance](https://www.builtinnyc.com/job/manager-finance/12112561) ·  · posted 2026-11-07 · Mixed · via Built In NYC
-- **(see posting)** — [Sr Finance Analyst](https://www.builtinnyc.com/job/sr-finance-analyst/12108252) ·  · posted 2026-11-07 · Mixed · via Built In NYC
-- **(see posting)** — [Financial Analyst](https://www.builtinnyc.com/job/financial-analyst/12126818) ·  · posted 2026-11-07 · Mixed · via Built In NYC
-- **(see posting)** — [Financial Analyst III (Remote) - Neurology](https://www.builtinnyc.com/job/financial-analyst-iii-remote-neurology/12106726) ·  · posted 2026-11-07 · Mixed · via Built In NYC
-- **(see posting)** — [Strategic Finance Manager](https://www.builtinnyc.com/job/finance-manager-na/11360437) ·  · posted 2026-11-07 · Mixed · via Built In NYC
-- **(see posting)** — [Senior Associate, Strategic Finance](https://www.builtinnyc.com/job/senior-associate-strategic-finance/12115471) ·  · posted 2026-11-07 · Mixed · via Built In NYC
-- **(see posting)** — [Senior Strategic Finance Manager (Corporate Finance)](https://www.builtinnyc.com/job/senior-strategic-finance-manager-corporate-finance/12131818) ·  · posted 2026-11-07 · Mixed · via Built In NYC
-- **(see posting)** — [Sr. Analyst, Strategic Finance](https://www.builtinnyc.com/job/sr-analyst-strategic-finance/12123703) ·  · posted 2026-11-07 · Mixed · via Built In NYC
-- **Weill Cornell Medicine** — [Financial Coordinator (Conference Services)](https://jobs.weill.cornell.edu/NY/job/New-York-Financial-Coordinator-%28Conference-Services%29-NY-10021/1447819100/) ·  · posted 2026-11-07 · University (cap-exempt)
+- **S&P Global** — [Analyst, Investor Relations](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Analyst--Investor-Relations_332704-1) · New York, NY · posted 2026-11-08 · Analytics
+- **(see posting)** — [Sr. Associate, Finance - Treasury](https://www.builtinnyc.com/job/sr-associate-finance-treasury/12135090) ·  · posted 2026-11-08 · Mixed · via Built In NYC
