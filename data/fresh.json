@@ -1,31 +1,4 @@
 {
- "run": "2026-11-08 06:19 ET",
- "roles": [
-  {
-   "jd": "data/jd/lnk_https_www_builtinnyc_com_job_sr_associate_finance_treasury_12135090.txt",
-   "company": "(see posting)",
-   "track": "Mixed",
-   "via": "Built In NYC",
-   "title": "Sr. Associate, Finance - Treasury",
-   "location": "",
-   "postedDate": "2026-11-08",
-   "postedLabel": "new on board since last run",
-   "source": "links",
-   "url": "https://www.builtinnyc.com/job/sr-associate-finance-treasury/12135090",
-   "id": "lnk:https://www.builtinnyc.com/job/sr-associate-finance-treasury/12135090"
-  },
-  {
-   "jd": "data/jd/wd_spgi_job_New_York_NY_Analyst_Investor_Relations_332704_1.txt",
-   "company": "S&P Global",
-   "track": "Analytics",
-   "via": "",
-   "title": "Analyst, Investor Relations",
-   "location": "New York, NY",
-   "postedDate": "2026-11-08",
-   "postedLabel": "Posted Today",
-   "source": "workday",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Analyst--Investor-Relations_332704-1",
-   "id": "wd:spgi:/job/New-York-NY/Analyst--Investor-Relations_332704-1"
-  }
- ]
+ "run": "2026-11-09 06:32 ET",
+ "roles": []
 }
