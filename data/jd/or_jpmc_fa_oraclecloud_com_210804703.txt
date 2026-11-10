@@ -1,0 +1,29 @@
+JPMorgan Chase — Finance & Business Management - Analyst
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804703
+
+Join the Commercial & Investment Banking Technology - Vendor Management Organization, which is responsible for scoping and driving the Information Technology vendor management strategy (both software and labor). Additionally, this team executes vendor related processes across Commercial & Investment Banking Technology.
+ As a Finance & Business Management – Analyst in the Commercial & Investment Banking Technology – Vendor Management Organization, you will be part of the Central Processing team that runs the engine, manages data related to contracts, consultants, invoicing etc. and is an integral partner to Line of Business vendor relationship managers. The role provides an opportunity to collaborate across other groups, Technology managers, Finance & Business Managers, Sourcing, Global Supplier Services other Vendor Management teams within other lines of business.
+ Job responsibilities
+ - Own a Roadmap for an assigned line of business, and take over management of contracts, data hygiene, invoicing approvals, on-boarding, invoicing submission, and related reporting.
+- Support day to day Stakeholders & Vendor relationships and Vendor Governance/Controls, including analysis and reporting.
+- Support data integrity (i.e., resolve discrepancies) within our Central Management Data Base and work on analytics & reporting based on this data.
+- Support Purchase Orders/Invoice Processing, including Purchase Order initiation, invoice data validation and tracking (we currently use Ariba and Beeline tools).
+- Ensure that Commercial & Investment Banking Technology achieves the most optimal commercial and quality delivery from our vendors.
+- Enable continuous process improvement across vendor management space by maturing existing processing and reporting functions, managing transitions for any new engagements, enhancing governance and controls.
+- Maintain a solid control posture relative to vendor exposure and risk (both contractual and operational).
+
+Required qualifications, capabilities and skills
+ - 1 year of experience in vendor management, contract administration, billing and payment processing, or related finance operations.
+- Must have detail oriented mindset, with ability to complete reporting & analytics accurately, timely, and in a presentable manner.
+- Must have proficiency with at least one of the Microsoft products – Excel or Access.
+- Understanding and creating basic SQL.
+- Excellent written and verbal communication skills.
+- Self-motivated, going beyond immediate responsibilities, with ability to work independently as well as be a team player.
+- Preferrable experience with Ariba and/or Beeline systems.
+- Preferable experience designing or maintaining SharePoint site.
+
+Preferred qualifications, capabilities and skills
+ - Preferrable experience with Ariba and/or Beeline systems.
+- Preferable experience designing or maintaining SharePoint site.
+
+ To be eligible for this role, you must be authorized to work in the United States. We do not offer any type of employment-based immigration sponsorship for this role. Likewise, JPMorgan Chase & Co. will not provide any assistance or sign any documentation in support of any other form of immigration sponsorship or benefit, including optional practical training (OPT) or curricular practical training (CPT).

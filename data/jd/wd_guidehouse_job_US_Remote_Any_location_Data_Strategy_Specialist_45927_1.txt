@@ -1,0 +1,96 @@
+Guidehouse — Data Strategy Specialist
+https://guidehouse.wd1.myworkdayjobs.com/External/job/US---Remote-Any-location/Data-Strategy-Specialist_45927-1
+
+Job Family : 
+Solutions Architecture 
+ Travel Required : 
+None 
+ Clearance Required : 
+Ability to Obtain Public Trust 
+
+ What You Will Do : 
+
+ - Assess current data, processes, tools, and information flows supporting staff planning, budgeting, forecasting, regulatory examination workflows, and technology resource planning to identify deficiencies and improvement opportunities.
+- Define practical data strategies and requirements that support redesigned business processes and technology solutions and translate organizational priorities into implementable improvements.
+- Map current-state and future-state data flows and identify data gaps, dependencies, quality issues, integration challenges, and remediation requirements.
+- Support data remediation across enterprise platforms and workflows, including troubleshooting data-related issues that prevent processes or technology solutions from operating effectively.
+- Support planning-model and capacity-planning improvements for budgeting, forecasting, workforce and staff planning, and associated system tools.
+- Develop business, functional, and data requirements supporting process redesign and system improvements and work with technology teams to translate those requirements into executable solutions.
+- Support regulatory examination management improvements, including data and information flows related to examination tracking, issue identification and resolution, document production, and response coordination.
+- Establish data-driven measures and evidence to support performance monitoring, corrective action tracking, implementation validation, and audit-ready documentation.
+- Partner across business, risk, compliance, operations, and technology teams to ensure improvements support organizational priorities, regulatory commitments, and sustainable operations. 
+
+ What You Will Need : 
+
+ - Must be able to OBTAIN and MAINTAIN a Federal or DoD "PUBLIC TRUST"; candidates must obtain approved adjudication of their PUBLIC TRUST prior to onboarding with Guidehouse. Candidates with an ACTIVE PUBLIC TRUST or SUITABILITY are preferred.
+- US Citizenship is contractually required.
+- Minimum of SIX (6+) years of professional experience
+- Experience using data to support business process improvement, planning, forecasting, operations, technology implementation, or transformation is highly preferred.
+- Understanding of data risk, controls, privacy, cybersecurity, and regulatory requirements is highly preferred.
+
+ What Would Be Nice To Have : 
+
+ - Bachelor's degree from an accredited university.
+- Banking, financial services, payments, or financial regulatory experience.
+- Experience with workforce/staff planning, forecasting, capacity planning, budgeting, or planning-model improvement.
+- Experience with regulatory examination or audit-management workflows, including examination tracking, issue identification and resolution, document production, or response coordination.
+- Experience supporting implementation or remediation associated with regulatory findings, audit findings, or exam-driven corrective actions.
+- Familiarity with enterprise data and workflow platforms such as Snowflake, ServiceNow, and SharePoint .
+- Experience working across business, technology, risk, compliance, and operations in highly regulated environments.
+- Strong analytical, cross-functional facilitation, executive communication, documentation, and problem-solving skills.
+- Demonstrated ability to take improvements from assessment through implementation and completion.
+- Strong experience in data strategy, data analysis, data requirements, data flows, interfaces, integrations, dependencies, and remediation.
+- Experience conducting current-state assessments, gap analyses, and future-state design and translating findings into actionable business and technology improvements.
+- Experience developing business, functional, and data requirements and supporting solutions through implementation.
+- Experience with business process improvement, workflow redesign, performance measurement, and evidence-based assessment.
+- Strong experience in data strategy, data analysis, data requirements, data flows, interfaces, integrations, dependencies, and remediation.
+
+The annual salary range for this position is $130,000.00-$216,000.00. Compensation decisions depend on a wide range of factors, including but not limited to skill sets, experience and training, security clearances, licensure and certifications, and other business and organizational needs. 
+ What We Offer: 
+ Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace.
+
+ Benefits include:
+ - Medical, Rx, Dental & Vision Insurance
+
+- Personal and Family Sick Time & Company Paid Holidays
+
+- Parental Leave
+
+- 401(k) Retirement Plan
+
+- Group Term Life and Travel Assistance
+
+- Voluntary Life and AD&D Insurance
+
+- Health Savings Account, Health Care & Dependent Care Flexible Spending Accounts
+
+- Transit and Parking Commuter Benefits
+
+- Short-Term & Long-Term Disability
+
+- Tuition Reimbursement, Personal Development, Certifications & Learning Opportunities
+
+- Employee Referral Program
+
+- Corporate Sponsored Events & Community Outreach
+
+- Care.com annual membership
+
+- Employee Assistance Program
+
+- Supplemental Benefits via Corestream (Critical Care, Hospital Indemnity, Accident Insurance, Legal Assistance and ID theft protection, etc.)
+
+- Position may be eligible for a discretionary variable incentive bonus
+
+ About Guidehouse 
+ Guidehouse is an Equal Opportunity Employer–Protected Veterans, Individuals with Disabilities or any other basis protected by law, ordinance, or regulation.
+
+ Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco.
+
+ If you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.
+
+ All communication regarding recruitment for a Guidehouse position will be sent from Guidehouse email domains including @guidehouse.com or guidehouse@myworkday.com .  Correspondence received by an applicant from any other domain should be considered unauthorized and will not be honored by Guidehouse.  Note that Guidehouse will never charge a fee or require a money transfer at any stage of the recruitment process and does not collect fees from educational institutions for participation in a recruitment event. Never provide your banking information to a third party purporting to need that information to proceed in the hiring process.
+
+ If any person or organization demands money related to a job opportunity with Guidehouse, please report the matter to Guidehouse’s Ethics Hotline. If you want to check the validity of correspondence you have received, please contact recruiting@guidehouse.com . Guidehouse is not responsible for losses incurred (monetary or otherwise) from an applicant’s dealings with unauthorized third parties.
+
+ Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.

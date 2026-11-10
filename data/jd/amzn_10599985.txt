@@ -1,0 +1,36 @@
+Amazon (incl. AWS data-center finance) — Finance Manager, Data Center Planning and Delivery, AWS
+https://www.amazon.jobs/en/jobs/10599985/finance-manager-data-center-planning-and-delivery-aws
+
+The AWS Infrastructure Finance team provides end-to-end financial support, driving AWS to be the lowest cost provider in Cloud computing and leader in customer experience. We are seeking a Finance Manager to join the Data Center Planning and Delivery Finance team within the AWS Infrastructure Finance organization. This role will provide critical financial partnership across the data center delivery lifecycle, with specialized focus on construction, controls, and commissioning activities that support AWS's global infrastructure expansion and capacity delivery goals. DC Planning and Delivery Finance team provides critical support in the form of financial valuation, investment decisions, cost optimization, and driving infra portfolio strategy for Amazon's data center construction and delivery operations. We are looking for a Finance Manager to support the end-to-end DC planning and delivery portfolio: construction evaluation processes, construction and commissioning capex and opex portfolio reporting, Month End Close processes, Capex/ opex approval automation support, and strategic financial partnership with stakeholder teams.
+
+Key job responsibilities
+• Lead financial evaluation and analysis of complex, long-term construction contracts and commissioning agreements for AMER portfolio; develop comprehensive financial models to assess project economics, risks, and returns
+• Drive strategic initiatives including cost optimization initiatives to reduce overall cost to construct, commission, and deliver data center capacity while accelerating speed to market
+• Lead financial planning for construction, controls deployment, and commissioning activities, supporting AWS data center growth and capacity delivery timelines
+• Provide strategic recommendations to shape deal structures and influence go-forward construction procurement strategies while ensuring alignment with AWS's financial objectives and growth targets
+• Manage performance and reporting of the DC construction and delivery portfolio including unit costs and establishing “best at AWS” benchmarks for the global datacenter portfolio
+• Support financial aspects of negotiations with General Contractors, controls vendors, and commissioning service providers for labor, material rates, and service agreements
+• Own process excellence and automation that scale with the portfolio's growth
+• Develop robust financial controls throughout the construction, controls installation, and commissioning phases
+
+- Bachelor's degree in business, finance, accounting, tax, economics, or a related analytical field
+- 5+ years of finance, accounting, or related analytical field experience
+- 5+ years of dissecting financial data and identifying patterns that support business strategy experience
+- 5+ years of leading cross-functional initiatives that drive financial performance and strategy experience
+
+- MBA, or CPA
+- 6+ years of identifying incomplete or inaccurate data, identifying the root cause and creating/implementing an escalation plan experience
+- 6+ years of solving complex business challenges by delivering accurate and timely financial models, analysis, and recommendations that have a proven impact on business (e.g., financial savings, operational improvements, or customer benefits) experience
+- Knowledge of SQL/ETL
+- Experience working with large-scale data mining and reporting tools (examples: SQL, MS Access, Essbase, Cognos) and other financial systems (examples: Oracle, SAP, Lawson, JD Edwards)
+- Experience delivering forecasting, budgeting, and variance analysis, and data interpretation of results
+- Experience communicating complex information and solutions to senior stakeholders and influencing decisions
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+ The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . 
+
+USA, VA, Arlington - 95,400.00 - 163,200.00 USD annually
+USA, WA, Seattle - 95,400.00 - 163,200.00 USD annually
