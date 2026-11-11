@@ -1,0 +1,46 @@
+{
+ "company": "JPMorgan Chase",
+ "role": "Finance & Business Management - Internal Audit, Associate",
+ "variant": "data-analytics",
+ "job_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797735",
+ "edits": [
+  {
+   "old": "Synthesized large datasets into executive-level reporting and dashboards, translating complex data into actionable insights for senior leadership on capital allocation and strategic planning",
+   "new": "Synthesized large datasets into executive-level reporting and dashboards, turning complex data into clear insights for senior leadership reviews on budget allocation",
+   "why": "Posting centers on executive-ready reporting and decision-ready materials for leadership."
+  },
+  {
+   "old": "Conducted data-driven performance analysis and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment decisions",
+   "new": "Conducted data-driven performance analysis and peer benchmarking on historical marketing budgets, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: this was marketing budget work."
+  },
+  {
+   "old": "Built financial models to evaluate $10M+ in capital deployment strategies, automating data extraction and quantifying ROI across portfolio scenarios",
+   "new": "Built financial models to evaluate $10M+ in marketing budget deployment, automating data extraction and quantifying ROI across channel scenarios",
+   "why": "Accuracy fix: channels, not investment portfolios."
+  },
+  {
+   "old": "Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "new": "Owned mapping and QA for AI-powered analytical dashboards integrating real-time metrics, automating reporting and saving 4+ hours/week",
+   "why": "Posting asks for automating recurring reporting; accuracy fix: Sam owned mapping and QA, not the build."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear JPMorganChase Internal Audit Finance & Business Management Team,",
+  "paragraphs": [
+   "I'm applying for the Finance & Business Management Associate role in Internal Audit. I'm an MBA (STEM) candidate at Fordham Gabelli, and I worked as a consultant at JPMorgan Asset Management after roles at Lenovo and Thomson Reuters. The role's focus on executive-ready audit plan reporting, planning and operating rhythm for the Consumer & Community Banking Audit COO is close to the work I enjoy most, and I'd like to bring it back to the firm.",
+   "At JPMorgan Asset Management I turned large datasets into executive reporting and dashboards for senior leadership on budget allocation, and benchmarking past allocations identified 30% in efficiency gains. At Lenovo I owned the mapping and QA on AI-powered dashboards that saved 4+ hours a week of reporting. At Thomson Reuters I handled reconciliations at 85%+ accuracy and supported monthly P&L forecasting, variance analysis and close for the ANZ region.",
+   "That maps well to owning weekly and monthly plan reporting, keeping data quality checks and deadlines tight, and turning complex data into clear dashboards and presentations. I'm organized, careful with detail and comfortable working across teams on tight timelines. I'd welcome the chance to talk about the role."
+  ]
+ }
+}

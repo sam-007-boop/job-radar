@@ -1,0 +1,41 @@
+{
+ "company": "Origis Energy",
+ "role": "Capital Markets Associate",
+ "variant": "project-finance-solar",
+ "job_url": "https://www.linkedin.com/jobs/view/4489155538/",
+ "edits": [
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation, not investing."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: says plainly this was marketing budget work, not investment diligence."
+  },
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Project Finance, Renewable Energy Finance, Financial Modeling, Valuation Analysis, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Data Presentation, Financial Analysis, Bloomberg, S&P Capital IQ",
+   "why": "Posting centers on project finance and renewable capital structures; reordered only."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the 1000+ sample figure is wrong (actual sample about 466), so it is removed."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: Sam negotiated and managed a sponsorship deal; he did not found a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Origis Energy Capital Markets Team,",
+  "paragraphs": [
+   "I'm applying for the Capital Markets Associate role. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Origis builds and owns solar and storage at scale, and the capital markets team is where those projects get financed. Energy and project finance is the area I most want to build a career in, so this team is a natural fit for what I'm working toward.",
+   "The closest work I've done is an MBA project modeling a 6-project, 35.4 MW Illinois solar portfolio. I built project and portfolio models covering capital structure, DSCR, NPV and levered IRR under post-ITC scenarios, compared senior debt, sustainability-linked loan and green loan plus ABS structures, and recommended a phased green loan + ABS approach that reduced sponsor equity by $11.1M in the model and lifted levered IRR from 8.58% to 9.79%. At Lenovo I built forecasts and scenario analyses on capital allocation that improved capital efficiency by 15%.",
+   "My project finance experience comes from coursework, not live financings, so I'd be learning tax equity and facility administration on the job. What I can bring from day one is careful modeling, comfort with debt metrics like DSCR, and steady follow-through on the details that lenders and investors ask about. I'd welcome the chance to talk."
+  ]
+ }
+}
