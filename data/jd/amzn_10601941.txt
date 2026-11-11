@@ -1,0 +1,40 @@
+Amazon (incl. AWS data-center finance) — Senior Financial Analyst, NACF, NACF Finance
+https://www.amazon.jobs/en/jobs/10601941/senior-financial-analyst-nacf-nacf-finance
+
+Are you energized by the idea of building the financial controls for a $1.2B annual spend category? Amazon's North America Customer Fulfillment (NACF) Central Labor Planning team is seeking a Financial Analyst II to own overtime controllership across 441 sites. This isn't a role where you inherit a finished process—you'll be the architect of the overtime governance layer, building end-to-end reporting that feeds directly into VP-level weekly business reviews, designing attribution models to decompose variance drivers, and creating forward-looking visibility tools that don't exist today. You'll sit at the intersection of Finance, Productivity Planning & Technology, and operations, translating labor planning inputs—volume, throughput, extra time, attendance—into actionable insights that help leaders understand not just what overtime is running, but why.
+
+This role offers an unusual combination of scope, visibility, and white space. From week one, your work will reach VP and SVP audiences. You'll also tackle open analytical problems—like quantifying how much extra time the network runs, what converts to overtime, and where we can reduce unnecessary spend—that have high organizational impact and no predefined solutions. If you want to build something from the ground up and own it at scale, this is the opportunity.
+
+Key job responsibilities
+
+ Build, maintain, and automate the weekly overtime reporting process across all NACF sites, including ODBC connections, data refresh logic, and structured attribution models that decompose variances into actual drivers
+ Proactively audit reporting accuracy across multiple data sources, identify root causes of discrepancies between actuals and forecasted inputs (volume, throughput, voluntary time, attendance), and escalate data integrity issues before they impact leadership reviews
+ Drive communication with senior leadership through effective financial modeling and reporting, flagging risk early and providing clear, concise summaries that challenge assumptions when overtime and voluntary time off occur simultaneously
+ Develop forward-looking overtime visibility models in partnership with business operations, ensuring PLANET and FoxDen input quality, and supporting operational planning cycles with data-driven recommendations
+ Lead continuous improvement projects to scale controllership capabilities, including building the extra time-to-overtime attribution framework and contributing to broader NACF labor strategy initiatives
+
+A day in the life
+Your week operates on a clear rhythm. Monday through Wednesday, you're pulling site-level overtime data across all five networks, running attribution models, and flagging anomalies—reconciling actuals against voluntary extra time, set schedules, and forecast inputs before the Thursday leadership review. Thursday is finalization and distribution. Friday, you're auditing planning inputs for the upcoming cycle and resolving discrepancies with network teams. Beyond the weekly cadence, expect ad hoc deep dives: explaining an unexpected overtime spike to a Director, supporting input cycle reviews, or iterating the next version of your attribution methodology. Volume shifts, network mix changes, and operational variability mean no two weeks are identical.
+
+About the team
+NACF Central Labor Planning is a lean, high-impact Finance function responsible for labor strategy across the entire North America Customer Fulfillment network. The team is intentionally small: strategy and governance are centralized here, while tactical execution lives with regional Finance partners at the network level. This structure creates significant white space and an unusually high ratio of impact to headcount. You'll work closely with productivity planning, workforce teams, and cross-functional Finance partners, and your work will regularly reach VP and SVP audiences.
+
+The expectation is clear: bring intellectual rigor, operate independently, and communicate proactively when timelines or deliverables are at risk. This team values builders who say what needs to be said and deliver with precision.
+
+- 3+ years of tax, finance or a related analytical field experience
+- Bachelor's degree
+
+- 4+ years of participating in continuous improvement projects in your team to scale and improve controllership with measurable results experience
+- MBA, or CPA
+- Knowledge of Tableau
+- Experience working with large-scale data mining and reporting tools (examples: SQL, MS Access, Essbase, Cognos) and other financial systems (examples: Oracle, SAP, Lawson, JD Edwards)
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+ The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . 
+
+USA, TN, Nashville - 60,200.00 - 105,400.00 USD annually
+USA, TX, Irving - 66,900.00 - 117,100.00 USD annually
+USA, WA, Bellevue - 82,700.00 - 117,100.00 USD annually
