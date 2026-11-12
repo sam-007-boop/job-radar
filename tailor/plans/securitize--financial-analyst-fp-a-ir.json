@@ -1,0 +1,47 @@
+{
+ "company": "Securitize",
+ "role": "Financial Analyst, FP&A and Investor Relations",
+ "variant": "finance-core",
+ "job_url": "https://job-boards.greenhouse.io/securitize/jobs/4503321009",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting asks for forecasts and financial models for new initiatives."
+  },
+  {
+   "old": "Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions",
+   "new": "Created AI powered analytical dashboards and executive materials integrating predictive metrics and financial projections for planning",
+   "why": "Posting asks for AI-enabled automations, dashboards and executive materials."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Securitize FP&A Team,",
+  "paragraphs": [
+   "I'm applying for the Financial Analyst, FP&A and Investor Relations role at Securitize. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. I'm interested because the role mixes core forecasting with investor relations at a company bringing tokenized funds to large asset managers, which is a part of finance I want to learn from the inside.",
+   "At Lenovo I spent two years as a Senior Business Analyst, building forecasts and scenario analyses that improved capital efficiency by 15% and building AI powered dashboards that brought predictive metrics into planning. At Thomson Reuters I supported monthly P&L forecasting, variance analysis and close for the ANZ region, and streamlined the order-to-cash process with automation, cutting the cash conversion cycle by 20%.",
+   "That maps to the forecasting, revenue bridges and dashboards on the FP&A side, and to preparing clear materials for the IR side. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli applying for the Financial Analyst, FP&A and Investor Relations role at Securitize. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15%, plus AI powered planning dashboards. I'd love to hear how FP&A and IR work together on your team. Would you have 15 minutes for a quick chat?"
+}

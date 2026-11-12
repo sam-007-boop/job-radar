@@ -1,0 +1,47 @@
+{
+ "company": "Amazon",
+ "role": "Senior Financial Analyst, AWS",
+ "variant": "finance-core",
+ "job_url": "https://www.amazon.jobs/en/jobs/10602705/senior-financial-analyst-aws",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting asks for financial models and better planning and forecasting."
+  },
+  {
+   "old": "Streamlined the OTC process with automation, reducing the cash conversion cycle by 20% and enhancing liquidity management",
+   "new": "Automated parts of the OTC process, reducing the cash conversion cycle by 20% and improving liquidity management",
+   "why": "Posting asks for process improvement through automation."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear AWS Industry Sales Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Senior Financial Analyst role on the AWS Industry Sales Finance team in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. I'm interested because the role sits close to the business, building models for new business concepts and turning them into measures the sales teams actually use.",
+   "At Lenovo I spent two years as a Senior Business Analyst, building forecasts and scenario analyses that improved capital efficiency by 15% and building AI powered dashboards that brought predictive metrics into planning. At Thomson Reuters I streamlined the order-to-cash process with automation, cutting the cash conversion cycle by 20%, and supported monthly P&L forecasting and close for the ANZ region.",
+   "That maps to the modeling, forecasting and process improvement work on your team. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli applying for the Senior Financial Analyst role on AWS Industry Sales Finance in New York. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15%, and at Thomson Reuters I helped cut the cash conversion cycle by 20% with automation. I'd love to hear how the team supports industry sales. Would you have 15 minutes for a quick chat?"
+}

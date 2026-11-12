@@ -1,0 +1,47 @@
+{
+ "company": "Amazon",
+ "role": "Senior Financial Analyst, Amazon Music FP&A",
+ "variant": "finance-core",
+ "job_url": "https://www.amazon.jobs/en/jobs/10602919/senior-financial-analyst-amazon-music-fp-a",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built long-range forecasts, models and scenario analyses on capital allocation, improving capital efficiency by 15%",
+   "why": "Posting has the analyst owning the long-term planning model."
+  },
+  {
+   "old": "Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region",
+   "new": "Worked with finance teams on monthly P&L forecasting, variance analysis and close activities for the ANZ region",
+   "why": "Posting covers OP1/OP2 planning cycles and variance follow-up."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Amazon Music FP&A Team,",
+  "paragraphs": [
+   "I'm applying for the Senior Financial Analyst role on the Amazon Music FP&A team. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. I'm interested because the role owns the long-term planning model and the OP1 and OP2 cycles, so the work shapes how the business plans, not just how it reports.",
+   "At Lenovo I spent two years as a Senior Business Analyst, building forecasts and scenario analyses that improved capital efficiency by 15% and running variance and sensitivity analyses on budget reallocation. At Thomson Reuters I supported monthly P&L forecasting, variance analysis and close for the ANZ region, and streamlined the order-to-cash process with automation, cutting the cash conversion cycle by 20%.",
+   "That maps to the planning model, guidance cycles and variance work on your team. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli applying for the Senior Financial Analyst role on Amazon Music FP&A. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15%, and at Thomson Reuters I supported monthly P&L forecasting and close for the ANZ region. I'd love to hear how the team runs OP1 and OP2. Would you have 15 minutes for a quick chat?"
+}
