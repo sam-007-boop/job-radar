@@ -1,0 +1,78 @@
+Justworks — Manager, Analytics
+https://boards.greenhouse.io/justworks/jobs/8373089?gh_jid=8373089
+
+Who We Are 
+ At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work hard and care about our most prized asset - our people. 
+ We’re helping businesses get off the ground by enabling them to focus on running their business. We solve HR issues. We’re data-driven and never stop iterating. If you’d like to work in a supportive, entrepreneurial environment, are interested in building something meaningful and having fun while doing it, we’d love to hear from you. 
+ We're united by shared goals and shared motivations at Justworks. These are best summed up in our company values, which are reflected in our product and in our team. 
+ Our Values 
+ If this sounds like you, you’ll fit right in. Department 
+ Data & Analytics 
+ About The Team 
+ The Data & Analytics team is Justworks' data center of excellence — a connected set of functions spanning analytics, data science, analytics engineering, data governance, and platform data/ML engineering. You'll find a highly collaborative group motivated by craft, shared learning, and a genuine commitment to growing our impact for customers. 
+ This role sits within our Analytics team, which owns how we understand company-level performance, including analysis for our most critical strategic programs. You'll be directly responsible for understanding the drivers of business performance and turning that understanding into recommendations for business leaders. 
+ Who You Are 
+ You are a strategic thinker and a strong problem solver. You can take an ambiguous question, break it down, and reach a sound answer. You take initiative and communicate clearly with senior leaders. 
+ This is a highly consultative role accountable for generating analysis and insights that support programmatic decision-making and materially impact the business. Some recurring reporting comes with the job, but the focus is analysis: why a key metric moved, whether a program is working, and where the business should focus next. You'll own problems end to end, from framing the question with the business owner to forming and testing hypotheses and presenting a recommendation. 
+ Reporting to the Senior Manager, Analytics, you'll lead 4-5 analysts as a player-coach, staying hands-on in the work while developing how the team thinks and communicates. 
+ What You Will Work On 
+ Performance & Program Analytics 
+
+ Performance measurement establish key performance indicators for the business and its strategic programs and track performance over time 
+ Performance diagnosis explain what's driving performance and why key metrics move, connecting signals across data sources and flagging issues early 
+ Program analytics assess performance across our key strategic programs (e.g. Acquisition, Partnerships, Product Diversification) and where they can improve 
+ Recommendations present findings with a clear recommendation, the evidence behind it, and the tradeoffs involved 
+
+ Team Leadership & Partnership 
+
+ Lead and develop a team of analysts through hiring, feedback, and career growth, coaching them to frame the question, form a hypothesis, and lead with the "so what" 
+ Work closely with business leaders to understand priorities and help manage the team's time such that it goes to the highest-value work 
+ Partner with Analytics Engineering and Data Governance so the team's work is built on trusted data and consistent metric definitions 
+ Coordinate with Advanced Analytics on when a question needs an experiment or a model to advance our understanding 
+
+ Embrace AI & Modern Ways of Working 
+
+ Bring a strong AI test-and-integrate philosophy to your work, identifying points of leverage and efficiencies for delivering impactful analytical work 
+ Establish practical guidelines for how the team uses AI tools in its analysis, including how output is reviewed before it is shared 
+ Perform other related responsibilities as needed based on department and/or organizational needs 
+
+ How You Will Do Your Work 
+ In the Manager, Analytics position, how results are achieved is paramount for your success and ultimately result in our success as an organization. In this role, your foundational knowledge, skills, abilities and personal attributes are anchored in the following competencies: 
+
+ Plans & Aligns - Ensures individual actions support company mission; communicates effectively; understands urgency and plans accordingly 
+ Balances Stakeholders - Understands internal and external stakeholder requirements, expectations, and needs and acts fairly despite conflicting demands of stakeholders. 
+ Influence and Leadership - Fosters a community of knowledge-sharing, collaboration, mentorship, and forward-thinking across the organization. 
+ Manages Complexity - Makes sense of complex, high quantity, and sometimes contradictory information to effectively solve problems. 
+ Good Judgment - Pauses before acting; asks questions to fully understand context; applies critical thinking and takes ownership of outcomes 
+ Teamwork & Communication - Honors diverse thoughts and opinions; leverages unique skills to maximize efficiency 
+ Skills and Knowledge - Capacity to actively learn and apply specific domain knowledge, know-how, and best practices to continually enhance and improve. 
+
+ In addition, all Justworkers focus on aligning their behaviors to our core values known as COGIS. It stands for: 
+
+ Camaraderie - Day to day you can be seen working together toward a higher purpose. You like to have fun. You’re an active listener, treat people respectfully, and have a strong desire to know and help others. 
+ Openness - Your default is to be open. You're willing to share information, understand other perspectives, and consider new possibilities. You’re curious, ask open questions, and are receptive to thoughts and feedback from others. 
+ Grit - You demonstrate grit by having the courage to commit and persevere. You’re committed, earnest, and dive in to get the job done well with a positive attitude. 
+ Integrity - Simply put, do what you say and say what you'll do. You’re honest and forthright, have a strong moral compass, and strive to match your words with your actions while leading by example.  
+ Simplicity - Be like Einstein: “Everything should be made as simple as possible, but no simpler.” 
+
+ Qualifications 
+
+ 7+ years of hands-on analytical experience, with a track record of consultative, hypothesis-driven problem solving for business leaders 
+ Experience owning ambiguous problems end to end, from framing the question through analysis to a recommendation 
+ Critical thinking and strong problem-solving instincts - you question the obvious answer and know where to dig 
+ Exceptional SQL, with strong evidence of delivering sharp analysis 
+ Excellent written and verbal communication, including presenting findings and recommendations to senior stakeholders 
+ 2+ years managing analysts and developing their thinking and communication 
+ Strong analytical foundation, including cohort, funnel, and driver analysis, and working knowledge of Python or R 
+ Keen understanding of B2B SaaS and its core metrics, including ARR/MRR, churn, LTV, CAC, and NRR 
+ Experience building in Sigma or a comparable modern BI tool 
+ Hands-on experience with AI tools in analytical work (e.g., Claude Code), and good judgment about checking their output 
+ Ability to manage multiple projects and priorities at once 
+
+ The base wage range for this position based in our New York City Office is targeted at $166,000 - $214,000.00  per year. 
+ #LI-DG2 #LI-Hybrid Actual compensation is based on multiple factors that are unique to each candidate, including and not limited to skill set, level of relevant experience, and specific work location.  Salary ranges for positions based in other locations may differ based on the cost of labor in that location.  
+ For more information about Justworks’ Total Reward Philosophy, including all of the perks and benefits we are proud to offer our team members, please visit Total Rewards @ Justworks .  
+ Diversity At Justworks 
+ Justworks is committed to maintaining a workplace where diversity of identity, culture, and life experience is the norm and is celebrated authentically and respected consistently. Diversity in our work, our people, and our product drives creativity and innovation, entrepreneurial leadership and integrity, competitiveness, and collaboration throughout our business and in the market. We depend on our differences to make our team stronger, our workplace more dynamic, and our product accessible to all of our customers. 
+ We’re proud to be an equal opportunity employer open to all qualified applicants regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital or familial status, disability, pregnancy, gender identity or expression, veteran status, genetic information, or any other legally protected status. Justworks is fully dedicated to providing necessary support to candidates with disabilities who may require reasonable accommodations. We also provide reasonable accommodations to employees based on their sincerely held religious beliefs, as well as for other covered reasons consistent with applicable federal, state, and local laws. If you're in need of a reasonable accommodation, please reach out to us at accommodations@justworks.com . Your comfort and success matter to us, and we're here to ensure an inclusive experience. 
+ Our DEIB Report
