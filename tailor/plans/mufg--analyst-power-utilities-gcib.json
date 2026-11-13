@@ -1,0 +1,47 @@
+{
+ "company": "MUFG",
+ "role": "Analyst - Power & Utilities - Global Corporate & Investment Bank",
+ "variant": "project-finance-solar",
+ "job_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Analyst---Power---Utilities---Global-Corporate---Investment-Bank_10080189-WD",
+ "edits": [
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Project Finance, Renewable Energy Finance, Financial Modeling, Valuation Analysis, Financial Analysis, Market Analysis, Understanding of Financial Products, Data Presentation, Investment Research, Bloomberg, S&P Capital IQ",
+   "why": "Posting prefers an understanding of power, utilities and energy transition; project and renewable finance moved to the front, Due Diligence dropped."
+  },
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Accuracy fix: the JPMorgan models were on marketing-channel budgets, not investments."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation, not investment diligence."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear MUFG Power & Utilities Team,",
+  "paragraphs": [
+   "I'm applying for the Analyst role on the Power & Utilities team in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. The posting's point about data centers and AI driving new electricity demand is exactly why I want to cover this sector. Power and data center financing is the area I most want to build a career in, and your team's record as a lead arranger for utilities and renewable developers is a strong place to learn it.",
+   "The closest work I've done is an MBA project modeling a 6-project, 35.4 MW Illinois solar portfolio. I built project and portfolio models covering capital structure, DSCR, NPV and levered IRR under post-ITC scenarios, compared senior debt, sustainability-linked loan and green loan plus ABS structures, and recommended a phased green loan + ABS approach that reduced sponsor equity by $11.1M in the model and improved levered IRR from 8.58% to 9.79%. At Lenovo I spent two years building forecasts and scenario analyses that improved capital efficiency by 15%.",
+   "That maps to the modeling, credit work and presentation drafting the role describes. My project finance work so far has been coursework, so I'd be learning live execution on the job, but I bring careful Excel modeling, comfort with debt metrics, and real interest in how utilities and IPPs fund new generation. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli and I'm applying for the Power & Utilities Analyst role at MUFG. For an MBA project I modeled a 35.4 MW solar portfolio (DSCR, levered IRR, green loan + ABS structures), and at Lenovo I built forecasts that improved capital efficiency by 15%. I'd love to hear how the team is seeing data center power demand. Would you have 15 minutes for a quick chat?"
+}

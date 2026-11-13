@@ -1,0 +1,47 @@
+{
+ "company": "Citi",
+ "role": "Client Institutional Credit Management/Credit Underwriting, Full-Time Analyst, New York - 2027",
+ "variant": "finance-core",
+ "job_url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Client-Institutional-Credit-Management-Credit-Underwriting--Full-Time-Analyst--New-York--NY---USA-2027_261007269",
+ "edits": [
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Financial Analysis & Research, Financial Modeling, Corporate Finance, Understanding of Financial Products, Market Analysis, Data Presentation, Investment Research, Bloomberg, S&P Capital IQ",
+   "why": "Underwriting work is financial statement and credit analysis; those lead, Due Diligence dropped."
+  },
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting mentions building models and monitoring portfolio credit; plainer wording."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation, not investment diligence."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Citi Corporate and Leveraged Finance Underwriting Team,",
+  "paragraphs": [
+   "I'm applying for the 2027 Full-Time Analyst role in Credit Underwriting on the Corporate and Leveraged Finance Underwriting team. I'm an MBA Finance (STEM) candidate at Fordham Gabelli graduating in spring 2027, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Credit approval for episodic transactions plus ongoing monitoring of the portfolio is a good way to learn how a bank decides which risks it is willing to take, and that is why this team stands out to me.",
+   "In my MBA I analyzed financial statements and disclosures to assess earnings quality across firms, and built a DCF and an LBO for J.M. Smucker. At Lenovo I spent two years building forecasts and scenario analyses that improved capital efficiency by 15%, and at Thomson Reuters I managed cash flow analysis covering 80%+ of inflows and reached 85%+ accuracy in revenue recognition and reporting.",
+   "That maps to spreading financials, building models and helping monitor credits. I'd be learning credit underwriting on the job, and I'd bring careful analysis and steady attention to detail. I'd welcome the chance to talk about the program."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli graduating in 2027 and I'm applying for Citi's 2027 Credit Underwriting Analyst role. At Lenovo I built forecasts that improved capital efficiency by 15%, and in my MBA I built a DCF and LBO for J.M. Smucker. I'd love to hear what the first year on the CLFU team looks like. Would you have 15 minutes for a quick chat?"
+}
