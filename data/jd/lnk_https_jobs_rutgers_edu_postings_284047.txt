@@ -1,0 +1,391 @@
+Rutgers University — Oracle Financial Reporting Analyst
+https://jobs.rutgers.edu/postings/284047
+
+Rutgers University Employment Opportunities | Oracle Financial Reporting Analyst 
+
+- 
+
+- 
+
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+ - 
+ - 
+
+ Skip to Main Content 
+
+ Universitywide | New Brunswick | Newark | Camden | RBHS 
+
+ University Search 
+
+ University Human Resources Home 
+
+ Employment Opportunities 
+
+ - 
+ Home 
+
+ - 
+ Search Jobs 
+
+ - 
+ Job Alerts 
+
+ - 
+ Log In /Create Account 
+
+ - 
+ Help 
+
+ - Why Work at Rutgers? 
+
+ - Rutgers Edge 
+
+ - The RU Commitment 
+
+ - Benefits Information 
+
+ - Information for New Employees 
+
+ - URA-AFT Job Postings 
+
+ - Rutgers University Foundation Job Postings 
+
+ Oracle Financial Reporting Analyst
+
+ Below you will find the details for the position including any supplementary documentation and questions you should review before applying for the opening.  To apply for the position, please click the Apply for this Job link/button.
+
+ If you would like to bookmark this position for later review, click on the Bookmark link.  If you would like to print a copy of this position for your records, click on the Print Preview link.
+
+ Bookmark this Posting 
+ Print Preview |
+ Apply for this Job 
+
+ Position Details
+
+ Position Information
+
+ Recruitment/Posting Title 
+ Oracle Financial Reporting Analyst 
+
+ Job Category 
+ Staff & Executive - Finance/Accounting/Purchasing 
+
+ Department 
+ UFA Financial Planning & Analy 
+
+ Overview 
+ Rutgers, The State University of New Jersey, is a leading national research university and the State of New Jersey’s preeminent, comprehensive public institution of higher education. As one of the largest employers in the State of New Jersey, Rutgers University is committed not only to the students and the State that we serve, but also to the faculty and staff who work on our campuses. Ranked in 2022 by Forbes as a top 100 best large employer in America, Rutgers’ commitment to its employees includes maintaining and fostering a safe, diverse, and respectful workplace environment, creating employment opportunities for our nation’s military veterans, and ensuring accessibility and accommodation for individuals with disabilities.
+
+University Finance and Administration ( UFA ) advances Rutgers’ strategic priorities through the management of all central financial, administrative, and student information systems and processes. We supply the university’s financial community the professional guidance, services, tools, and information needed to make the informed decisions that contribute to Rutgers’ standing as an academic, health, and research powerhouse. We are deeply committed to our guiding principles and the core values that are critical for the long-term strategic growth of our division and the university. For more information, please visit https://finance.rutgers.edu/ . 
+
+ Posting Summary 
+ Rutgers, The State University of New Jersey is seeking an Oracle Financial Reporting Analyst for the Financial Data Analytics and Reporting office, within University Finance and Administration ( UFA ). Under the direction of the Senior Manager, Data Management and Reporting, this position supports the development and delivery of operational financial reporting solutions across the UFA division, contributing to a university-wide reporting footprint that serves more than 2,000 Oracle ERP users and over 2,000 Tableau users who rely on UFA reporting for financial operations, budgeting, planning, and compliance.
+
+ Among the key duties of this position are the following: 
+- Collaborate with stakeholders to clarify reporting needs and document functional requirements.
+
+- Translate reporting requirements into clear technical specifications in collaboration with OIT and end-users.
+
+- Develop and maintain ERP reports using Oracle ERP reporting tools such as OTBI , BI Publisher, Smart View, and FRS ; support Tableau-based operational reports as required.
+
+- Conduct data validation, reconciliation, and testing to ensure accuracy and reliability of report outputs.
+
+- Perform testing of reports during Oracle updates to ensure continued functionality.
+
+- Apply a strong working knowledge of data flow within the Oracle ERP systems and integration across modules (e.g., General Ledger, Projects ( PPM ), Accounts Receivable, Accounts Payable, Fixed Assets, Cash Management).
+
+- Manage assigned reporting requests and support prioritization through Jira/ServiceNow to ensure timely resolution.
+
+- Troubleshoot reporting errors, data issues, and access problems; escalate technical issues when appropriate.
+
+- Respond to help desk inquiries, providing timely, accurate, and constructive support.
+
+- Maintain report definitions, technical documentation, folder structures, and security settings within Oracle and Tableau environments.
+
+- Support end-user training and develop user-facing documentation and job aids to enable effective use of financial reports and reporting tools.
+
+ FLSA 
+ Exempt 
+
+ Grade 
+ 07 
+
+ Salary Details 
+
+ Minimum Salary 
+ 94492.000 
+
+ Mid Range Salary 
+ 119604.000 
+
+ Maximum Salary 
+ 144715.000 
+
+ Offer Information 
+ The final salary offer may be determined by several factors, including, but not limited to, the candidate’s qualifications, experience, and expertise, and availability of department or grant funds to support the position. We also take into consideration market benchmarks, if and when appropriate, and internal equity to ensure fair compensation relative to the university’s broader compensation structure. We are committed to offering competitive and flexible compensation packages to attract and retain top talent. 
+
+ Benefits 
+ Rutgers provides a comprehensive benefits package to eligible employees. The specific benefits vary based on the position and may include: 
+- Medical, prescription drug, and dental coverage
+
+- Paid vacation, holidays, and various leave programs
+
+- Competitive retirement benefits, including defined contribution plans and voluntary tax-deferred savings options
+
+- Employee and dependent educational benefits (when applicable)
+
+- Life insurance coverage
+
+- Employee discount programs
+
+ Position Status 
+ Full Time 
+
+ Working Hours 
+
+ Standard Hours 
+ 37.50 
+
+ Daily Work Shift 
+
+ Work Arrangement 
+ Consistent with the current application of Rutgers Policy 60.3.22 or the applicable provisions of relevant collective negotiations agreements, this position may be eligible for a hybrid work arrangement. Flexible work arrangements are not permanent, subject to change or discontinuation, and contingent on the employee receiving approval in the FlexWork@RU Application System. 
+
+ Union Description 
+ Admin Assembly (MPSC) 
+
+ Payroll Designation 
+ PeopleSoft 
+
+ Seniority Unit 
+
+ Terms of Appointment 
+ Staff - 12 month 
+
+ Position Pension Eligibility 
+ ABP 
+
+ Qualifications
+
+ Minimum Education and Experience 
+
+- Bachelor’s degree in Finance, Accounting, Information Systems, Data Analytics, Computer Science, or a related field.
+
+- Candidates with degrees in other disciplines must demonstrate relevant professional experience in financial reporting, ERP systems, or data analytics to meet the role’s functional requirements.
+
+- At least five (5) years of experience developing financial or operational reports in a complex organizational environment.
+
+- A Master’s degree may substitute for up to two years of the required work experience.
+
+ Certifications/Licenses 
+
+ Required Knowledge, Skills, and Abilities 
+
+- Demonstrated hands-on expertise with Oracle reporting tools, including BI Publisher, OTBI , FRS , Oracle SQL , and Smart View, with a deep understanding of how data flows through the Oracle ERP system.
+
+- Demonstrated ability to translate financial business requirements into functional and technical reporting specifications.
+
+- Demonstrated experience developing and maintaining BI Publisher reports and templates using Oracle BI Publisher Template Builder.
+
+- Proficiency in SQL (Oracle SQL preferred).
+
+- Understanding of financial processes and reporting, including:
+o General ledger structures.
+o Chart of accounts design.
+o Sub-ledger integrations (AP, AR, PPM , Assets, Cash Management).
+o Allocations, consolidations, and financial close processes.
+
+- Experience with report testing, documentation, data validation, and troubleshooting.
+
+- Strong analytical, organizational, and problem-solving skills.
+
+- Excellent written and verbal communication skills.
+
+- Proficiency with Microsoft Excel and other MS Office applications.
+
+ Preferred Qualifications 
+
+- Experience working in higher education or public sector institutions.
+
+- Experience developing and maintaining Tableau reports.
+
+- Experience integrating or validating data across multiple ERP modules or systems.
+
+- Experience using Oracle Cloud Financials ( ERP and HCM ) modules, e.g., Project Portfolio Management ( PPM ), Accounts Payable, Accounts Receivable, Fixed Assets, Cash Management.
+
+- Exposure to Oracle Analytics Cloud ( OAC ) and emerging Oracle reporting capabilities.
+
+ Equipment Utilized 
+ - Oracle ERP , Oracle Transactional Business Intelligence ( OTBI ), BI Publisher, Smart View, Financial Reporting Studio ( FRS ), Oracle SQL , Tableau, Jira, ServiceNow, and Microsoft Office applications including Excel.
+
+ Physical Demands and Work Environment 
+
+ Special Conditions 
+
+- This position may be eligible for a hybrid work arrangement, subject to approval and operational needs.
+
+- A regular on-site presence of at least three (3) days per week is required, with additional on-site days as needed.
+
+- Employees approved for a hybrid work arrangement must reside in NJ, NY, PA or DE and be within a commutable distance of the university.
+
+ Posting Details
+
+ Posting Number 
+ 26ST1854 
+
+ Posting Open Date 
+ 09/28/2026 
+
+ Special Instructions to Applicants 
+
+ Regional Campus 
+ Rutgers University-New Brunswick 
+
+ Home Location Campus 
+ Off Campus 
+
+ City 
+ Piscataway 
+
+ State 
+ NJ 
+
+ Location Details 
+
+ Pre-employment Screenings
+ All offers of employment are contingent upon successful completion of all pre-employment screenings. 
+
+ Immunization Requirements
+ Under Policy 100.3.1 Immunization Policy for Covered Individuals , if employment will commence during Flu Season, Rutgers University may require certain prospective employees to provide proof that they are vaccinated against Seasonal Influenza for the current Flu Season, unless the University has granted the individual a medical or religious exemption. Additional infection control and safety policies may apply. Prospective employees should speak with their hiring manager to determine which policies apply to the role or position for which they are applying. Failure to provide proof of vaccination for any required vaccines or obtain a medical or religious exemption from the University will result in rescission of a candidate’s offer of employment or disciplinary action up to and including termination.
+
+ Equal Employment Opportunity Statement
+
+It is university policy to provide equal employment opportunity to all its employees and applicants for employment regardless of their race, creed, color, national origin, age, ancestry, nationality, marital or domestic partnership or civil union status, sex, pregnancy, gender identity or expression, disability status, liability for military service, protected veteran status, affectional or sexual orientation, atypical cellular or blood trait, genetic information (including the refusal to submit to genetic testing), or any other category protected by law. As an institution, we encourage all qualified applicants to apply. For additional information please see the Non-Discrimination Statement at the following web address: http://uhr.rutgers.edu/non-discrimination-statement 
+
+ Supplemental Questions
+
+ Required fields are indicated with an asterisk (*). 
+
+ - * 
+ Do you have a Bachelor’s degree in Finance, Accounting, Information Systems, Data Analytics, Computer Science, or a related field? (Candidates with degrees in other disciplines must demonstrate relevant professional experience in financial reporting, ERP systems, or data analytics to meet the role's functional requirements)
+
+ - Yes
+
+ - No
+
+ - * 
+ Do you have a at least five (5) years of experience developing financial or operational reports in a complex organizational environment?
+(A Master’s degree may substitute for up to two years of the required work experience.)
+
+ - Yes
+
+ - No
+
+ - * 
+ Briefly describe your experience supporting budgeting, forecasting, financial reporting, allocations, consolidations, or financial close processes.
+ (Open Ended Question)
+
+ - * 
+ Have you created financial reports using OTBI?
+
+ - Yes
+
+ - No
+
+ - * 
+ What is your level of experience in developing OTBI financial reports?
+
+ - Beginner
+
+ - Intermediate
+
+ - Advanced
+
+ - Expert
+
+ - * 
+ Do you have experience developing Oracle BI Publisher Reports?
+
+ - Yes
+
+ - No
+
+ - * 
+ What is your level of experience in developing Oracle BI Publisher Reports?
+
+ - Beginner
+
+ - Intermediate
+
+ - Advanced
+
+ - Expert
+
+ - * 
+ Do you have experience developing reports using Financial Reporting Studio (FRS)?
+
+ - Yes
+
+ - No
+
+ - * 
+ What is your level of experience in developing FRS Reports?
+
+ - Beginner
+
+ - Intermediate
+
+ - Advanced
+
+ - Expert
+
+ - * 
+ Describe the type of reports you have created using OTBI or BIP.
+ (Open Ended Question)
+
+ Applicant Documents
+
+ Required Documents 
+
+ - Resume/CV
+
+ - Cover Letter/Letter of Application 
+
+ Optional Documents 
+
+ - List of Professional References (contact Info)
+
+ It is university policy to provide equal employment opportunity to all its employees and applicants for employment regardless of their race, creed, color, national origin, age, ancestry, nationality, marital or domestic partnership or civil union status, sex, pregnancy, gender identity or expression, disability status, liability for military service, protected veteran status, affectional or sexual orientation, atypical cellular or blood trait, genetic information (including the refusal to submit to genetic testing), or any other category protected by law. As an institution, we encourage all qualified applicants to apply. For additional information please see the Non-Discrimination Statement at the following web address: Non-Discrimination-Statement .
+
+In compliance with the Americans with Disabilities Act (ADA) and the New Jersey Law Against Discrimination (NJLAD), if you have a disability and would like to request an accommodation with regard to your access to and/or your participation in the application and selection processes (for example, the online application process or interviews), please call 848-932-3973 or e-mail us .
+
+ Rutgers University is an equal access/equal opportunity institution. If you have trouble accessing this page because of a disability, please contact us at 732.745.7378 or via email at OneSource@Rutgers.edu .
+
+ Rutgers University participates in the E-Verify program as required by law. Learn more about the E-Verify program .
+
+ For technical assistance with the applicant tracking system (login, filling out your application, resetting your password, etc.) please contact the ROCS Help Desk at 848-932-4444 or ROCS@hr.rutgers.edu .
+
+To learn more about Rutgers University’s commitment to diversity and inclusion on its campuses, click here .
+
+ Copyright © 2014 , Rutgers, The State University of New Jersey, an equal opportunity, affirmative action institution.
+
+ Contact RU-info at 732-445-info (4639) | Questions? Ask Colonel Henry or text us at 732-662-2664. 
+
+ To ensure the security of your data, you will be logged out due to inactivity in 3 minutes at
+
+ .
+
+ Any data not saved will be lost.
+
+ Click 'OK' to keep your session active.
+
+ -

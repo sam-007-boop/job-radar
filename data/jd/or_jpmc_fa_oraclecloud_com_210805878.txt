@@ -1,0 +1,37 @@
+JPMorgan Chase — Business Banking Product Controller
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805878
+
+Join a team where your financial analysis helps expand lending products and improve how they are reported and controlled. You will partner with senior leaders and cross-functional teams to integrate new products into existing processes, strengthen controls, and accelerate close and reporting timelines. This role offers broad exposure to regulatory reporting, accounting guidance, and process automation. If you enjoy solving complex problems and turning data into clear, decision-ready insights, this is a strong platform for growth.
+ Job summary
+ As a Product Controller – Business Banking Lending on the Business Banking Product Controller team, you will help ensure new and existing lending products are accurately reflected in financial and regulatory reporting. You will analyze and reconcile accounting and operational data, identify drivers and issues, and communicate outcomes clearly to stakeholders. You will support process improvements by implementing stronger controls and introducing automation where it reduces manual effort and cycle time. You will work in a highly matrixed environment and play a key role in delivering timely, reliable reporting as products and requirements evolve.
+ Job responsibilities
+ - Lead integration of new lending products into the financial reporting structure, including external regulatory reporting deliverables
+- Analyze, prepare, and reconcile accounting and operational data to support close and reporting activities
+- Coordinate finance infrastructure readiness, including accounting guidance implementation and control execution
+- Partner with stakeholders to deliver ad hoc analysis, recurring reporting, and innovation initiatives
+- Build relationships across planning and analysis, accounting policy, regulatory policy, risk, external reporting, and finance teams to drive alignment and timely delivery
+- Enhance and document controls while streamlining end-to-end reporting processes
+- Identify automation opportunities and implement solutions that reduce manual work and shorten cycle times
+- Monitor changes in accounting standards and regulatory requirements and translate impacts into reporting actions
+- Escalate issues constructively, including root-cause analysis, options, and recommended paths forward
+- Present complex information in clear, concise, executive-ready narratives and materials
+ Required qualifications, capabilities and skills
+ - Bachelor’s degree in Accounting, Finance, or a related field
+- Minimum three years of relevant experience in financial reporting, product control, accounting, or controllership
+- Working knowledge of Generally Accepted Accounting Principles (GAAP)
+- Demonstrated ability to perform detailed reconciliations and investigate variances to resolution
+- Strong analytical and problem-solving skills, including the ability to turn complex data into clear insights
+- Ability to manage multiple deadlines and deliver high-quality work in a fast-paced environment
+- Strong written and verbal communication skills, including executive-ready storytelling
+- Proficiency in Microsoft Excel for financial analysis and reconciliation
+- Experience using SAP (or similar enterprise resource planning tools) for finance and reporting processes
+- Experience with data sourcing and analysis tools such as SQL and Databricks (or similar platforms)
+ Preferred qualifications, capabilities and skills 
+ - Experience supporting external regulatory reporting processes or deliverables
+- Experience integrating new products or workflows into existing finance reporting and control frameworks
+- Experience designing or improving controls, including documentation and testing support
+- Experience implementing process automation (for example, workflow automation, data pipelines, or reporting automation)
+- Familiarity with lending products and related finance reporting considerations
+- Comfort working with large datasets and partnering with technology teams to improve data quality and lineage
+- Experience producing senior leadership materials (management reporting, decks, or executive summaries)
+ To be eligible for this role, you must be authorized to work in the United States. We do not offer any type of employment-based immigration sponsorship for this role. Likewise, JPMorgan Chase & Co. will not provide any assistance or sign any documentation in support of any other form of immigration sponsorship or benefit, including optional practical training (OPT) or curricular practical training (CPT).
