@@ -1,0 +1,418 @@
+{
+ "Anthropic": [
+  "greenhouse",
+  "anthropic",
+  669
+ ],
+ "OpenAI": [
+  "ashby",
+  "openai",
+  838
+ ],
+ "Databricks": [
+  "greenhouse",
+  "databricks",
+  896
+ ],
+ "Stripe": [
+  "greenhouse",
+  "stripe",
+  786
+ ],
+ "Waymo": [
+  "greenhouse",
+  "waymo",
+  373
+ ],
+ "Cognition": [
+  "ashby",
+  "cognition",
+  112
+ ],
+ "Anduril": null,
+ "Ramp": [
+  "ashby",
+  "ramp",
+  180
+ ],
+ "Fireworks": [
+  "ashby",
+  "fireworks",
+  100
+ ],
+ "ElevenLabs": [
+  "ashby",
+  "elevenlabs",
+  128
+ ],
+ "Baseten": [
+  "ashby",
+  "baseten",
+  102
+ ],
+ "Canva": null,
+ "Applied Intuition": null,
+ "Isomorphic Labs": [
+  "greenhouse",
+  "isomorphiclabs",
+  40
+ ],
+ "Mercor": [
+  "ashby",
+  "mercor",
+  91
+ ],
+ "Fal": null,
+ "Sierra": [
+  "ashby",
+  "sierra",
+  198
+ ],
+ "ClickHouse": [
+  "ashby",
+  "clickhouse",
+  205
+ ],
+ "Perplexity": [
+  "ashby",
+  "perplexity",
+  141
+ ],
+ "Modal": [
+  "ashby",
+  "modal",
+  43
+ ],
+ "Thinking Machines Lab": [
+  "ashby",
+  "thinkingmachines",
+  51
+ ],
+ "Crusoe": [
+  "ashby",
+  "crusoe",
+  318
+ ],
+ "Together AI": [
+  "greenhouse",
+  "togetherai",
+  80
+ ],
+ "Physical Intelligence": [
+  "ashby",
+  "physicalintelligence",
+  45
+ ],
+ "Reflection": [
+  "ashby",
+  "reflectionai",
+  45
+ ],
+ "Skild": null,
+ "Notion": [
+  "ashby",
+  "notion",
+  166
+ ],
+ "Lovable": [
+  "ashby",
+  "lovable",
+  79
+ ],
+ "Vercel": [
+  "greenhouse",
+  "vercel",
+  86
+ ],
+ "Helsing": [
+  "greenhouse",
+  "helsing",
+  171
+ ],
+ "Supabase": [
+  "ashby",
+  "supabase",
+  77
+ ],
+ "Mistral": null,
+ "Prometheus": [
+  "ashby",
+  "prometheus",
+  1
+ ],
+ "Temporal": [
+  "ashby",
+  "temporal",
+  84
+ ],
+ "Shield AI": null,
+ "Lambda": [
+  "ashby",
+  "lambda",
+  93
+ ],
+ "Safe Superintelligence": null,
+ "Fluidstack": [
+  "ashby",
+  "fluidstack",
+  254
+ ],
+ "Harvey": [
+  "ashby",
+  "harvey",
+  387
+ ],
+ "Instinct": null,
+ "Saronic": [
+  "ashby",
+  "saronic",
+  274
+ ],
+ "Nscale": null,
+ "Zipline": null,
+ "OpenEvidence": [
+  "ashby",
+  "openevidence",
+  8
+ ],
+ "Legora": [
+  "ashby",
+  "legora",
+  341
+ ],
+ "Atoms": [
+  "greenhouse",
+  "atoms",
+  162
+ ],
+ "Replit": [
+  "ashby",
+  "replit",
+  30
+ ],
+ "Handshake": [
+  "ashby",
+  "handshake",
+  74
+ ],
+ "VAST Data": null,
+ "Cyera": null,
+ "Cohere": [
+  "ashby",
+  "cohere",
+  121
+ ],
+ "TypeSafe AI": [
+  "ashby",
+  "typesafe-ai",
+  22
+ ],
+ "Rippling": null,
+ "Skydio": [
+  "ashby",
+  "skydio",
+  189
+ ],
+ "Figure": [
+  "greenhouse",
+  "figureai",
+  105
+ ],
+ "Abnormal AI": [
+  "greenhouse",
+  "abnormalsecurity",
+  88
+ ],
+ "Etched": [
+  "ashby",
+  "etched",
+  115
+ ],
+ "Higgsfield": [
+  "ashby",
+  "higgsfieldai",
+  95
+ ],
+ "Wayve": [
+  "ashby",
+  "wayve",
+  167
+ ],
+ "Abridge": [
+  "ashby",
+  "abridge",
+  24
+ ],
+ "Grafana": null,
+ "Decagon": [
+  "ashby",
+  "decagon",
+  124
+ ],
+ "Turbopuffer": [
+  "ashby",
+  "turbopuffer",
+  7
+ ],
+ "Suno": [
+  "ashby",
+  "suno",
+  63
+ ],
+ "Exa": [
+  "ashby",
+  "exa",
+  67
+ ],
+ "Cribl": [
+  "greenhouse",
+  "cribl",
+  77
+ ],
+ "Fractile": [
+  "ashby",
+  "fractile",
+  24
+ ],
+ "EliseAI": [
+  "ashby",
+  "eliseai",
+  110
+ ],
+ "Positron AI": null,
+ "Runway AI": [
+  "ashby",
+  "runway",
+  3
+ ],
+ "MatX": [
+  "ashby",
+  "matx",
+  42
+ ],
+ "Wonderful": [
+  "ashby",
+  "wonderful",
+  125
+ ],
+ "Factory": [
+  "ashby",
+  "factory",
+  67
+ ],
+ "DensityAI": [
+  "greenhouse",
+  "densityai",
+  27
+ ],
+ "Glean": [
+  "greenhouse",
+  "gleanwork",
+  121
+ ],
+ "Halter": [
+  "ashby",
+  "halter",
+  268
+ ],
+ "Arena": [
+  "ashby",
+  "arena",
+  21
+ ],
+ "Parallel": [
+  "ashby",
+  "parallel",
+  34
+ ],
+ "LangChain": [
+  "ashby",
+  "langchain",
+  99
+ ],
+ "Granola": [
+  "ashby",
+  "granola",
+  20
+ ],
+ "Black Forest Labs": [
+  "ashby",
+  "black-forest-labs",
+  13
+ ],
+ "Rogo": [
+  "ashby",
+  "rogo",
+  103
+ ],
+ "Profound": [
+  "ashby",
+  "profound",
+  90
+ ],
+ "Gamma": [
+  "ashby",
+  "gamma",
+  20
+ ],
+ "Generalist": [
+  "ashby",
+  "generalist",
+  39
+ ],
+ "Periodic Labs": [
+  "ashby",
+  "periodic-labs",
+  31
+ ],
+ "Flapping Airplanes": null,
+ "Chai Discovery": [
+  "ashby",
+  "chaidiscovery",
+  23
+ ],
+ "DriveNets": null,
+ "Upwind": null,
+ "Mind Robotics": [
+  "ashby",
+  "mindrobotics",
+  34
+ ],
+ "n8n": [
+  "ashby",
+  "n8n",
+  55
+ ],
+ "EvenUp": null,
+ "Applied Compute": null,
+ "Synthesia": [
+  "ashby",
+  "synthesia",
+  31
+ ],
+ "Serval": [
+  "ashby",
+  "serval",
+  68
+ ],
+ "Render": [
+  "ashby",
+  "render",
+  38
+ ],
+ "Clay": [
+  "ashby",
+  "claylabs",
+  60
+ ],
+ "Bedrock Robotics": [
+  "ashby",
+  "bedrock-robotics",
+  59
+ ],
+ "Simile": [
+  "ashby",
+  "simile",
+  13
+ ]
+}
