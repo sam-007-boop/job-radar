@@ -1,30 +1,31 @@
-# Fresh roles — 2026-11-13 06:33 ET
+# Fresh roles — 2026-11-14 06:14 ET
 
-26 new finance roles posted today or yesterday.
+27 new finance roles posted today or yesterday.
 
-- **Amazon (incl. AWS data-center finance)** — [Senior Financial Analyst, Platform Experience Finance Team](https://www.amazon.jobs/en/jobs/10603410/senior-financial-analyst-platform-experience-finance-team) · Seattle, Washington, USA · posted 2026-11-12 · AI x finance
-- **Databricks** — [Corporate FP&A Manager](https://databricks.com/company/careers/open-positions/job?gh_jid=8936978002) · Mountain View, California; San Francisco, California · posted 2026-11-12 · Analytics
-- **Guidehouse** — [Financial Management Functional Data Consultant](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Financial-Management-Functional-Data-Consultant_45083) · US   VA McLean · posted 2026-11-12 · Analytics
-- **S&P Global** — [Fixed Income Pricing Evaluator](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Fixed-Income-Pricing-Evaluator_332624-1) · New York, NY · posted 2026-11-12 · Analytics
-- **S&P Global** — [Senior Commercial Manager, New Business - Financial Services](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Sr-Commercial-Manager_332589-2) · New York, NY · posted 2026-11-12 · Analytics
-- **Citi** — [Banking - Investment Banking, LATAM Full-Time Analyst - NEW YORK, US 2027](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Banking---Investment-Banking--LATAM-Full-Time-Analyst---NEW-YORK--US-2027_261001253) · New York New York United States · posted 2026-11-12 · IB
-- **Citi** — [Client Institutional Credit Management/Credit Underwriting, Full-Time Analyst, New York, NY - USA 2027](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Client-Institutional-Credit-Management-Credit-Underwriting--Full-Time-Analyst--New-York--NY---USA-2027_261007269) · New York New York United States · posted 2026-11-12 · IB
-- **Citi** — [Corporate Banking Analyst - Energy](https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Corporate-Banking-Analyst---Energy_261007519) · Houston Texas United States · posted 2026-11-12 · IB
-- **Guggenheim Securities** — [Analyst – Investment Banking, Infrastructure](https://guggenheim.wd1.myworkdayjobs.com/Guggenheim_Careers/job/New-York/Analyst---Investment-Banking--Infrastructure_14988) · New York · posted 2026-11-12 · IB
-- **Houlihan Lokey (campus)** — [2028 Summer Financial Analyst – Secondaries & Directs Advisory Groups (Class of 2029) - New York](https://hl.wd1.myworkdayjobs.com/Campus/job/New-York-NY-USA/XMLNAME-2028-Summer-Financial-Analyst---Secondaries---Directs-Advisory-Groups--Class-of-2029----New-York_R3684) · New York, NY, USA · posted 2026-11-12 · IB
-- **JPMorgan Chase** — [Analytics Solutions, Senior Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785428) · New York, NY, United States · posted 2026-11-12 · IB
-- **JPMorgan Chase** — [Business Banking Deposits – Product, Senior Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802577) · Columbus, OH, United States · posted 2026-11-12 · IB
-- **JPMorgan Chase** — [Prime Financial Services Client Onboarding Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803597) · NY, United States · posted 2026-11-12 · IB
-- **JPMorgan Chase** — [Business Banking Product Controller](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805878) · Columbus, OH, United States · posted 2026-11-12 · IB
-- **JPMorgan Chase** — [Finance Control Management Associate – Business Resiliency & Third-Party Oversight](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805970) · Brooklyn, NY, United States · posted 2026-11-12 · IB
-- **JPMorgan Chase** — [2027 Asset & Wealth Management International Private Bank LatAm MBA Summer Associate Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806333) · Houston, TX, United States · posted 2026-11-12 · IB
-- **MUFG** — [Analyst - Power & Utilities - Global Corporate & Investment Bank](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Analyst---Power---Utilities---Global-Corporate---Investment-Bank_10080189-WD) · New York, NY · posted 2026-11-12 · IB
-- **MUFG** — [Global Financial Crimes – Sanctions Controls – Screening and Technology Analyst](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Irving-TX/Global-Financial-Crimes---Sanctions-Controls---Screening-and-Technology-Analyst_10080374-WD) · Irving, TX · posted 2026-11-12 · IB
-- **Mizuho Americas** — [Investment & Corporate Banking – Healthcare, Analyst](https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/New-York-NY-1271-AOA6th-Ave/Investment---Corporate-Banking---Healthcare--Analyst_R7461-1) · New York, NY (1271 AOA/6th Ave) · posted 2026-11-12 · IB
-- **(see posting)** — [Finance Control Management Associate – Business Resiliency & Third-Party Oversight](https://www.builtinnyc.com/job/finance-control-management-associate-business-resiliency-third-party-oversight/12205906) ·  · posted 2026-11-13 · Mixed · via Built In NYC
-- **(see posting)** — [Associate Corporate Financial Analyst](https://www.builtinnyc.com/job/associate-corporate-financial-analyst/12210291) ·  · posted 2026-11-13 · Mixed · via Built In NYC
-- **(see posting)** — [Sr. Business Financial Analyst](https://www.builtinnyc.com/job/sr-business-financial-analyst/12210467) ·  · posted 2026-11-13 · Mixed · via Built In NYC
-- **(see posting)** — [FP&A Manager](https://www.builtinnyc.com/job/fp-manager/12008402) ·  · posted 2026-11-13 · Mixed · via Built In NYC
-- **Genentech** — [PD Data Sciences & Analytics](https://news.ycombinator.com/item?id=50477398) · 2027 Interns | ONSITE (South San Francisco, CA USA) · posted 2026-11-12 · Mixed · via Hacker News Who's Hiring
-- **BlackRock / GIP** — [Innovation & Data Analytics, Associate – Liquidity & Financing](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Innovation---Data-Analytics--Associate---Liquidity---Financing_R267125) · New York, NY · posted 2026-11-12 · PE / infra
-- **Rutgers University** — [Oracle Financial Reporting Analyst](https://jobs.rutgers.edu/postings/284047) ·  · posted 2026-11-13 · University (cap-exempt)
+- **Amazon (incl. AWS data-center finance)** — [Senior Financial Analyst, AMXL - Middle Mile & 3P Finance, Middle Mile & 3P Carrier Strategy Finance](https://www.amazon.jobs/en/jobs/10604751/senior-financial-analyst-amxl-middle-mile-3p-finance-middle-mile-3p-carrier-strategy-finance) · Bellevue, Washington, USA · posted 2026-11-13 · AI x finance
+- **Amazon (incl. AWS data-center finance)** — [Finance Transformation Analyst, Accounting Transformation Group](https://www.amazon.jobs/en/jobs/10604655/finance-transformation-analyst-accounting-transformation-group) · Seattle, Washington, USA · posted 2026-11-13 · AI x finance
+- **OpenAI** — [GTM Strategy & Operations, Generalist](https://jobs.ashbyhq.com/openai/58b0c1ff-9a9a-4a8a-a7eb-97618713574d) · San Francisco · posted 2026-11-13 · AI x finance
+- **Databricks** — [Strategy & Execution Manager - Deal Desk Transformation](https://databricks.com/company/careers/open-positions/job?gh_jid=8762400002) · Mountain View, California; San Francisco, California · posted 2026-11-13 · Analytics
+- **Figma** — [Manager, Strategic Finance](https://boards.greenhouse.io/figma/jobs/6252853004?gh_jid=6252853004) · San Francisco, CA • New York, NY • United States · posted 2026-11-13 · Analytics
+- **Mercury** — [Senior Credit Analyst](https://job-boards.greenhouse.io/mercury/jobs/6261570004) · San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States · posted 2026-11-13 · Analytics
+- **Ramp** — [Technical Consultant, Strategic](https://jobs.ashbyhq.com/ramp/e45a8b6a-5029-4ca5-ac6f-5af940843c72) · New York, NY (HQ) · posted 2026-11-13 · Analytics
+- **Ramp** — [Risk Strategy Intern](https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109) · New York, NY (HQ) · posted 2026-11-13 · Analytics
+- **JPMorgan Chase** — [AI Controls Enablement Strategy & Innovation - Asset and Wealth Management Controls -Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772823) · NY, United States · posted 2026-11-13 · IB
+- **JPMorgan Chase** — [Product Controls Strategy - Insurance](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801451) · Columbus, OH, United States · posted 2026-11-13 · IB
+- **(see posting)** — [Summer Finance Internship](https://www.builtinnyc.com/job/summer-finance-internship/12240654) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Financial Analyst (Hybrid - NYC, Newark, NJ, Edgewood, NY)](https://www.builtinnyc.com/job/financial-analyst-hybrid-nyc-newark-nj-edgewood-ny/11283880) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Mid-Level Financial Analyst](https://www.builtinnyc.com/job/mid-level-financial-analyst/12240323) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Junior Financial Analyst](https://www.builtinnyc.com/job/junior-financial-analyst/12239867) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Financial Analyst](https://www.builtinnyc.com/job/financial-analyst/12220746) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Senior Product Manager, FP&A](https://www.builtinnyc.com/job/senior-product-manager-fp/12214965) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [FP&A Analyst](https://www.builtinnyc.com/job/fp-analyst/12214664) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Strategic Finance & FP&A Manager](https://www.builtinnyc.com/job/strategic-finance-fp-manager/12248791) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Manager, Strategic Finance](https://www.builtinnyc.com/job/manager-strategic-finance/12247119) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Strategic Finance Manager](https://www.builtinnyc.com/job/strategic-finance-manager/12246836) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Strategic Finance](https://www.builtinnyc.com/job/strategic-finance/12232637) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Senior Associate, Strategic Finance](https://www.builtinnyc.com/job/senior-associate-strategic-finance/12251950) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Project Finance Credit Analyst](https://www.builtinnyc.com/job/project-finance-credit-analyst/12234379) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **(see posting)** — [Project Finance Summer Intern](https://www.builtinnyc.com/job/project-finance-summer-intern/12234347) ·  · posted 2026-11-14 · Mixed · via Built In NYC
+- **Columbia University** — [Financial Analyst New York United States 8A9Bd19B 9Fd9 4696 9Ad3 04209Bc68Ed4](https://opportunities.columbia.edu/jobs/financial-analyst-new-york-united-states-8a9bd19b-9fd9-4696-9ad3-04209bc68ed4) ·  · posted 2026-11-14 · University (cap-exempt)
+- **Rutgers University** — [Finance Manager (Part-time)](https://jobs.rutgers.edu/postings/284186) ·  · posted 2026-11-14 · University (cap-exempt)
+- **Weill Cornell Medicine** — [Financial Assistant](https://jobs.weill.cornell.edu/NY/job/New-York-Financial-Assistant-NY-10022/1450599500/) ·  · posted 2026-11-14 · University (cap-exempt)

@@ -1,0 +1,42 @@
+Amazon (incl. AWS data-center finance) — Finance Transformation Analyst, Accounting Transformation Group
+https://www.amazon.jobs/en/jobs/10604655/finance-transformation-analyst-accounting-transformation-group
+
+Join Amazon's Accounting Transformation Group and help transform how accounting operates at Amazon scale. We are undertaking a large-scale modernization of our financial systems, implementing SAP S/4HANA Central Finance and Group Reporting to enable scalable, standardized, and automated accounting processes across Amazon's global businesses.
+Amazon is looking for a highly analytical, hands-on Finance Transformation Analyst to support the design and implementation of our next-generation financial systems. In this role, you will partner across Accounting, Finance, Tax, Treasury, Product, and Technology teams to translate complex accounting requirements into practical system solutions, improve financial processes, and ensure strong controllership throughout the transformation.
+You will play an important role across the SAP implementation lifecycle, including business requirements, future-state process design, fit-gap analysis, financial data integration, testing, deployment readiness, and process improvements. You will work with accounting and technical teams to ensure SAP solutions support Amazon's financial reporting, period close, consolidation, and operational requirements.
+The ideal candidate combines strong accounting and analytical skills with an understanding of ERP systems, financial processes, and transformation delivery. You should be comfortable navigating ambiguity, diving deep into complex business problems, and working across global teams to deliver scalable solutions.
+
+Key job responsibilities
+• Partner with Accounting, Finance, Tax, Treasury, and Technology teams to support the design and implementation of SAP S/4HANA Central Finance and Group Reporting capabilities.
+• Gather, analyze, and document business and accounting requirements, translating them into functional requirements, process designs, and implementation deliverables.
+• Analyze current-state accounting workflows, financial data flows, and system dependencies to support the transition from legacy financial systems to SAP.
+• Support the design of future-state accounting processes, including general ledger, journal processing, period close, foreign currency accounting, allocations, consolidation, financial reporting, and internal controls.
+• Partner with technical and integration teams to define and validate accounting requirements.
+• Own assigned implementation activities across requirements, documentation, issue tracking, testing, defect resolution, deployment readiness, and stabilization.
+• Support System Integration Testing (SIT), User Acceptance Testing (UAT), and parallel testing by developing scenarios, validating accounting results, analyzing discrepancies, and coordinating issue resolution.
+• Analyze financial data and reconciliation results to validate completeness, accuracy, and consistency across source systems, SAP Central Finance, and Group Reporting.
+• Develop metrics, reporting, and mechanisms to track implementation progress, open issues, process performance, and operational readiness.
+• Communicate risks, dependencies, recommendations, and implementation status clearly to stakeholders and business leaders, helping drive timely resolution of issues and decisions.
+
+A day in the life
+You will collaborate with Accounting, Finance, and Technology teams to support SAP Central Finance implementation, including requirements gathering, future-state process design, fit-gap analysis, and system integration. Your day may involve participating in design workshops, reviewing functional specifications, validating master data, and resolving accounting or financial data discrepancies. During testing and deployment, you will develop test scenarios, validate accounting results, coordinate defect resolution, and track implementation readiness. You will work across business and technical teams to address challenges, improve financial processes, strengthen controllership, and deliver scalable solutions that meet Amazon's global accounting and operational requirements.
+
+About the team
+Amazon's Accounting Transformation Group is responsible for modernizing accounting processes and financial systems to support Amazon's continued growth and operational complexity.
+Our team is leading the transformation of Amazon's core accounting technology landscape, including the implementation of SAP S/4HANA Central Finance and Group Reporting. We partner across Accounting, Finance, Tax, Treasury, Product, Engineering, and Technology organizations to design scalable financial solutions, strengthen controllership, and simplify global accounting operations.
+We operate at the intersection of accounting, business process transformation, and technology, building the financial foundations that enable Amazon's businesses to grow efficiently while maintaining accurate, complete, and reliable financial reporting.
+
+- 3+ years of finance or a related analytical field experience
+- Bachelor's degree in accounting or related field
+
+- Knowledge of accounting principles, processes, and entries
+- Experience writing business requirements documents, functional specifications, and use cases
+- Experience supporting System Integration Testing (SIT), User Acceptance Testing (UAT), parallel testing, and post-implementation stabilization for financial systems.
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+ The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . 
+
+USA, WA, Seattle - 82,700.00 - 117,100.00 USD annually

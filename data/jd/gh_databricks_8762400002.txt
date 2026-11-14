@@ -1,0 +1,44 @@
+Databricks — Strategy & Execution Manager - Deal Desk Transformation
+https://databricks.com/company/careers/open-positions/job?gh_jid=8762400002
+
+SLSQ327R892 
+ While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered. 
+ At Databricks, we are passionate about helping data teams solve the world's most challenging problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. 
+ Databricks is looking for a motivated Strategy and Execution Manager to join our Deal Desk Transformation team that helps define Quote-to-Order (QtO) strategy and drive scalability. You will collaborate with the Deal Desk functions, senior leaders, and stakeholders across lines of business to execute on process and system enhancement projects. You will also own the operating model and automation roadmap for cloud Marketplace Private Offers across AWS, Azure, and GCP.  Managing stakeholder expectations and ensuring smooth implementation of process/system changes are key aspects of this role. You will be accountable for end-to-end transformation project lifecycle support, from strategic QtO process design and requirements gathering through User Acceptance Testing (UAT), go-live, and post-release enablement and support. Your ability to manage resistance to change, lead cross-functional conversations, and influence stakeholders sets you apart. You thrive in a dynamic environment and excel at problem-solving, project management, and driving results. You are passionate about helping us build a Deal Desk function with industry-leading business agility, process scalability, and automation in an environment of rapid growth. 
+ The impact you will have: 
+
+ Collaborate cross-functionally with Business Strategy & Operations, Finance Data and Strategy (FDS), IT systems teams, and relevant stakeholders such as GTM, Legal, Order Management, Field Sales, and Finance to roll out new and improved system/process enhancements and new commercialization initiatives 
+ Effectively enable internal stakeholders and field organization on new system/process enhancements and new commercialization initiatives 
+ Be a trusted partner to the Strategy & Execution Leadership by being independently capable of driving small-to-medium projects and initiatives 
+ Contribute to the delivery team by working with the IT, business, and product owners to refine user stories and requirements and perform UAT and go-live on said requirements 
+ Solve complex business problems by breaking them down into tangible steps for business systems developers to implement. 
+ Own the end-to-end Marketplace Private Offer process across AWS, Azure, and GCP: intake, offer creation, matching price and terms to the approved CPQ quote, custom EULA handling, acceptance tracking, and handoff to Order Management and Billing 
+ Design and deliver automation across the offer lifecycle, such as generating offers directly from approved quotes, syncing offer status and acceptance back to Salesforce, and flagging offers that are expiring or don't match the booking, to shorten cycle times and reduce manual errors 
+ Partner with Cloud Partnerships, Finance, and Billing to reconcile marketplace transactions against bookings (commit drawdown, usage metering, disbursements), including partner-led scenarios such as AWS CPPO and Azure multiparty private offers 
+ Define and report Private Offer KPIs such as turnaround time, acceptance rate, rework rate, and share of offers processed without manual work 
+ Shape QtO strategy and set up prioritization processes so the team works on the right things at the right time 
+ Formulate your own key questions and analyze large datasets from multiple sources to identify the highest-impact opportunities and actionable insights. 
+
+ What we look for: 
+
+ 6+ years of experience in a business analyst, operations strategy, tech quote-to-cash, or corporate strategy role (with a focus on operational performance). Experience in the enterprise software,  SaaS, and B2B industry preferred.  
+ Ability to effectively deliver enablement materials to both internal stakeholders and field organizations. 
+ Advanced research and analysis skills that you can flex to define, prioritize, and break down complex problems. 
+ The propensity to summarize and communicate complex ideas and concepts within internal teams with authority, influencing stakeholders including Databricks executives and department leadership.  
+ Comfortable and thrive in a rapidly scaling and dynamic startup environment 
+ Process expert: Envision E2E process change to solve our needs, drive agreement, document requirements, guide execution in partnership with IT, perform UAT, and report on progress. 
+ Knowledge of Salesforce CPQ and common Go-to-Market and Deal Support business processes 
+ Hands-on experience running Private Offers on at least one of AWS Marketplace, Azure Marketplace (Partner Center), or Google Cloud Marketplace; multi-cloud experience preferred. Understanding of how marketplace deals interact with cloud commit programs (AWS EDP/PPA, Azure MACC, GCP commits) is a strong plus 
+ Track record of automating manual ops workflows using marketplace APIs, marketplace integration platforms (e.g., Tackle, Saasify, or Clazar), Salesforce Flow, or scripting. SQL or Python, and experience applying AI agents to ops work, are a plus 
+ Self-driven, able to deliver on ambiguous projects with incomplete data and to hit deadlines across multiple projects in a fast-paced environment without losing sight of accuracy 
+ A service mindset and patience working with various cross-functional teams and business partners 
+ Proficiency with Google Workspace (Docs, Sheets, Slides), Jira, and Lucidchart, plus SQL (ideally on Databricks) to build dashboards, reports, and analyses 
+
+ Pay Range Transparency 
+ Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the expected salary range for non-commissionable roles or on-target earnings for commissionable roles.  Actual compensation packages are based on several factors that are unique to each candidate, including but not limited to job-related skills, depth of experience, relevant certifications and training, and specific work location. Based on the factors above, Databricks anticipates utilizing the full width of the range. The total compensation package for this position may also include eligibility for annual performance bonus, equity, and the benefits listed above. For more information regarding which range your location is in visit our page here . 
+   Zone 1 Pay Range $162,900 — $223,950 USD About Databricks 
+ Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X , YouTube , and Instagram . Benefits At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click here . 
+ Our Commitment to Diversity and Inclusion 
+ At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics. 
+ Compliance 
+ If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.

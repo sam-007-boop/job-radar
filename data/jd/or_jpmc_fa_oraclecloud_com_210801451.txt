@@ -1,0 +1,28 @@
+JPMorgan Chase — Product Controls Strategy - Insurance
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801451
+
+Support the build for the control environment for Business Banking’s Insurance Product. As a member of the Product Control Team, you will partner with the product team, Control Managers, and Legal, Risk, Compliance and Controls partners to translate regulatory obligations and business requirements into controls that support product delivery and ongoing operations.
+ You will assess requirements, identify risks across the product journey, and support the design and implementation of controls. You will also develop procedures and reporting that help the business execute controls, identify exceptions, and address gaps.
+ This role supports the Product / General Manager, who retains responsibility for risk ownership, work prioritization, and final control approval.
+ Job responsibilities 
+ - Assess policy and regulatory requirements: Partner with Legal and Compliance to identify applicable obligations, assess their impact on the Insurance Product, and translate their guidance into documented control requirements.
+- Map requirements to controls: Connect obligations to product processes and controls. Where required draft the necessary procedures to support compliance and maintain requirements-to-control mapping and a gap action log with clear owners and required actions.
+- Apply business standards: Work with Consumer & Community Banking and Business Banking partners to confirm applicable standards and governance requirements and incorporate them into the product operating model.
+- Support governance activities: Coordinate control requirements related to Third Party Oversight, NPA risk assessments, communications, and Agility Controls Change Management with the relevant partners.
+- Identify product risks: Map the Insurance Product journey with the product team and Control Managers to identify risks, process dependencies, and areas requiring controls.
+- Support control design and implementation: Draft control objectives and procedures. Partner with product and delivery teams to define control build requirements and support design and testing.
+- Support control execution and reporting: Develop control reporting requirements and coordinate report builds. Support control execution, exception reporting, and follow-up on identified gaps.
+- Communicate progress and escalate issues: Provide clear updates on control readiness, outstanding actions, and decisions required. Escalate unresolved gaps through agreed governance channels and support the Product / General Manager’s prioritization and approval decisions.
+ Required qualifications, capabilities, and skills 
+ - 8/+ years of experience in product controls, business control management, operational risk, compliance, or a related financial services discipline with the ability to influence outcomes without direct authority
+- Demonstrated ability to translate policy, regulatory, and business requirements into process requirements and documented controls in partnership with subject matter experts.
+- Experience assessing risks, designing controls, documenting procedures, and supporting control implementation or testing.
+- Understanding of the product development life cycle and how to incorporate controls into new product builds and operating models.
+- Ability to work across Product, Control Management, Legal, Compliance, and other partner teams,.
+- Strong analytical and problem-solving skills, with attention to the completeness and accuracy of control documentation and reporting.
+- Clear written and verbal communication skills, including the ability to explain control gaps, track actions, and escalate issues appropriately.
+- Strong organizational skills and the ability to manage multiple requirements and dependencies as product plans evolve
+ Preferred qualifications, capabilities, and skills 
+ - Experience with insurance products or insurance agency operations, including their associated processes and control requirements.
+- Familiarity with Consumer & Community Banking or Business Banking standards and governance processes.
+- Experience developing control reports, exception monitoring, or management reporting to support ongoing control oversight.
