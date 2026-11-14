@@ -1,0 +1,47 @@
+{
+ "company": "Mercury",
+ "role": "Senior Credit Analyst",
+ "variant": "finance-core",
+ "job_url": "https://job-boards.greenhouse.io/mercury/jobs/6261570004",
+ "edits": [
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Financial Analysis & Research, Financial Modeling, Corporate Finance, Understanding of Financial Products, Market Analysis, Data Presentation, Investment Research, Bloomberg, S&P Capital IQ",
+   "why": "Posting asks for a strong financial statement analysis toolbox; financial analysis moved to the front, Due Diligence dropped."
+  },
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Accuracy fix: the JPMorgan models were on marketing-channel budgets, not investments."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation, not investment diligence."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Mercury Credit Team,",
+  "paragraphs": [
+   "I'm applying for the Senior Credit Analyst role. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Mercury's card program interests me because underwriting startups on cash and revenue data takes judgment about the business behind the numbers, and it ties directly to the cash flow work I've done.",
+   "At Thomson Reuters I managed cash flow analysis covering 80%+ of total inflows, reached 85%+ accuracy in revenue recognition and reporting through reconciliation, and helped streamline the order-to-cash process with automation, cutting the cash conversion cycle by 20%. In my MBA I analyzed financial statements and disclosures to assess performance and earnings quality across firms and peers.",
+   "That maps to the statement analysis, portfolio monitoring and policy feedback the role describes. I haven't underwritten credit at a bank or fintech yet, and I'd bring careful documentation habits and comfort with Excel and Python. I'd welcome the chance to talk with the team."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli applying for the Senior Credit Analyst role at Mercury. At Thomson Reuters I managed cash flow analysis covering 80%+ of total inflows and reconciliation work with 85%+ accuracy. I'd love to hear how the team approaches cash and revenue based underwriting. Would you have 15 minutes for a quick chat?"
+}

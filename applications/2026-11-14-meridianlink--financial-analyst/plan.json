@@ -1,0 +1,52 @@
+{
+ "company": "MeridianLink",
+ "role": "Financial Analyst",
+ "variant": "finance-core",
+ "job_url": "https://www.builtinnyc.com/job/financial-analyst/12220746",
+ "edits": [
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Financial Analysis & Research, Data Presentation, Corporate Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Financial Modeling, Financial Analysis & Research, Corporate Finance, Data Presentation, Market Analysis, Understanding of Financial Products, Investment Research, Bloomberg, S&P Capital IQ",
+   "why": "Posting centers on financial models, trend analysis and reporting; those moved up, Due Diligence dropped."
+  },
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting asks for updating trends and business forecasts; leads with forecasts."
+  },
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Accuracy fix: the JPMorgan models were on marketing-channel budgets, not investments."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation, not investment diligence."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear MeridianLink Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Financial Analyst role. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. The role appeals to me because it pairs forecasting and budgeting with improving the reporting behind them, and lending software is a business I'd like to understand from the inside.",
+   "At Lenovo I spent two years as a Senior Business Analyst building forecasts and scenario analyses that improved capital efficiency by 15%, and I ran variance and sensitivity analyses on budget reallocation. At Thomson Reuters I supported monthly P&L forecasting, variance analysis and close for the ANZ region, and reached 85%+ accuracy in revenue recognition and reporting through reconciliation work.",
+   "That maps to the variance commentary, forecasts and KPI reporting the role describes. I'm comfortable in Excel, SAP and Tableau and used to building reports that leadership actually reads. I'd welcome the chance to talk with the team."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli applying for the Financial Analyst role at MeridianLink. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15%, and at Thomson Reuters I supported monthly P&L forecasting, variance analysis and close. I'd love to hear how the FP&A team works. Would you have 15 minutes for a quick chat?"
+}
