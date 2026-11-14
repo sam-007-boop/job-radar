@@ -49,19 +49,110 @@ verified:
   # Analytics / fintech
   - {name: Ramp,                track: Analytics, ashby: ramp}
 
+  # Bessemer AI 100 (2026), added 2026-11-14; boards confirmed live from GitHub Actions the same day.
+  - {name: Databricks, track: AI x finance, greenhouse: databricks}
+  - {name: Stripe, track: AI x finance, greenhouse: stripe}
+  - {name: Waymo, track: AI x finance, greenhouse: waymo}
+  - {name: Cognition, track: AI x finance, ashby: cognition}
+  - {name: Fireworks, track: AI x finance, ashby: fireworks}
+  - {name: Baseten, track: AI x finance, ashby: baseten}
+  - {name: Isomorphic Labs, track: AI x finance, greenhouse: isomorphiclabs}
+  - {name: Mercor, track: AI x finance, ashby: mercor}
+  - {name: Sierra, track: AI x finance, ashby: sierra}
+  - {name: ClickHouse, track: AI x finance, ashby: clickhouse}
+  - {name: Modal, track: AI x finance, ashby: modal}
+  - {name: Thinking Machines Lab, track: AI x finance, ashby: thinkingmachines}
+  - {name: Physical Intelligence, track: AI x finance, ashby: physicalintelligence}
+  - {name: Reflection, track: AI x finance, ashby: reflectionai}
+  - {name: Lovable, track: AI x finance, ashby: lovable}
+  - {name: Vercel, track: AI x finance, greenhouse: vercel}
+  - {name: Helsing, track: AI x finance, greenhouse: helsing}
+  - {name: Supabase, track: AI x finance, ashby: supabase}
+  - {name: Prometheus, track: AI x finance, ashby: prometheus}  # name match only: confirm it's the right company
+  - {name: Temporal, track: AI x finance, ashby: temporal}
+  - {name: Fluidstack, track: AI x finance, ashby: fluidstack}
+  - {name: Saronic, track: AI x finance, ashby: saronic}
+  - {name: OpenEvidence, track: AI x finance, ashby: openevidence}
+  - {name: Legora, track: AI x finance, ashby: legora}
+  - {name: Atoms, track: AI x finance, greenhouse: atoms}  # name match only: confirm it's the right company
+  - {name: Replit, track: AI x finance, ashby: replit}
+  - {name: Handshake, track: AI x finance, ashby: handshake}
+  - {name: Cohere, track: AI x finance, ashby: cohere}
+  - {name: TypeSafe AI, track: AI x finance, ashby: typesafe-ai}
+  - {name: Skydio, track: AI x finance, ashby: skydio}
+  - {name: Figure, track: AI x finance, greenhouse: figureai}
+  - {name: Abnormal AI, track: AI x finance, greenhouse: abnormalsecurity}
+  - {name: Etched, track: AI x finance, ashby: etched}
+  - {name: Higgsfield, track: AI x finance, ashby: higgsfieldai}
+  - {name: Wayve, track: AI x finance, ashby: wayve}
+  - {name: Abridge, track: AI x finance, ashby: abridge}
+  - {name: Decagon, track: AI x finance, ashby: decagon}
+  - {name: Turbopuffer, track: AI x finance, ashby: turbopuffer}
+  - {name: Suno, track: AI x finance, ashby: suno}
+  - {name: Exa, track: AI x finance, ashby: exa}
+  - {name: Cribl, track: AI x finance, greenhouse: cribl}
+  - {name: Fractile, track: AI x finance, ashby: fractile}
+  - {name: EliseAI, track: AI x finance, ashby: eliseai}
+  - {name: Runway AI, track: AI x finance, ashby: runway}
+  - {name: MatX, track: AI x finance, ashby: matx}
+  - {name: Wonderful, track: AI x finance, ashby: wonderful}  # name match only: confirm it's the right company
+  - {name: Factory, track: AI x finance, ashby: factory}  # name match only: confirm it's the right company
+  - {name: DensityAI, track: AI x finance, greenhouse: densityai}
+  - {name: Glean, track: AI x finance, greenhouse: gleanwork}
+  - {name: Halter, track: AI x finance, ashby: halter}  # name match only: confirm it's the right company
+  - {name: Arena, track: AI x finance, ashby: arena}  # name match only: confirm it's the right company
+  - {name: Parallel, track: AI x finance, ashby: parallel}  # name match only: confirm it's the right company
+  - {name: LangChain, track: AI x finance, ashby: langchain}
+  - {name: Granola, track: AI x finance, ashby: granola}
+  - {name: Black Forest Labs, track: AI x finance, ashby: black-forest-labs}
+  - {name: Rogo, track: AI x finance, ashby: rogo}
+  - {name: Profound, track: AI x finance, ashby: profound}
+  - {name: Gamma, track: AI x finance, ashby: gamma}  # name match only: confirm it's the right company
+  - {name: Generalist, track: AI x finance, ashby: generalist}  # name match only: confirm it's the right company
+  - {name: Periodic Labs, track: AI x finance, ashby: periodic-labs}
+  - {name: Chai Discovery, track: AI x finance, ashby: chaidiscovery}
+  - {name: Mind Robotics, track: AI x finance, ashby: mindrobotics}
+  - {name: n8n, track: AI x finance, ashby: n8n}
+  - {name: Synthesia, track: AI x finance, ashby: synthesia}
+  - {name: Serval, track: AI x finance, ashby: serval}
+  - {name: Render, track: AI x finance, ashby: render}
+  - {name: Clay, track: AI x finance, ashby: claylabs}
+  - {name: Bedrock Robotics, track: AI x finance, ashby: bedrock-robotics}
+  - {name: Simile, track: AI x finance, ashby: simile}
+
 probe:
   # each line tries the listed guesses; the first that returns jobs wins
+  # Bessemer AI 100 (2026): boards not found yet; each run tries these guesses
+  - {name: Anduril, track: AI x finance, try: ["greenhouse:andurilindustries", "lever:anduril"]}
+  - {name: Canva, track: AI x finance, try: ["lever:canva", "smartrecruiters:Canva"]}
+  - {name: Applied Intuition, track: AI x finance, try: ["greenhouse:appliedintuition", "lever:appliedintuition", "ashby:applied-intuition"]}
+  - {name: Fal, track: AI x finance, try: ["ashby:fal-ai", "greenhouse:fal-ai"]}
+  - {name: Skild, track: AI x finance, try: ["ashby:skild-ai", "greenhouse:skildai"]}
+  - {name: Mistral, track: AI x finance, try: ["lever:mistral", "ashby:mistral-ai"]}
+  - {name: Shield AI, track: AI x finance, try: ["lever:shieldai", "greenhouse:shieldai", "ashby:shield-ai"]}
+  - {name: Safe Superintelligence, track: AI x finance, try: ["ashby:ssi", "greenhouse:ssi"]}
+  - {name: Instinct, track: AI x finance, try: ["ashby:instinct-ai"]}
+  - {name: Nscale, track: AI x finance, try: ["ashby:nscale", "greenhouse:nscale", "lever:nscale"]}
+  - {name: Zipline, track: AI x finance, try: ["greenhouse:flyzipline", "lever:flyzipline"]}
+  - {name: VAST Data, track: AI x finance, try: ["greenhouse:vastdata", "ashby:vast-data", "lever:vastdata"]}
+  - {name: Cyera, track: AI x finance, try: ["greenhouse:cyera", "ashby:cyera"]}
+  - {name: Rippling, track: AI x finance, try: ["ashby:rippling", "lever:rippling"]}
+  - {name: Grafana, track: AI x finance, try: ["greenhouse:grafanalabs"]}
+  - {name: Positron AI, track: AI x finance, try: ["ashby:positron-ai", "greenhouse:positronai"]}
+  - {name: Flapping Airplanes, track: AI x finance, try: ["ashby:flapping-airplanes"]}
+  - {name: DriveNets, track: AI x finance, try: ["greenhouse:drivenets", "lever:drivenets"]}
+  - {name: Upwind, track: AI x finance, try: ["greenhouse:upwind", "ashby:upwind"]}
+  - {name: EvenUp, track: AI x finance, try: ["greenhouse:evenuplaw", "ashby:evenup-law", "lever:evenup"]}
+  - {name: Applied Compute, track: AI x finance, try: ["ashby:applied-compute", "greenhouse:appliedcompute"]}
   - {name: DigitalBridge,    track: PE / infra, try: ["greenhouse:digitalbridge"]}
   - {name: Carlyle,          track: PE / infra, try: ["workday:carlyle|wd1|Carlyle"]}
   - {name: Nebius,           track: AI x finance, try: ["greenhouse:nebius"]}
   - {name: Scale AI,         track: AI x finance, try: ["greenhouse:scaleai"]}
   - {name: xAI,              track: AI x finance, try: ["greenhouse:xai"]}
   - {name: S&P Global,       track: Analytics, try: ["workday:spgi|wd5|SPGI_Careers"]}
-  - {name: Stripe,           track: Analytics, try: ["greenhouse:stripe"]}
   - {name: Brex,             track: Analytics, try: ["greenhouse:brex"]}
   - {name: Plaid,            track: Analytics, try: ["ashby:plaid"]}
   - {name: Mercury,          track: Analytics, try: ["greenhouse:mercury"]}
-  - {name: Databricks,       track: Analytics, try: ["greenhouse:databricks"]}
   - {name: Moelis (campus),  track: IB, try: ["workday:moelis|wd1|Campus", "workday:moelis|wd1|Students", "workday:moelis|wd1|Campus-Recruiting"]}
 
   # Listed in both Greenhouse and Ashby in the source file; first one that answers wins
