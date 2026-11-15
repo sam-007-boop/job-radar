@@ -1,50 +1,119 @@
-# Source check — 2026-11-14 06:14 ET
+# Source check — 2026-11-15 06:18 ET
 
-- OK  CoreWeave -> greenhouse:coreweave (307 listings, 307 with a posting date)
-- OK  Anthropic -> greenhouse:anthropic (670 listings, 670 with a posting date)
+- OK  CoreWeave -> greenhouse:coreweave (306 listings, 306 with a posting date)
+- OK  Anthropic -> greenhouse:anthropic (668 listings, 668 with a posting date)
 - OK  Together AI -> greenhouse:togetherai (80 listings, 80 with a posting date)
 - OK  Crusoe -> ashby:Crusoe (318 listings, 318 with a posting date)
-- OK  Lambda -> ashby:Lambda (93 listings, 93 with a posting date)
-- OK  OpenAI -> ashby:openai (838 listings, 838 with a posting date)
-- --  Vantage Data Centers: no source resolved
+- OK  Lambda -> ashby:Lambda (95 listings, 95 with a posting date)
+- OK  OpenAI -> ashby:openai (840 listings, 840 with a posting date)
+- OK  Vantage Data Centers -> workday:vantagedc|wd1|Vantage (173 listings, 173 with a posting date)
 - OK  Intersect Power -> lever:intersect (31 listings, 31 with a posting date)
-- --  Blackstone: no source resolved
-- --  Blackstone (campus): no source resolved
-- --  BlackRock / GIP: no source resolved
-- --  Brookfield: no source resolved
-- --  Ares Management: no source resolved
-- --  Apollo: no source resolved
+- OK  Blackstone -> workday:blackstone|wd1|Blackstone_Careers (142 listings, 0 with a posting date)
+- OK  Blackstone (campus) -> workday:blackstone|wd1|Blackstone_Campus_Careers (19 listings, 0 with a posting date)
+- OK  BlackRock / GIP -> workday:blackrock|wd1|BlackRock_Professional (273 listings, 273 with a posting date)
+- OK  Brookfield -> workday:brookfield|wd5|brookfield (144 listings, 0 with a posting date)
+- OK  Ares Management -> workday:aresmgmt|wd1|External (239 listings, 0 with a posting date)
+- OK  Apollo -> workday:athene|wd5|Apollo_Careers (54 listings, 0 with a posting date)
 - OK  Copia Power -> greenhouse:copiapower (3 listings, 3 with a posting date)
 - OK  Pivot Energy -> lever:pivotenergy (10 listings, 10 with a posting date)
-- --  Houlihan Lokey (lateral): no source resolved
-- --  Houlihan Lokey (campus): no source resolved
-- --  Guggenheim Securities: no source resolved
-- --  Guggenheim (campus): no source resolved
+- OK  Houlihan Lokey (lateral) -> workday:hl|wd1|Lateral (94 listings, 94 with a posting date)
+- OK  Houlihan Lokey (campus) -> workday:hl|wd1|Campus (51 listings, 51 with a posting date)
+- OK  Guggenheim Securities -> workday:guggenheim|wd1|Guggenheim_Careers (36 listings, 36 with a posting date)
+- OK  Guggenheim (campus) -> workday:guggenheim|wd1|Guggenheim_Careers_Campus (5 listings, 5 with a posting date)
 - OK  Core Scientific -> workday:corescientific|wd108|corescientificcareers (33 listings, 33 with a posting date)
 - OK  STACK Infrastructure -> workday:stackinfra|wd108|STACK_AMER (50 listings, 50 with a posting date)
 - OK  Galaxy Digital (data centers) -> greenhouse:galaxydigitalservices (59 listings, 59 with a posting date)
 - OK  I Squared Capital -> greenhouse:handshakeisq (0 listings, 0 with a posting date)
 - OK  I Squared Capital (MBA) -> greenhouse:isqmba (0 listings, 0 with a posting date)
-- --  PJT Partners: no source resolved
-- --  PJT Partners (students): no source resolved
-- --  Moelis: no source resolved
+- OK  PJT Partners -> workday:pjtpartners|wd1|Careers (53 listings, 0 with a posting date)
+- OK  PJT Partners (students) -> workday:pjtpartners|wd1|Students (14 listings, 0 with a posting date)
+- OK  Moelis -> workday:moelis|wd1|Experienced-Hires (32 listings, 32 with a posting date)
 - OK  Lazard (professional) -> oracle:icbpjb.fa.ocs.oraclecloud.com|LazardProfessionalCareers (118 listings, 118 with a posting date)
 - OK  Lazard (students) -> oracle:icbpjb.fa.ocs.oraclecloud.com|LazardStudentCareers (118 listings, 118 with a posting date)
 - OK  Jefferies -> oracle:hdid.fa.us2.oraclecloud.com|CX_1 (159 listings, 159 with a posting date)
 - OK  FactSet -> workday:factset|wd108|FactSetCareers (107 listings, 107 with a posting date)
 - OK  Ramp -> ashby:ramp (180 listings, 180 with a posting date)
+- OK  Databricks -> greenhouse:databricks (895 listings, 895 with a posting date)
+- OK  Stripe -> greenhouse:stripe (785 listings, 785 with a posting date)
+- OK  Waymo -> greenhouse:waymo (373 listings, 373 with a posting date)
+- OK  Cognition -> ashby:cognition (112 listings, 112 with a posting date)
+- OK  Fireworks -> ashby:fireworks (100 listings, 100 with a posting date)
+- OK  Baseten -> ashby:baseten (102 listings, 102 with a posting date)
+- OK  Isomorphic Labs -> greenhouse:isomorphiclabs (40 listings, 40 with a posting date)
+- OK  Mercor -> ashby:mercor (91 listings, 91 with a posting date)
+- OK  Sierra -> ashby:sierra (198 listings, 198 with a posting date)
+- OK  ClickHouse -> ashby:clickhouse (205 listings, 205 with a posting date)
+- OK  Modal -> ashby:modal (43 listings, 43 with a posting date)
+- OK  Thinking Machines Lab -> ashby:thinkingmachines (51 listings, 51 with a posting date)
+- OK  Physical Intelligence -> ashby:physicalintelligence (47 listings, 47 with a posting date)
+- OK  Reflection -> ashby:reflectionai (45 listings, 45 with a posting date)
+- OK  Lovable -> ashby:lovable (79 listings, 79 with a posting date)
+- OK  Vercel -> greenhouse:vercel (86 listings, 86 with a posting date)
+- OK  Helsing -> greenhouse:helsing (171 listings, 171 with a posting date)
+- OK  Supabase -> ashby:supabase (77 listings, 77 with a posting date)
+- OK  Prometheus -> ashby:prometheus (1 listings, 1 with a posting date)
+- OK  Temporal -> ashby:temporal (84 listings, 84 with a posting date)
+- OK  Fluidstack -> ashby:fluidstack (252 listings, 252 with a posting date)
+- OK  Saronic -> ashby:saronic (274 listings, 274 with a posting date)
+- OK  OpenEvidence -> ashby:openevidence (8 listings, 8 with a posting date)
+- OK  Legora -> ashby:legora (341 listings, 341 with a posting date)
+- OK  Atoms -> greenhouse:atoms (161 listings, 161 with a posting date)
+- OK  Replit -> ashby:replit (30 listings, 30 with a posting date)
+- OK  Handshake -> ashby:handshake (74 listings, 74 with a posting date)
+- OK  Cohere -> ashby:cohere (121 listings, 121 with a posting date)
+- OK  TypeSafe AI -> ashby:typesafe-ai (22 listings, 22 with a posting date)
+- OK  Skydio -> ashby:skydio (189 listings, 189 with a posting date)
+- OK  Figure -> greenhouse:figureai (105 listings, 105 with a posting date)
+- OK  Abnormal AI -> greenhouse:abnormalsecurity (88 listings, 88 with a posting date)
+- OK  Etched -> ashby:etched (115 listings, 115 with a posting date)
+- OK  Higgsfield -> ashby:higgsfieldai (95 listings, 95 with a posting date)
+- OK  Wayve -> ashby:wayve (167 listings, 167 with a posting date)
+- OK  Abridge -> ashby:abridge (24 listings, 24 with a posting date)
+- OK  Decagon -> ashby:decagon (124 listings, 124 with a posting date)
+- OK  Turbopuffer -> ashby:turbopuffer (7 listings, 7 with a posting date)
+- OK  Suno -> ashby:suno (63 listings, 63 with a posting date)
+- OK  Exa -> ashby:exa (67 listings, 67 with a posting date)
+- OK  Cribl -> greenhouse:cribl (77 listings, 77 with a posting date)
+- OK  Fractile -> ashby:fractile (24 listings, 24 with a posting date)
+- OK  EliseAI -> ashby:eliseai (110 listings, 110 with a posting date)
+- OK  Runway AI -> ashby:runway (3 listings, 3 with a posting date)
+- OK  MatX -> ashby:matx (42 listings, 42 with a posting date)
+- OK  Wonderful -> ashby:wonderful (125 listings, 125 with a posting date)
+- OK  Factory -> ashby:factory (68 listings, 68 with a posting date)
+- OK  DensityAI -> greenhouse:densityai (27 listings, 27 with a posting date)
+- OK  Glean -> greenhouse:gleanwork (121 listings, 121 with a posting date)
+- OK  Halter -> ashby:halter (268 listings, 268 with a posting date)
+- OK  Arena -> ashby:arena (21 listings, 21 with a posting date)
+- OK  Parallel -> ashby:parallel (34 listings, 34 with a posting date)
+- OK  LangChain -> ashby:langchain (103 listings, 103 with a posting date)
+- OK  Granola -> ashby:granola (20 listings, 20 with a posting date)
+- OK  Black Forest Labs -> ashby:black-forest-labs (16 listings, 16 with a posting date)
+- OK  Rogo -> ashby:rogo (103 listings, 103 with a posting date)
+- OK  Profound -> ashby:profound (90 listings, 90 with a posting date)
+- OK  Gamma -> ashby:gamma (20 listings, 20 with a posting date)
+- OK  Generalist -> ashby:generalist (39 listings, 39 with a posting date)
+- OK  Periodic Labs -> ashby:periodic-labs (31 listings, 31 with a posting date)
+- OK  Chai Discovery -> ashby:chaidiscovery (23 listings, 23 with a posting date)
+- OK  Mind Robotics -> ashby:mindrobotics (34 listings, 34 with a posting date)
+- OK  n8n -> ashby:n8n (55 listings, 55 with a posting date)
+- OK  Synthesia -> ashby:synthesia (31 listings, 31 with a posting date)
+- OK  Serval -> ashby:serval (68 listings, 68 with a posting date)
+- OK  Render -> ashby:render (38 listings, 38 with a posting date)
+- OK  Clay -> ashby:claylabs (60 listings, 60 with a posting date)
+- OK  Bedrock Robotics -> ashby:bedrock-robotics (59 listings, 59 with a posting date)
+- OK  Simile -> ashby:simile (13 listings, 13 with a posting date)
 
-- OK  Built In NYC -> links:https://www.builtinnyc.com/jobs/finance;https://www.builtinnyc.com/job (158 listings, 22 with a posting date)
-- OK  Hacker News Who's Hiring -> hn:current (243 listings, 3 with a posting date)
+- OK  Built In NYC -> links:https://www.builtinnyc.com/jobs/finance;https://www.builtinnyc.com/job (158 listings, 1 with a posting date)
+- OK  Hacker News Who's Hiring -> hn:current (244 listings, 3 with a posting date)
 - OK  Remotive -> remotive:finance-legal (16 listings, 16 with a posting date)
-- --  Mizuho Americas: no source resolved
-- OK  MUFG -> workday:mufgub|wd3|MUFG-Careers (673 listings, 673 with a posting date)
-- --  Citi: no source resolved
-- OK  CIBC (campus) -> workday:cibc|wd3|campus (50 listings, 50 with a posting date)
+- OK  Mizuho Americas -> workday:mizuho|wd1|mizuhoamericas (117 listings, 117 with a posting date)
+- OK  MUFG -> workday:mufgub|wd3|MUFG-Careers (671 listings, 671 with a posting date)
+- OK  Citi -> workday:citi|wd5|2 (2000 listings, 2000 with a posting date)
+- OK  CIBC (campus) -> workday:cibc|wd3|campus (49 listings, 49 with a posting date)
 - OK  Rothschild & Co -> workday:rothschildandco|wd3|RothschildAndCo_Lateral (110 listings, 110 with a posting date)
 - OK  Piper Sandler -> workday:pipersandler|wd501|Piper_Sandler_Careers (46 listings, 46 with a posting date)
-- --  Perella Weinberg: no source resolved
-- --  Neuberger Berman: no source resolved
+- OK  Perella Weinberg -> workday:pwp|wd1|PWP_Experienced_Opportunities (7 listings, 7 with a posting date)
+- OK  Neuberger Berman -> workday:nb|wd1|NBCareers (91 listings, 91 with a posting date)
 - OK  TPG (incl. TPG Rise) -> greenhouse:tpgcareers (12 listings, 12 with a posting date)
 - OK  General Atlantic (incl. BeyondNetZero) -> greenhouse:generalatlantic (12 listings, 12 with a posting date)
 - OK  Ardian -> workday:ardian|wd103|ArdianCareers (65 listings, 65 with a posting date)
@@ -58,16 +127,16 @@
 - OK  Fervo Energy -> greenhouse:fervoenergy (65 listings, 65 with a posting date)
 - OK  Scale Microgrids -> lever:ScaleMicrogridSolutions (9 listings, 9 with a posting date)
 - OK  Commonwealth Fusion Systems -> lever:cfsenergy (143 listings, 143 with a posting date)
-- --  Guidehouse: no source resolved
+- OK  Guidehouse -> workday:guidehouse|wd1|External (842 listings, 842 with a posting date)
 - OK  Wood Mackenzie -> workday:woodmac|wd3|woodmaccareers (67 listings, 67 with a posting date)
 - OK  AlphaSights -> greenhouse:alphasights (65 listings, 65 with a posting date)
-- OK  Amazon (incl. AWS data-center finance) -> amazon:financial analyst;FP&A;corporate development;data center finance;energ (241 listings, 241 with a posting date)
+- OK  Amazon (incl. AWS data-center finance) -> amazon:financial analyst;FP&A;corporate development;data center finance;energ (239 listings, 239 with a posting date)
 - OK  Microsoft (incl. datacenter finance) -> microsoft:finance (10 listings, 10 with a posting date)
 - OK  Perplexity -> ashby:perplexity (141 listings, 141 with a posting date)
 - OK  ElevenLabs -> ashby:elevenlabs (128 listings, 128 with a posting date)
-- OK  Harvey -> ashby:harvey (387 listings, 387 with a posting date)
+- OK  Harvey -> ashby:harvey (388 listings, 388 with a posting date)
 - OK  KBRA (Kroll Bond Rating) -> greenhouse:krollbondratingagency (58 listings, 58 with a posting date)
-- OK  LSEG -> workday:lseg|wd3|Careers (671 listings, 671 with a posting date)
+- OK  LSEG -> workday:lseg|wd3|Careers (665 listings, 665 with a posting date)
 - OK  Gemini -> greenhouse:gemini (28 listings, 28 with a posting date)
 - OK  Securitize -> greenhouse:securitize (6 listings, 6 with a posting date)
 - OK  Axial -> greenhouse:axial (1 listings, 1 with a posting date)
@@ -80,42 +149,61 @@
 - OK  Datadog -> greenhouse:datadog (384 listings, 384 with a posting date)
 - OK  Squarespace -> greenhouse:squarespace (17 listings, 17 with a posting date)
 - OK  Peloton -> greenhouse:peloton (40 listings, 40 with a posting date)
-- OK  Notion -> ashby:notion (166 listings, 166 with a posting date)
+- OK  Notion -> ashby:notion (165 listings, 165 with a posting date)
 - OK  Figma -> greenhouse:figma (139 listings, 139 with a posting date)
 - OK  Reddit -> greenhouse:reddit (145 listings, 145 with a posting date)
 - OK  Airbnb -> greenhouse:airbnb (214 listings, 214 with a posting date)
-- OK  DoorDash -> greenhouse:doordashusa (427 listings, 427 with a posting date)
+- OK  DoorDash -> greenhouse:doordashusa (428 listings, 428 with a posting date)
 - OK  Instacart -> greenhouse:instacart (85 listings, 85 with a posting date)
-- --  Adobe: no source resolved
-- --  Cornell University: no source resolved
-- --  Barnard College: no source resolved
+- OK  Adobe -> workday:adobe|wd5|external_experienced (246 listings, 246 with a posting date)
+- OK  Cornell University -> workday:cornell|wd1|CornellCareerPage (184 listings, 184 with a posting date)
+- OK  Barnard College -> workday:barnard|wd1|Staff (36 listings, 36 with a posting date)
 - OK  CUNY Research Foundation -> workday:rfcuny|wd108|RFCUNY (219 listings, 219 with a posting date)
 - OK  NJIT -> workday:njit|wd108|NJIT_Careers (97 listings, 97 with a posting date)
-- OK  Mount Sinai -> jibe:careers.mountsinai.org|financial analyst;budget;finance manager (84 listings, 84 with a posting date)
+- OK  Mount Sinai -> jibe:careers.mountsinai.org|financial analyst;budget;finance manager (79 listings, 79 with a posting date)
 - OK  Montefiore / Einstein -> jibe:careers.einsteinmed.edu|financial analyst;budget;finance (7 listings, 7 with a posting date)
 - OK  Rockefeller University -> jibe:careers.rockefeller.edu|financial analyst;budget;investment (25 listings, 25 with a posting date)
 - OK  NJ Innovation Institute -> smartrecruiters:NewJerseyInnovationInstitute (1 listings, 1 with a posting date)
-- OK  Columbia University -> sitemap:https://opportunities.columbia.edu/sitemap.xml (670 listings, 13 with a posting date)
+- OK  Columbia University -> sitemap:https://opportunities.columbia.edu/sitemap.xml (671 listings, 2 with a posting date)
 
+- OK  Anduril -> greenhouse:andurilindustries (2598 listings, 2598 with a posting date)
+- OK  Canva -> smartrecruiters:Canva (33 listings, 33 with a posting date)
+- --  Applied Intuition: no source resolved
+- OK  Fal -> ashby:fal-ai (48 listings, 48 with a posting date)
+- --  Skild: no source resolved
+- --  Mistral: no source resolved
+- --  Shield AI: no source resolved
+- --  Safe Superintelligence: no source resolved
+- --  Instinct: no source resolved
+- --  Nscale: no source resolved
+- OK  Zipline -> greenhouse:flyzipline (343 listings, 343 with a posting date)
+- --  VAST Data: no source resolved
+- --  Cyera: no source resolved
+- --  Rippling: no source resolved
+- OK  Grafana -> greenhouse:grafanalabs (140 listings, 140 with a posting date)
+- --  Positron AI: no source resolved
+- --  Flapping Airplanes: no source resolved
+- --  DriveNets: no source resolved
+- --  Upwind: no source resolved
+- --  EvenUp: no source resolved
+- --  Applied Compute: no source resolved
 - OK  DigitalBridge -> greenhouse:digitalbridge (7 listings, 7 with a posting date)
-- --  Carlyle: no source resolved
+- OK  Carlyle -> workday:carlyle|wd1|Carlyle (63 listings, 63 with a posting date)
 - OK  Nebius -> greenhouse:nebius (374 listings, 374 with a posting date)
 - OK  Scale AI -> greenhouse:scaleai (170 listings, 170 with a posting date)
 - OK  xAI -> greenhouse:xai (296 listings, 296 with a posting date)
-- --  S&P Global: no source resolved
-- OK  Stripe -> greenhouse:stripe (786 listings, 786 with a posting date)
+- OK  S&P Global -> workday:spgi|wd5|SPGI_Careers (340 listings, 340 with a posting date)
 - OK  Brex -> greenhouse:brex (286 listings, 286 with a posting date)
 - OK  Plaid -> ashby:plaid (142 listings, 142 with a posting date)
 - OK  Mercury -> greenhouse:mercury (79 listings, 79 with a posting date)
-- OK  Databricks -> greenhouse:databricks (896 listings, 896 with a posting date)
 - --  Moelis (campus): no source resolved
 - --  Princeton University: no source resolved
-- OK  Fordham University -> links:https://careers.fordham.edu/postings/search (31 listings, 4 with a posting date)
-- OK  Weill Cornell Medicine -> links:https://jobs.weill.cornell.edu/jobs/search?q=finance (6 listings, 1 with a posting date)
+- OK  Fordham University -> links:https://careers.fordham.edu/postings/search (31 listings, 0 with a posting date)
+- OK  Weill Cornell Medicine -> links:https://jobs.weill.cornell.edu/jobs/search?q=finance (6 listings, 0 with a posting date)
 - --  NYU Langone Health: no source resolved
 - --  CUNY: no source resolved
-- OK  Rutgers University -> links:https://jobs.rutgers.edu/postings/search?page=1 (30 listings, 21 with a posting date)
-- OK  Rowan University -> links:https://jobs.rowan.edu/postings/search (20 listings, 3 with a posting date)
+- OK  Rutgers University -> links:https://jobs.rutgers.edu/postings/search?page=1 (30 listings, 0 with a posting date)
+- OK  Rowan University -> links:https://jobs.rowan.edu/postings/search (20 listings, 0 with a posting date)
 - --  Sacred Heart University: no source resolved
 - --  UIDP job board: no source resolved
 - OK  JPMorgan Chase -> oracle:jpmc.fa.oraclecloud.com|CX_1001 (200 listings, 200 with a posting date)
@@ -131,32 +219,8 @@
 - OK  Arcadia -> lever:arcadia (15 listings, 15 with a posting date)
 - --  Form Energy: no source resolved
 - --  Sunrun: no source resolved
-- --  ICF: no source resolved
-- OK  ERM -> workday:erm|wd3|ERM_Careers (560 listings, 560 with a posting date)
+- OK  ICF -> workday:icf|wd5|ICFExternal_Career_Site (368 listings, 368 with a posting date)
+- OK  ERM -> workday:erm|wd3|ERM_Careers (559 listings, 559 with a posting date)
 - --  Hatch: no source resolved
 - --  Climatebase (NYC finance): no source resolved
 
-
-## Errors on verified sources
-- Vantage Data Centers (workday:vantagedc|wd1|Vantage): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blackstone (workday:blackstone|wd1|Blackstone_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Blackstone (campus) (workday:blackstone|wd1|Blackstone_Campus_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- BlackRock / GIP (workday:blackrock|wd1|BlackRock_Professional): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Brookfield (workday:brookfield|wd5|brookfield): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Ares Management (workday:aresmgmt|wd1|External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Apollo (workday:athene|wd5|Apollo_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Houlihan Lokey (lateral) (workday:hl|wd1|Lateral): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Houlihan Lokey (campus) (workday:hl|wd1|Campus): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Guggenheim Securities (workday:guggenheim|wd1|Guggenheim_Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Guggenheim (campus) (workday:guggenheim|wd1|Guggenheim_Careers_Campus): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- PJT Partners (workday:pjtpartners|wd1|Careers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- PJT Partners (students) (workday:pjtpartners|wd1|Students): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Moelis (workday:moelis|wd1|Experienced-Hires): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Mizuho Americas (workday:mizuho|wd1|mizuhoamericas): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Citi (workday:citi|wd5|2): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Perella Weinberg (workday:pwp|wd1|PWP_Experienced_Opportunities): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Neuberger Berman (workday:nb|wd1|NBCareers): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Guidehouse (workday:guidehouse|wd1|External): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Adobe (workday:adobe|wd5|external_experienced): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Cornell University (workday:cornell|wd1|CornellCareerPage): JSONDecodeError Expecting value: line 1 column 1 (char 0)
-- Barnard College (workday:barnard|wd1|Staff): JSONDecodeError Expecting value: line 1 column 1 (char 0)
