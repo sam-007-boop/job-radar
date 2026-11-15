@@ -1,0 +1,47 @@
+{
+ "company": "Columbia University",
+ "role": "Financial Analyst, Residential Finance",
+ "variant": "data-analytics",
+ "job_url": "https://opportunities.columbia.edu/jobs/financial-analyst-new-york-united-states-8a9bd19b-9fd9-4696-9ad3-04209bc68ed4",
+ "edits": [
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation and reporting, achieving 85%+ accuracy in revenue recognition",
+   "why": "Posting centers on reconciling and reporting financial activity. Also an accuracy fix: reconciliation, not diligence."
+  },
+  {
+   "old": "Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region",
+   "new": "Supported month-end close, monthly P&L forecasting and variance analysis with finance teams for the ANZ region",
+   "why": "Posting asks for help with month-end close and tracking budget variances."
+  },
+  {
+   "old": "Conducted data-driven performance analysis and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "new": "Owned mapping and QA for AI-powered analytical dashboards with real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "why": "Posting asks for building and improving tracking tools; accuracy fix: Sam owned mapping and QA, not the build."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Columbia Residential Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Financial Analyst role in Residential Finance at Columbia. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. The role appeals to me because it is hands-on finance for a large, real operation: a large housing and parking portfolio, where accurate reconciliations and clear variance reporting matter every month.",
+   "At Thomson Reuters I handled cash flow analysis covering 80%+ of total inflows, ran reconciliation that reached 85%+ accuracy in revenue recognition and reporting, and supported monthly P&L forecasting, variance analysis and close for the ANZ region. At Lenovo I ran variance and trend analysis on budget reallocation and owned the mapping and QA for reporting dashboards that saved 4+ hours a week.",
+   "That lines up with the reconciliations, month-end close, budget tracking and reporting tools the role describes. Student billing and the regulatory filings would be new to me, and I'd plan to learn them quickly. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli applying for the Financial Analyst role in Columbia's Residential Finance team. At Thomson Reuters I ran reconciliation and cash flow analysis and supported month-end close, and at Lenovo I did budget variance analysis and dashboard QA. I'd love to hear how the team runs its monthly reporting. Would you have 15 minutes for a quick chat?"
+}
