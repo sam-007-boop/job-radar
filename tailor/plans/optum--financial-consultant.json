@@ -1,0 +1,47 @@
+{
+ "company": "Optum",
+ "role": "Financial Consultant",
+ "variant": "finance-core",
+ "job_url": "https://careers.unitedhealthgroup.com/job/22876263",
+ "edits": [
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting asks for budgeting, forecasting and building forecasting models."
+  },
+  {
+   "old": "Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region",
+   "new": "Supported monthly P&L forecasting, variance analysis and month-end close with finance teams for the ANZ region",
+   "why": "Posting stresses month-end close, variance analysis and monthly reporting."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Optum Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Financial Consultant role on Optum Finance's planning and reporting team in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. I like that this role works across Finance, Product, Operations and Technology and owns the forecasting tools and month-end story that leaders rely on.",
+   "At Lenovo I spent two years as a Senior Business Analyst, building forecasts and scenario analyses that improved capital efficiency by 15% and running variance and sensitivity analyses on budget reallocation. At Thomson Reuters I supported monthly P&L forecasting, variance analysis and close for the ANZ region, and helped streamline the order-to-cash process, cutting the cash conversion cycle by 20%.",
+   "That lines up with the planning, forecasting and month-end reporting your team runs, and with building models that hold up in a large organization. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli applying for the Financial Consultant role on Optum Finance. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15%, and at Thomson Reuters I supported monthly P&L forecasting, variance analysis and close. I'd love to hear how the team runs planning and month-end. Would you have 15 minutes for a quick chat?"
+}
