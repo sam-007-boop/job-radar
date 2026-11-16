@@ -1,44 +1,57 @@
 {
- "run": "2026-11-15 06:18 ET",
+ "run": "2026-11-16 06:46 ET",
  "roles": [
   {
-   "jd": "data/jd/lnk_https_www_builtinnyc_com_job_business_financial_analyst_12258014.txt",
+   "jd": "data/jd/yc_com_job_finance_transformation_onestream_consultant_senior_associate_10393868.txt",
    "company": "(see posting)",
    "track": "Mixed",
    "via": "Built In NYC",
-   "title": "Business/Financial Analyst",
+   "title": "Finance Transformation - OneStream Consultant, Senior Associate",
    "location": "",
-   "postedDate": "2026-11-15",
+   "postedDate": "2026-11-16",
    "postedLabel": "new on board since last run",
    "source": "links",
-   "url": "https://www.builtinnyc.com/job/business-financial-analyst/12258014",
-   "id": "lnk:https://www.builtinnyc.com/job/business-financial-analyst/12258014"
+   "url": "https://www.builtinnyc.com/job/finance-transformation-onestream-consultant-senior-associate/10393868",
+   "id": "lnk:https://www.builtinnyc.com/job/finance-transformation-onestream-consultant-senior-associate/10393868"
   },
   {
-   "jd": "data/jd/ob_Houston_Texas_United_States_Credit_Officer_Real_Estate_Underwriting_261001559.txt",
-   "company": "Citi",
-   "track": "IB",
-   "via": "",
-   "title": "Credit Officer, Real Estate Underwriting",
-   "location": "Houston Texas United States",
-   "postedDate": "2026-11-14",
-   "postedLabel": "Posted Yesterday",
-   "source": "workday",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Houston-Texas-United-States/Credit-Officer---Real-Estate-Underwriting_261001559",
-   "id": "wd:citi:/job/Houston-Texas-United-States/Credit-Officer---Real-Estate-Underwriting_261001559"
+   "jd": "data/jd/lnk_https_www_builtinnyc_com_job_finance_business_management_12260093.txt",
+   "company": "(see posting)",
+   "track": "Mixed",
+   "via": "Built In NYC",
+   "title": "Finance & Business Management",
+   "location": "",
+   "postedDate": "2026-11-16",
+   "postedLabel": "new on board since last run",
+   "source": "links",
+   "url": "https://www.builtinnyc.com/job/finance-business-management/12260093",
+   "id": "lnk:https://www.builtinnyc.com/job/finance-business-management/12260093"
   },
   {
-   "jd": "data/jd/wd_spgi_job_New_York_NY_Analyst_Equity_Research_Fixed_Income_332527_1.txt",
-   "company": "S&P Global",
-   "track": "Analytics",
-   "via": "",
-   "title": "Analyst, Equity Research/Fixed Income",
-   "location": "New York, NY",
-   "postedDate": "2026-11-14",
-   "postedLabel": "Posted Yesterday",
-   "source": "workday",
-   "url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Analyst--Equity-Research-Fixed-Income_332527-1",
-   "id": "wd:spgi:/job/New-York-NY/Analyst--Equity-Research-Fixed-Income_332527-1"
+   "jd": "data/jd/lnk_https_www_builtinnyc_com_job_senior_finance_manager_12259800.txt",
+   "company": "(see posting)",
+   "track": "Mixed",
+   "via": "Built In NYC",
+   "title": "Senior Finance Manager",
+   "location": "",
+   "postedDate": "2026-11-16",
+   "postedLabel": "new on board since last run",
+   "source": "links",
+   "url": "https://www.builtinnyc.com/job/senior-finance-manager/12259800",
+   "id": "lnk:https://www.builtinnyc.com/job/senior-finance-manager/12259800"
+  },
+  {
+   "jd": "data/jd/lnk_https_www_builtinnyc_com_job_strategic_finance_manager_11219944.txt",
+   "company": "(see posting)",
+   "track": "Mixed",
+   "via": "Built In NYC",
+   "title": "Strategic Finance Manager",
+   "location": "",
+   "postedDate": "2026-11-16",
+   "postedLabel": "new on board since last run",
+   "source": "links",
+   "url": "https://www.builtinnyc.com/job/strategic-finance-manager/11219944",
+   "id": "lnk:https://www.builtinnyc.com/job/strategic-finance-manager/11219944"
   }
  ]
 }
