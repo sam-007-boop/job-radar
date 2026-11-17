@@ -1,0 +1,51 @@
+{
+ "company": "Scholastic",
+ "role": "Financial Analyst, International",
+ "variant": "finance-core",
+ "job_url": "https://www.builtinnyc.com/job/financial-analyst-international/12277243",
+ "edits": [
+  {
+   "old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+   "new": "Conducted variance and sensitivity analyses on budget reallocation strategies to support forecasts, resource decisions and financial planning",
+   "why": "Posting centers on forecast and budget cycles and variance analysis."
+  },
+  {
+   "old": "Technical: Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM, Python",
+   "new": "Technical: Excel, SAP, Tableau, PowerPoint, Python, Salesforce, Datorama, CRM Systems, CRM",
+   "why": "Posting wants strong Excel and ERP-based reporting; Excel and SAP lead (reordered, nothing added)."
+  },
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation, not investing."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: marketing budget benchmarking, not investment diligence."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation work, not due diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Scholastic International Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Financial Analyst, International role in New York. I'm an MBA Finance (STEM) student at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. The role caught my eye because it works directly with subsidiaries across countries on month end, forecasts and budgets, which is close to what I did supporting a regional team from abroad.",
+   "At Thomson Reuters I worked with finance teams on monthly P&L forecasting, variance analysis and closing activities for the ANZ region, and executed reconciliation work with 85%+ accuracy in revenue recognition and reporting. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15% and ran variance analyses on budget reallocation.",
+   "That lines up with producing monthly P&L, balance sheet and cash flow reporting and keeping subsidiary submissions on time. I'm used to coordinating across time zones and chasing data until it ties out. I'd welcome the chance to talk."
+  ]
+ }
+}

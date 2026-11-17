@@ -1,0 +1,51 @@
+{
+ "company": "Palmetto Clean Technology",
+ "role": "Capital Markets Analyst - Project Finance",
+ "variant": "project-finance-solar",
+ "job_url": "https://www.builtinnyc.com/job/senior-capital-markets-analyst-tax-equity/12279158",
+ "edits": [
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Project Finance, Renewable Energy Finance, Financial Modeling, Financial Analysis, Data Presentation, Valuation Analysis, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Bloomberg, S&P Capital IQ",
+   "why": "Posting is capital markets reporting for tax equity funds, ABS and warehouse facilities; project and renewable finance lead (reordered, nothing added)."
+  },
+  {
+   "old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+   "new": "Conducted variance and sensitivity analyses on budget reallocation strategies to support forecasts, resource decisions and financial planning",
+   "why": "Posting asks for support on FP&A, treasury and cash forecasting."
+  },
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation, not investing."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: marketing budget benchmarking, not investment diligence."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation work, not due diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Palmetto Capital Markets Team,",
+  "paragraphs": [
+   "I'm applying for the Capital Markets Analyst - Project Finance role in New York. I'm an MBA Finance (STEM) student at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Palmetto stands out to me because the role ties solar loan origination and customer financing directly to tax equity funds and ABS, which is the part of energy finance I most want to work in.",
+   "The closest work I've done is an MBA project on a 6-project, 35.4 MW Illinois solar portfolio. I built project and portfolio models covering capital structure, DSCR, NPV and levered IRR under post-ITC scenarios, compared senior debt, sustainability-linked loan and green loan plus ABS structures, and recommended a phased green loan + ABS approach that reduced sponsor equity by $11.1M in the model. At Thomson Reuters I managed cash flow analysis covering 80%+ of total inflows and supported monthly P&L forecasting and close for the ANZ region.",
+   "That mix fits the recurring fund and investor reporting this team owns: large datasets, repeatable templates, and numbers that have to tie out every month. My solar finance work is coursework, not live deals, so I'd be learning Palmetto's funding structures on the job, but I'm comfortable in Excel with big data sets and I care about getting reporting right. I'd welcome the chance to talk."
+  ]
+ }
+}
