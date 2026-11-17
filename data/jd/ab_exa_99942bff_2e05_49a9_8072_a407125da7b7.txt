@@ -1,0 +1,60 @@
+Exa — Strategic Finance
+https://jobs.ashbyhq.com/exa/99942bff-2e05-49a9-8072-a407125da7b7
+
+About Exa
+
+Exa is an applied AI lab building a search engine unlike the world has ever seen. Our Search API powers agents, Fortune 500s, and AI labs as we transform an industry that hasn’t been disrupted since the ’90s. We recently raised a $250M Series C led by a16z, with Benchmark, Lightspeed, and YC doubling down, valuing Exa at $2.2B.
+
+About the role
+
+Strategic finance at Exa helps leadership decide where to put money and attention: how much compute to buy, which data partnerships to pursue, how to price our products, and which markets and use cases to go after. You’ll build the models behind those decisions and bring a clear recommendation to each one. You’ll also own Exa’s unit economics: finding where margins can get better and working with the teams involved to make those improvements happen.
+
+You’ll be our first strategic finance hire. The role starts with compute and infrastructure economics and also covers go-to-market finance. You’ll work directly with the founders and with our Research, Infrastructure, Data Partnerships, RevOps, FP&A, and GTM teams. As we grow, we expect strategic finance to split into separate infrastructure and go-to-market teams, and you’ll have the first shot at leading one.
+
+What you’ll do
+
+ - Infrastructure economics – Build and own the model for what it costs to run and scale Exa: cost to serve, gross margin by product and customer, and how both change as usage grows. Turn usage metrics into cost drivers so pricing, product, and hiring decisions start from real costs.
+
+ - Compute and GPU economics – Model what our compute spend buys us: cost per workload, utilization, and the tradeoffs between owning, reserving, and renting capacity. Bring the financial view to major GPU purchases and commitments, support negotiations with compute and cloud providers, and track committed vs. consumed spend.
+
+ - Cost visibility and allocation – Build the framework that attributes compute and infrastructure costs to products, customers, and workloads, and give teams self-serve visibility into the costs they drive.
+
+ - Efficiency and margin expansion – Define north-star unit metrics like cost per search, find where margins can improve, and partner with Research and Infrastructure on compute optimization, caching, and vendor strategy to capture those gains.
+
+ - Demand to cost – Partner with RevOps and FP&A on demand forecasting, and translate expected usage into compute needs, COGS and gross margin forecasts, and pricing implications.
+
+ - Pricing and packaging – Bring a financial lens to self-serve and enterprise pricing, credits and discount policy, and margin guardrails for our most important deals.
+
+ - Markets and use cases – Work with GTM to size the markets and use cases we could go after, compare their growth and margins using usage and pipeline data, and recommend where Exa should focus.
+
+ - Strategic and data deals – Model large committed-spend, ramp, and partnership deals, and tell us when to hold firm and when to bend. Work with Data Partnerships to evaluate, price, and structure data licensing deals against what each is worth to Exa.
+
+ - KPIs leadership runs on – Define the metrics that matter (gross margin, compute efficiency, net revenue retention, cohort economics), pull data from wherever it lives, and make reporting run itself. Support board and investor materials.
+
+ - AI-native finance – Replace recurring analysis with agents and internal tooling instead of headcount. How we run finance is part of our advantage.
+
+About you
+
+ - High-rigor background – You have 5–8 years in investment banking, consulting, PE or growth investing, or strategic finance at a high-growth tech company.
+
+ - A first-principles modeler – You’ve built complex models from scratch and can defend every assumption when pushed.
+
+ - Fluent with engineers – You want to understand our GPU and systems costs well enough to model them, challenge the engineers who run them, and turn usage into financial insight.
+
+ - Comfortable with messy data – You pull your own data (SQL a plus) and work comfortably with large, usage-based datasets.
+
+ - AI-native – You already use LLMs and agents to do real work faster, and you’ve built things with them.
+
+ - Candid – You’ll tell a founder or a sales leader when a plan doesn’t pencil, and help them find one that does.
+
+ - An owner – You’re comfortable with ambiguity. Most of what you’ll own doesn’t exist yet.
+
+Bonus points
+
+ - Experience with GPU, cloud, or data center economics (reserved vs. on-demand pricing, utilization, hardware purchases), or with usage-based or API businesses.
+
+ - You’ve built cost allocation or gross margin reporting for a multi-product, usage-based business.
+
+ - Exposure to board reporting or fundraising work.
+
+Exa is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or related conditions, criminal histories consistent with applicable law, or any other basis protected by applicable law.
