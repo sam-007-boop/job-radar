@@ -1,0 +1,27 @@
+JPMorgan Chase — Wealth Management Quant Analytics Associate
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790035
+
+The Data & Analytics team powers JPMorgan Chase with insights that create competitive advantages for the business and deliver value for customers. We have unified data and analytics talent across the firm in disciplines that include data science, reporting, quantitative analytics, and data governance. Within this organization, the Wealth Management Data & Analytics team uses industry-leading, data-driven techniques to turn data into meaningful insights that drive value and deliver an outstanding customer experience. The wealth management industry is rapidly changing, and JPMorgan Chase is transforming its wealth management businesses to accelerate growth.
+ Job Responsibilities 
+ - Collaborate with product, strategy, and marketing teams to provide analytical support for Wealth Management initiatives and decision-making, including segmentation, audience optimization, and customer experience programs.
+- Apply statistical methods, causal inference, and analytical techniques to proactively find and address business problems.
+- Support end-to-end analytics delivery, from problem framing and measurement design to generating insights and communicating findings to senior stakeholders.
+- Analyze client experience and journey outcomes, including AI-enabled discovery, to identify opportunities for improvement and measurable value creation.
+- Identify and develop high-value artificial intelligence (AI) and agentic AI use cases that can improve analytical productivity, decision quality, and customer outcomes.
+
+ Required Qualifications, Capabilities, and Skills 
+ - At least one year of professional experience in data analytics, marketing analytics, or decision science.
+- Bachelor’s degree in a related field, such as Analytics, Mathematics, Statistics, Engineering, or Computer Science.
+- Strong proficiency in SQL and Python for assembling, organizing, and analyzing datasets.
+- Working knowledge of statistical testing and inference, with the ability to apply these methods to business problems.
+- Commitment to staying current with modern data mining, quantitative research, and data science techniques, including decision trees, linear regression, multinomial logistic regression, ridge regression, collinearity analysis using variance inflation factors (VIF), machine learning, string similarity, behavioral analytics, and look-alike models.
+- Ability to summarize key information and present recommendations to multiple stakeholders to influence senior management.
+- Experience using AI and agentic AI tools to deliver analytics and modeling outputs.
+
+ Preferred Qualifications, Capabilities, and Skills 
+ - Master’s degree or PhD in a related field.
+- Experience in Wealth Management or Self-Directed Investing.
+- Experience in segmentation, audience optimization, or customer experience programs.
+- A growth mindset and commitment to lifelong learning, demonstrated through activities such as following industry podcasts, staying current with cutting-edge techniques, or participating in KDD and Kaggle competitions, along with a willingness to share learning with the team.
+
+ "We do not offer any type of employment-based immigration sponsorship for this position. Likewise, JPMorganChase, will not provide any assistance or sign any documentation in support of any other form of immigration sponsorship or benefit including optional practical training (OPT) or curricular practical training (CPT)."

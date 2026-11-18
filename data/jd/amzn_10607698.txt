@@ -1,0 +1,35 @@
+Amazon (incl. AWS data-center finance) — Finance Manager, NACF Central Reporting
+https://www.amazon.jobs/en/jobs/10607698/finance-manager-nacf-central-reporting
+
+Are you a finance professional who thrives on turning complex data into actionable business insights? Amazon is looking for a Financial Analyst III to own financial reporting for a business area and partner with leaders to drive informed, data-driven decisions. In this role, you will build financial models, craft compelling narratives, and deliver recommendations that shape both operational and long-term growth strategies. You will work at the intersection of finance and business operations, where your analytical rigor and curiosity will directly influence how we serve our customers and allocate resources. If you are energized by solving ambiguous problems, collaborating across teams, and making a measurable impact, this is the role for you.
+
+Key job responsibilities
+- Own financial reporting for your business area, ensuring accuracy and compliance with internal and external policies while mentoring others on reporting standards and best practices.
+- Build and maintain financial models and analyses to support pricing, operational, and growth decisions, translating complex data into clear recommendations for senior leadership.
+- Identify and resolve data integrity issues, design improved controls to address emerging risks, and develop scalable, auditable data analysis processes that strengthen financial governance.
+- Lead cross-functional projects end to end—managing timelines, setting priorities, and collaborating with upstream and downstream teams to deliver results with minimal oversight.
+- Identify opportunities to improve, automate, and scale finance tools and processes across teams, leveraging data management techniques and generative AI tools where appropriate to increase efficiency.
+
+A day in the life
+You might start your morning reviewing financial reports and preparing a narrative for a leadership review, then shift to a working session with business partners where you challenge assumptions and align on key trade-offs. After lunch, you could be deep in a financial model, stress-testing scenarios for an upcoming initiative. Later, you might connect with a cross-functional team to design a new control process or mentor a colleague on reporting methodology. Throughout it all, you bring curiosity, precision, and a collaborative mindset.
+
+About the team
+Our Finance team is focused on delivering insights that help Amazon make smarter, faster decisions on behalf of our customers. We operate in a collaborative environment where analytical thinking, creative problem-solving, and open dialogue are valued. As a member of this team, you will contribute to strategic goals that shape how we grow and invest for the long term. We are committed to building an inclusive culture where every voice is heard, and we actively invest in the professional development of our team members through knowledge sharing, community programs, and mentorship.
+
+- 5+ years of finance, accounting, or related analytical field experience
+- Bachelor's degree in business, finance, accounting, tax, economics, or a related analytical field
+
+- 6+ years of identifying incomplete or inaccurate data, identifying the root cause and creating/implementing an escalation plan experience
+- 6+ years of solving complex business challenges by delivering accurate and timely financial models, analysis, and recommendations that have a proven impact on business (e.g., financial savings, operational improvements, or customer benefits) experience
+- MBA, or CPA
+- Knowledge of SQL/ETL
+- Experience working with large-scale data mining and reporting tools (examples: SQL, MS Access, Essbase, Cognos) and other financial systems (examples: Oracle, SAP, Lawson, JD Edwards)
+- Experience delivering forecasting, budgeting, and variance analysis, and data interpretation of results
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.

@@ -1,0 +1,51 @@
+Stripe — Deal Pricing
+https://stripe.com/jobs/search?gh_jid=8387820
+
+Deal Pricing 
+ About Stripe 
+ Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow revenue, and pursue new business opportunities. Our mission is to increase the GDP of the internet, and we have a significant amount of work ahead. This creates an unprecedented opportunity to help expand access to the global economy while doing some of the most important work of your career. 
+ About the Team 
+ Deal Pricing is a dedicated global function that provides pricing expertise, financial insights, and deal support for negotiated users across Stripe’s global Go-to-Market (GTM) organization. We help ensure that deals create sustainable economic value for Stripe by establishing commercial frameworks for a scaling sales organization, actively supporting large and strategic opportunities, and delivering pricing insights and recommendations to Sales, Finance, Product, and other cross-functional leaders. 
+ What You’ll Do 
+ You will develop and improve pricing tools used by GTM, Renewals, Deal Pricing, and other teams to evaluate deal economics and support commercial decision-making. Depending on the business need, you may define requirements for systems teams or build offline tools in Google Sheets from the ground up. You will also develop and review pricing dashboards, translate data into actionable insights, and provide recommendations to senior leadership. 
+ Responsibilities 
+
+ Collaborate with Engineering, Product Management, GTM, and Pricing Strategy teams to evaluate pricing strategies, define and test requirements, and support Stripe’s Quote-to-Cash systems. 
+ Plan and execute user acceptance testing (UAT) to ensure that system tools meet business requirements and quality standards. 
+ Build financial models and tools to evaluate the deal economics of Stripe’s payments and software portfolio. 
+ Analyze financial and commercial data to identify trends, opportunities, and risks within Stripe’s pricing strategies. 
+ Manage and triage tooling questions, enhancement requests, and bug reports, ensuring issues are prioritized and resolved effectively. 
+ Define key business metrics and KPIs to assess business health, proactively highlighting emerging risks and opportunities. 
+ Build and maintain dashboards that deliver clear, decision-ready business insights. 
+ Apply and develop AI-enabled tools to improve efficiency and scale workflows across GBS. 
+
+ Who You Are 
+ We’re looking for someone who meets the minimum requirements below. If you meet these qualifications, we encourage you to apply. Preferred qualifications are helpful but not required. 
+ Minimum Requirements 
+
+ Bachelor’s degree in Finance, Economics, Engineering, Computer Science, or a related field. 
+ 5+ years of financial modeling experience, preferably within fintech, SaaS, banking, or a related industry. 
+ Proficiency with data analysis tools, including SQL and Google Sheets or Microsoft Excel. 
+ Strong quantitative and analytical skills, with exceptional attention to detail. 
+ A finance-oriented mindset and strong operational discipline, with the ability to build scalable, repeatable processes and systems. 
+ Demonstrated ability to establish collaborative relationships with cross-functional business partners and executives. 
+ Strong problem-solving and critical-thinking skills. 
+ Effective written and verbal communication skills, including the ability to present complex data clearly to varied audiences. 
+ Ability to navigate ambiguity and thrive in an unstructured, fast-paced environment. 
+ Active use of AI tools to improve productivity and scale impact. 
+
+ Preferred Qualifications 
+
+ Programming or automation experience with JavaScript and Salesforce. 
+ Familiarity with financial metrics, pricing strategies, and commercial deal structures. 
+ Understanding of database concepts and data manipulation techniques. 
+ Experience partnering with Sales, Engineering, Product Management, and other cross-functional teams. 
+ Experience developing dashboards and interactive reporting solutions. 
+
+ Responsibilities 
+
+ Who you are 
+ We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement. 
+ Minimum requirements 
+
+ Preferred qualifications
