@@ -1,0 +1,52 @@
+{
+ "company": "Uber",
+ "role": "Sr Associate, Strategic Finance",
+ "variant": "finance-core",
+ "job_url": "https://www.builtinnyc.com/job/sr-associate-strategic-finance/12307758",
+ "edits": [
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting leads with financial forecasting and operational planning."
+  },
+  {
+   "old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+   "new": "Ran variance and sensitivity analyses on budget reallocation to guide resource decisions and operating plans",
+   "why": "Posting asks for partnering with leaders on operating goals and where resources go."
+  },
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Posting wants models built from scratch; also an accuracy fix (marketing-channel budget, not investing)."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Uber Strategic Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Sr Associate, Strategic Finance role at Uber in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I spent about five and a half years at JPMorgan Asset Management, Lenovo and Thomson Reuters. I like that one application here reaches FP&A teams across Mobility, Delivery and Corporate Finance, because the work sits right next to how the business decides where to grow.",
+   "At Lenovo I was a Senior Business Analyst for two years, building forecasts and scenario analyses that improved capital efficiency by 15% and running variance and sensitivity analyses on budget reallocation. At Thomson Reuters I worked with finance teams on monthly P&L forecasting, variance analysis and close for the ANZ region. At JPMorgan Asset Management I built models to evaluate $10M of marketing-channel budget and quantify ROI.",
+   "That lines up with building forecasts and operating goals with business leaders, breaking a messy question into a model, and turning it into a clear recommendation. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli and I'm applying for the Sr Associate, Strategic Finance role at Uber in New York. At Lenovo I built forecasts and scenario models that improved capital efficiency by 15%, and at Thomson Reuters I supported monthly P&L forecasting and close for the ANZ region. I'd like to hear how the team splits work across Mobility and Delivery. Would you have 15 minutes for a quick chat?"
+}

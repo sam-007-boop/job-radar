@@ -1,0 +1,52 @@
+{
+ "company": "Stripe",
+ "role": "Finance & Strategy Analyst",
+ "variant": "finance-core",
+ "job_url": "https://stripe.com/careers/listing/finance-strategy-analyst/8231575",
+ "edits": [
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Posting centers on measuring ROI of spend; also an accuracy fix (marketing-channel budget, not investing)."
+  },
+  {
+   "old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+   "new": "Ran variance and sensitivity analyses on budget reallocation to support budgets, forecasts and spend decisions",
+   "why": "Posting asks for running budgeting, forecasting and monthly business reviews."
+  },
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting wants integrated models and long-range planning."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Stripe Finance & Strategy Team,",
+  "paragraphs": [
+   "I'm applying for the Finance & Strategy Analyst role at Stripe in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Stripe's focus on measuring the return on every dollar of spend, headcount and non-headcount, is the part of finance I've enjoyed most.",
+   "At JPMorgan Asset Management I built models to evaluate $10M of marketing-channel budget, quantified ROI across scenarios, and benchmarked past allocations against peers to find 30% efficiency gains. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15% and ran variance analyses on budget reallocation for cross-functional teams.",
+   "That maps to running the budget and forecast cycle, owning the models behind it, and giving business partners a straight answer on what their spend is returning. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli and I'm applying for the Finance & Strategy Analyst role at Stripe in New York. At JPMorgan Asset Management I modeled ROI on $10M of marketing-channel budget and found 30% efficiency gains through peer benchmarking, and at Lenovo I built forecasts that improved capital efficiency by 15%. Would you have 15 minutes to tell me about the team?"
+}

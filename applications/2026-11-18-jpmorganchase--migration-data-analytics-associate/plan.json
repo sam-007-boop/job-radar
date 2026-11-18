@@ -1,0 +1,47 @@
+{
+ "company": "JPMorganChase",
+ "role": "Migration Data Analytics Associate",
+ "variant": "data-analytics",
+ "job_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807979",
+ "edits": [
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "new": "Owned mapping and QA for AI-powered analytical dashboards with real-time metrics, cutting reporting time by 4+ hours/week",
+   "why": "Accuracy fix: he owned mapping and QA, not the build; posting values validating results."
+  },
+  {
+   "old": "Defined audience segmentation strategies and documented business requirements for campaign initiatives, translating stakeholder needs into dashboards that improved campaign ROI by 20%",
+   "new": "Documented business requirements and turned stakeholder needs into dashboards for campaign initiatives, improving campaign ROI by 20%",
+   "why": "Posting asks for gathering requirements from cross-functional teams and building dashboard solutions."
+  },
+  {
+   "old": "Conducted data-driven performance analysis and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment decisions",
+   "new": "Ran performance analysis and peer benchmarking on historical marketing-channel budget allocations, identifying 30% efficiency gains",
+   "why": "Accuracy fix: marketing-channel budgets; posting values turning data into insights."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear JPMorganChase Hiring Team,",
+  "paragraphs": [
+   "I'm applying for the Migration Data Analytics Associate role in Chicago. I'm an MBA (STEM) candidate at Fordham Gabelli, and before school I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. I'm drawn to this role because it is about making high-stakes program decisions on data people can trust, with clear definitions and checks behind every number.",
+   "At Lenovo I documented business requirements and turned stakeholder needs into dashboards that improved campaign ROI by 20%, and I owned the mapping and QA for AI-powered dashboards that cut reporting time by 4+ hours a week. At Thomson Reuters I ran financial reconciliation with 85%+ accuracy in revenue recognition and reporting. At JPMorgan Asset Management I built analytics frameworks to track campaign KPIs and turned large datasets into executive reporting.",
+   "That fits the work of collecting and validating inputs from product, operations and technology teams, documenting assumptions, and building reporting that leaders can act on. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA (STEM) candidate at Fordham Gabelli and worked at JPMorgan Asset Management before school. I'm applying for the Migration Data Analytics Associate role in Chicago. At Lenovo I turned stakeholder requirements into dashboards that improved campaign ROI by 20% and owned QA on AI-powered reporting. I'd like to learn how the team supports migration decisions. Would you have 15 minutes for a quick chat?"
+}
