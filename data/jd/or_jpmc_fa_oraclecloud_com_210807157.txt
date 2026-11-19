@@ -1,0 +1,43 @@
+JPMorgan Chase — 1632707: Credit Monitoring Reporting and Controls Manager II - Data Analytics and Controls (LSCS13)
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807157
+
+Build confidence in decision-making through accurate reporting, clear procedures, and audit-ready evidence. In this role, you will turn complex data and recurring exceptions into concise insights, influence remediation and process improvements, and bring structure to how reporting and procedures are built and maintained. You will partner across operations, risk, controls, and technology while leading initiatives that strengthen execution across the credit monitoring organization. 
+ Job summary 
+ As a Credit Monitoring Reporting and Controls Manager in the credit monitoring reporting and controls team, you will lead reporting, data validation, procedure governance, and strategic initiatives that support consistent execution and a strong audit and control environment. You will identify trends and emerging risks, translate findings into clear actions, and drive issues from root-cause analysis through remediation and sustainable closure. You will partner with stakeholders across operations, risk, controls, business, and technology to align priorities and deliver durable improvements. 
+ Job responsibilities 
+ - Own recurring reporting deliverables, including report logic, data definitions and lineage, control checkpoints, and documented execution steps to support accurate, consistent, repeatable outputs. 
+- Lead reporting and data validation to confirm completeness, accuracy, and timeliness of outputs, underlying populations, and control indicators, including alignment to documented procedures and expected process or system behavior. 
+- Analyze reporting results to identify trends, recurring exceptions, data quality concerns, emerging risks, and potential process or system breakdowns. 
+- Drive root-cause analysis and remediation activities by establishing ownership, milestones, dependencies, and status reporting through sustainable closure. 
+- Synthesize complex findings into concise, executive-ready insights, including impact assessments, risk considerations, recommended remediation approaches, and progress updates. 
+- Manage procedure governance and operational readiness standards, including version history, approvals, rationale, implementation documentation, and change records. 
+- Lead strategic initiatives from intake and planning through implementation and post-go-live stabilization, with clear scope, milestones, dependencies, accountability, and delivery checkpoints. 
+- Run stakeholder and project governance, including executive status reporting, risk and issue management, decision logs, dependency tracking, and leadership communications. 
+- Partner with technology and business stakeholders to evaluate reporting logic, data definitions, system functionality, and control requirements, translating operational needs into sustainable solutions. 
+- Maintain audit and control readiness by ensuring reporting, procedural, remediation, and change-management evidence is complete, organized, traceable, and readily retrievable. 
+- Identify opportunities to improve reporting and operational processes through automation, analytics, and AI-enabled capabilities that reduce manual effort, improve accuracy, or strengthen control execution. 
+
+ Required qualifications, capabilities and skills 
+ - Bachelor’s degree or equivalent practical experience 
+- 4 years of project management experience within a financial services, control, audit, compliance, risk-managed, or similarly complex operating environment 
+- 4 years of hands-on reporting development, data analysis, or related analytical experience supporting recurring oversight, operational, risk, or control deliverables 
+- Demonstrated experience developing and validating reporting outputs, including assessing completeness and accuracy against documented procedures, business requirements, and expected process or system behavior 
+- Demonstrated experience supporting a strong control environment, including audit-ready evidence, issue and risk tracking, remediation management, and disciplined documentation 
+- Demonstrated experience leading initiatives across multiple stakeholders, managing competing priorities and dependencies, and driving actions through implementation and sustainable closure 
+- Demonstrated problem-solving skills, including the ability to assess both strategic and tactical implications and recommend practical actions 
+- Proficiency in Microsoft Excel and Microsoft PowerPoint for developing, validating, analyzing, and presenting reporting and control-related information 
+- Strong written and verbal communication skills, including the ability to translate complex findings into concise executive insights, impact assessments, recommendations, and actionable remediation plans 
+- Demonstrated ability to influence and build alignment across operations, risk, controls, business, and technology stakeholders, including senior leaders 
+
+ Preferred qualifications, capabilities and skills 
+ - Experience supporting wholesale lending, commercial banking, credit monitoring, or another credit risk or lending-related function 
+- Experience building or maintaining procedure governance and operational readiness programs, including change-management documentation, approvals, implementation planning, and sustainable adoption 
+- Experience partnering with technology teams on reporting logic, data definitions, system requirements, automation, and control checkpoints 
+- Experience with data analytics or visualization tools such as Alteryx, Tableau, or comparable platforms 
+- Developing experience using AI-powered analytics, workflow automation, or intelligent process tools to drive efficiency gains, reduce manual effort, or improve accuracy in operational processes. 
+- Experience presenting complex issues to senior stakeholders through concise narratives, executive summaries, impact assessments, recommendations, and decision materials 
+- Experience using structured project and governance artifacts, including status reporting, risk and issue logs, action plans, decision logs, dependency tracking, and implementation plans 
+
+ Additional information 
+ - Visa sponsorship is not available for this position. 
+- Work schedules will be full-time in office, on a 40-hour per week schedule.

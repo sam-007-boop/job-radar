@@ -1,0 +1,24 @@
+JPMorgan Chase — Senior Product Manager in Data & Analytics Product Data management
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809293
+
+You enjoy shaping the future of product innovation as a core leader, driving value for customers, guiding successful launches, and exceeding expectations. Join our dynamic team and make a meaningful impact by delivering high-quality products that resonate with clients. Be a leader committed to understanding customer needs with your advanced knowledge of product development, design, and data analytics
+
+As a Senior Product Manager in Data & Analytics Product Data management team, you are an integral part of the team that innovates new product offerings and leads the end-to-end product life cycle. As a core leader, you act as the voice of the customer, developing profitable data products that provide measurable customer value. Drawing on your deep understanding of how data is governed, cataloged, and consumed across the enterprise, you guide the successful launch of products, gather crucial feedback, and ensure top-tier client experiences. With a strong commitment to data quality, scalability, resiliency, and stability, you collaborate closely with cross-functional teams engineering, data governance, and business stakeholders to deliver high-quality products that exceed customer expectations.
+
+  Job responsibilities - Develops a product strategy and product vision that delivers value to customers
+- Manages discovery efforts and market research to uncover customer solutions and integrate them into the product roadmap
+- Owns, maintains, and develops a product backlog that enables development to support the overall strategic roadmap and value proposition
+- Builds the framework and tracks the product's key success metrics such as cost, feature and functionality, risk posture, and reliability
+- Partners with data governance, engineering, and consuming teams to ensure solutions meet regulatory, privacy, and metadata management requirements
+- Defines the product strategy for agentic AI capabilities—autonomous agents that automate data discovery, cataloging, quality remediation, and governance workflows
+- Partners with AI/ML engineering to operationalize LLM- and agent-based features, establishing guardrails for accuracy, explain ability, human-in-the-loop oversight, and responsible AI use
+- Defines success metrics for agentic features such as task automation rate, agent accuracy, escalation/intervention rate, and time-to-resolution
+     Required qualifications, capabilities, and skills - 5+ years of experience or equivalent expertise in product management or a relevant domain area
+- Advanced knowledge of the product development life cycle, design, and data analytics
+- Proven ability to lead product life cycle activities including discovery, ideation, strategic development, requirements definition, and value management
+- Working knowledge of data management disciplines such as data governance, metadata, data cataloging, lineage, or data quality
+- Familiarity with generative AI and agentic AI concepts LLMs, RAG, prompt design, tool-calling/function-calling, and multi-agent orchestration
+- Experience shipping AI-powered or agent-driven product features, including evaluation, guardrails, and responsible AI considerations
+- Understanding of how agents consume metadata, lineage, and data catalogs to reason over enterprise data
+     Preferred qualifications, capabilities, and skills - Demonstrated prior experience working in a highly matrixed, complex organization
+- Familiarity with data platforms, cataloging tools, or data governance frameworks

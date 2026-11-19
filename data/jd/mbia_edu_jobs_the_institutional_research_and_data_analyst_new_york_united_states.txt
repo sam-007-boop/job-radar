@@ -1,0 +1,358 @@
+Columbia University — The Institutional Research And Data Analyst New York United States
+https://opportunities.columbia.edu/jobs/the-institutional-research-and-data-analyst-new-york-united-states
+
+The Institutional Research and Data Analyst - New York, United States 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+
+- 
+ - 
+
+ - 
+- 
+- 
+- 
+- 
+
+ - 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+
+ COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK 
+
+ Kiosk mode 
+
+ blocks--linked-image#click keydown.enter->blocks--linked-image#click">
+
+ The Institutional Research and Data Analyst 
+
+ Office of Planning & Inst Resh 
+
+ The Institutional Research and Data Analyst
+
+ - 
+
+ 560736
+
+ - 
+
+ New York
+
+ - 
+
+ Office of Planning & Inst Resh
+
+ - 
+
+ Full Time
+
+ - 
+
+ Opening on: Nov 18 2026
+
+ - 
+
+ Grade 12
+
+ frame-loader#lazyLoad clinch:authenticated@document->frame-loader#reload" id="dc4c58e5ea8842bf7ab15580bb04c3c2_favourites"> 
+
+- Job Type: Officer of Administration
+
+- Regular/Temporary: Regular
+
+- Hours Per Week: 35
+
+- Salary Range: $80,000–$90,000
+
+ The salary of the finalist selected for this role will be set based on a variety of factors, including but not limited to departmental budgets, qualifications, experience, education, licenses, specialty, and training. The above hiring range represents the University's good faith and reasonable estimate of the range of possible compensation at the time of posting. 
+
+ Position Summary
+
+ The Office of Planning and Institutional Research (OPIR) , in the Office of the Provost at Columbia University, supports senior leadership in advancing institutional goals through rigorous data collection, analysis, and reporting. OPIR’s mission is to enable strategic, evidence-based decision making by delivering timely insights into the University’s academic, administrative, and operational landscape.
+
+ The Institutional Research and Data Analyst (Analyst) is an integral member of the OPIR team, supporting institutional reporting, data integrity, and data governance. Working closely with OPIR leadership and stakeholders across the University, the Analyst prepares recurring compliance reports and contributes to public-facing resources, including the Statistical Abstract, Columbia FACTS, and the Common Data Set.
+
+ The position uses strong hands-on SQL skills to extract, transform, reconcile, and analyze complex administrative datasets covering enrollment, employees, salaries, tuition, finance, financial aid, research, facilities, and space. The Analyst translates these data into clear reports and visualizations for technical and non-technical audiences.
+
+ The Analyst also strengthens workflows through consistent standards, clear documentation, and automation. The position will play an instrumental role in implementing OPIR’s data hub as a reliable, well-documented source of information for university stakeholders. This is an opportunity for a skilled and strategic researcher to contribute to high-impact, collaborative, and fast-evolving institutional initiatives.
+
+ Responsibilities
+
+ Institutional Reporting and Analysis
+
+- Prepare and validate recurring federal, state, accreditation, and other required reports assigned to OPIR; track deadlines, document requirements, and assemble submissions for review and approval by designated University officials.
+
+- Compile and reconcile data for the Statistical Abstract, Columbia FACTS, the Common Data Set, and other institutional publications and surveys.
+
+- Develop, maintain, and improve recurring reports and dashboards; respond to ad hoc data requests as they arise.
+
+- Apply consistent reporting specifications, population definitions, time periods, and calculation methods across reporting products.
+
+- Translate institutional questions into analyses and reporting specifications; communicate findings, trends, and limitations clearly.\
+
+ Data Management Governance and Reporting Workflows
+
+- Write, test, and maintain SQL queries, joins, transformations, and stored procedures in approved reporting environments, including SQL Server, to prepare reproducible datasets and reporting outputs.
+
+- Validate record counts, reconcile totals to source systems and prior submissions, investigate discrepancies with data owners, and document resolutions and quality checks.
+
+- Automate recurring extraction, validation, and report preparation within approved tools; maintain reusable code, change histories, run instructions, and checks for failed or incomplete refreshes.
+
+- Maintain data dictionaries, business definitions, source mappings, reporting logic, and lineage for OPIR reporting assets and the institutional data hub.
+
+- Follow approved data governance, access, confidentiality, and retention practices; identify data quality issues and recommend improvements to OPIR leadership and data stewards.
+
+ Institutional Data Hub and Collaboration
+
+- Support OPIR’s institutional data hub by defining analytical requirements, preparing and validating reporting datasets, and testing data integration and reporting changes with CUIT.
+
+- Collaborate with CUIT, Human Resources, Finance, schools, and other data owners to clarify definitions, resolve reporting discrepancies, and document accepted business rules.
+
+- Develop clear visualizations and support users in interpreting reporting outputs; stay current with institutional research, higher education reporting, and analytical practices.
+
+ Minimum Qualifications
+
+- Bachelor's degree in social science, information or data science, statistics, computer science, business analytics, or a related field, or an equivalent combination of education and experience, with 3–5 years of relevant professional experience.
+
+- Demonstrated experience using relational databases and hands-on SQL to join, aggregate, transform, and validate complex data.
+
+- Experience developing recurring reports, reproducible reporting workflows, and data quality checks.
+
+- Experience with Power BI, Tableau, Oracle Analytics Cloud, or comparable reporting and visualization tools; proficiency with Excel.
+
+- Strong analytical, organizational, and communication skills, including the ability to explain technical concepts and findings to diverse audiences.
+
+- Ability to manage competing deadlines accurately, work collaboratively in a complex organization, and exercise discretion with confidential data.
+
+ Preferred Qualifications
+
+- Experience in higher education or institutional research, particularly with federal and state compliance reporting, institutional data governance, SQL Server, and reporting automation.
+
+- Experience with compliance reporting, SQL Server, data governance, reporting automation, or analysis using R or Python.
+
+ Equal Opportunity Employer / Disability / Veteran
+
+ Columbia University is committed to the hiring of qualified local residents.
+
+ Search All Jobs 
+
+ Explore Your Benefits 
+
+ Why Work at Columbia? 
+
+ Join our Talent Network 
+
+ Similar Jobs
+
+ Title
+
+ Location
+
+ Department
+
+ Summary
+
+ Data Analyst
+
+ Columbia University Medical Center
+
+ Environmental Health Sciences
+
+ The Department of Environmental Health Sciences at Columbia University's Mailman School of Public Health seeks a full-time Data Analyst to support the research program of Dr. Darby Jack. The group studies how environmental exposures—household and ambient air pollution, extreme heat, and other climate-related hazards—affect health in low- and middle-income countries. 
+
+ Decision Support Research Analyst
+
+ New York
+
+ Office of Planning & Inst Resh
+
+ The Decision Support Research Analyst will work collaboratively with colleagues and stakeholders across the institution to support decision making, drawing insights from quantitative and qualitative analyses. The ideal candidate will have experience in both survey methodology and data analytics.
+
+ Senior Analyst, Business Development
+
+ Columbia University Medical Center
+
+ CUIMC CFO
+
+ The Senior Analyst supports a broad range of initiatives that strengthen clinical integration, enhance patient access, promote clinical growth, and increase market competitiveness.
+The role provides high-level analytical support to the Director of Clinical Business Development to help advance both the financial and operational goals of the organization.
+
+ - © Columbia University 
+
+ - Accessibility 
+
+ - Nondiscrimination 
+
+ - Administrator Log in 
+
+ Close 
+
+ Candidate Details 
+
+ This website uses cookies as well as similar tools and technologies to understand visitors' experiences. By continuing to use this website, you consent to Columbia University's usage of cookies and similar technologies, in accordance with the Columbia University Website Cookie Notice .
+
+ I do not accept 
+
+ I accept
