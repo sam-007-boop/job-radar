@@ -1,0 +1,47 @@
+{
+ "company": "NYC Housing Development Corporation",
+ "role": "Strategic Operations Graduate Intern",
+ "variant": "finance-core",
+ "job_url": "https://jobs.jobvite.com/nychdc/job/o8D0Afw5",
+ "edits": [
+  {
+   "old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+   "new": "Ran variance and sensitivity analyses on budget reallocation, turning results into operating recommendations for cross-functional teams",
+   "why": "A strategic operations seat is about turning analysis into operating decisions."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Accuracy fix: marketing-channel budget, not investing."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear HDC Strategic Operations Team,",
+  "paragraphs": [
+   "I'm applying for the Strategic Operations Graduate Intern role at the New York City Housing Development Corporation. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before the MBA I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. HDC's work financing affordable housing across the city is the kind of public finance I'd like to understand from the inside, and an operations seat is a good place to see how it runs.",
+   "At Lenovo I was a Senior Business Analyst for two years, building forecasts and scenario analyses that improved capital efficiency by 15% and running variance and sensitivity analyses on budget reallocation for cross-functional teams. At Thomson Reuters I managed financial operations covering 80%+ of total inflows and helped streamline the order-to-cash process, which cut the cash conversion cycle by 20%.",
+   "I'm used to taking a process or a messy dataset, finding where it breaks, and writing it up clearly for the people who decide. I'd be glad to bring that to HDC and would welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) student at Fordham Gabelli and I'm applying for HDC's Strategic Operations Graduate Intern role. At Thomson Reuters I managed financial operations covering 80%+ of inflows and helped cut the cash conversion cycle by 20%, and at Lenovo I built forecasting and scenario models. I'd like to hear how the strategic operations team spends its time. Would you have 15 minutes for a quick chat?"
+}

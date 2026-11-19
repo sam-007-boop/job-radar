@@ -1,0 +1,47 @@
+{
+ "company": "NBPA",
+ "role": "Data & Analytics Spring Intern",
+ "variant": "data-analytics",
+ "job_url": "https://www.linkedin.com/jobs/view/4492001097/",
+ "edits": [
+  {
+   "old": "Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "new": "Owned mapping and QA for AI-powered analytical dashboards with real-time metrics, cutting reporting time by 4+ hours/week",
+   "why": "Accuracy fix (Sam owned mapping and QA, not the build); dashboards and reporting are the core of a data and analytics seat."
+  },
+  {
+   "old": "Conducted data-driven performance analysis and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment decisions",
+   "new": "Ran performance analysis and peer benchmarking on historical marketing-channel budget allocations, identifying 30% efficiency gains",
+   "why": "Accuracy fix (JPMorgan was marketing-channel budgets) while keeping the analytics angle the role asks for."
+  },
+  {
+   "old": "Built financial models to evaluate $10M+ in capital deployment strategies, automating data extraction and quantifying ROI across portfolio scenarios",
+   "new": "Built financial models to evaluate $10M+ in marketing-channel budget, automating data extraction and quantifying ROI by scenario",
+   "why": "Accuracy fix: the $10M was marketing-channel budget, not a portfolio."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear NBPA Hiring Team,",
+  "paragraphs": [
+   "I'm applying for the Data & Analytics Spring Intern role at the National Basketball Players Association in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before the MBA I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. A spring internship fits well with my last semester, and I'd like to put my analytics work toward an organization whose job is to look out for its members.",
+   "At JPMorgan Asset Management I built cross-platform analytics frameworks to track campaign KPIs, which helped deliver a 135% increase in engagements while cutting media spend by up to 83%. At Lenovo I turned stakeholder needs into dashboards that improved campaign ROI by 20%, and I owned the mapping and QA for AI-powered dashboards that saved the team 4+ hours a week on reporting.",
+   "I'm comfortable taking a loose question, pulling the data together in Excel, SQL or Tableau, checking it, and turning it into something a busy team can use. I'd be glad to talk about how I could help this spring."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) student at Fordham Gabelli and I'm applying for the NBPA Data & Analytics Spring Intern role. At Lenovo I turned stakeholder needs into dashboards that improved campaign ROI by 20%, and at JPMorgan Asset Management I built KPI tracking for campaigns across platforms. I'd love to hear what the analytics team works on. Would you have 15 minutes for a quick chat?"
+}

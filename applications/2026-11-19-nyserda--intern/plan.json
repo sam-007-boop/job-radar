@@ -1,0 +1,47 @@
+{
+ "company": "NYSERDA",
+ "role": "Intern",
+ "variant": "data-analytics",
+ "job_url": "https://www.linkedin.com/jobs/view/4491100584/",
+ "edits": [
+  {
+   "old": "Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "new": "Owned mapping and QA for AI-powered analytical dashboards with real-time metrics, cutting reporting time by 4+ hours/week",
+   "why": "Accuracy fix (Sam owned mapping and QA, not the build); data and dashboard work fits NYSERDA's data-focused internships."
+  },
+  {
+   "old": "Conducted data-driven performance analysis and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment decisions",
+   "new": "Ran performance analysis and peer benchmarking on historical marketing-channel budget allocations, identifying 30% efficiency gains",
+   "why": "Accuracy fix (JPMorgan was marketing-channel budgets) while keeping the analytics angle the role asks for."
+  },
+  {
+   "old": "Built financial models to evaluate $10M+ in capital deployment strategies, automating data extraction and quantifying ROI across portfolio scenarios",
+   "new": "Built financial models to evaluate $10M+ in marketing-channel budget, automating data extraction and quantifying ROI by scenario",
+   "why": "Accuracy fix: the $10M was marketing-channel budget, not a portfolio."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear NYSERDA Hiring Team,",
+  "paragraphs": [
+   "I'm applying for the internship at NYSERDA. I'm an MBA Finance (STEM) candidate at Fordham Gabelli in New York, and before the MBA I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Energy is the area I've been steering my MBA toward, and NYSERDA is where a lot of New York's clean energy planning actually gets done.",
+   "At Lenovo I owned the mapping and QA for AI-powered dashboards that saved the team 4+ hours a week on reporting, and I turned stakeholder needs into dashboards that improved campaign ROI by 20%. At JPMorgan Asset Management I built analytics frameworks to track campaign KPIs and ran peer benchmarking on marketing-channel budgets that found 30% efficiency gains.",
+   "I'd bring that mix of data work, careful checking and clear reporting to whatever the team needs this term. I'm based in New York and would welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) student at Fordham Gabelli and I'm applying for NYSERDA's internship. At Lenovo I owned mapping and QA for AI-powered reporting dashboards that saved 4+ hours a week, and energy is the area I'm focusing my MBA on. I'd like to hear what interns on your team work on. Would you have 15 minutes for a quick chat?"
+}
