@@ -1,0 +1,47 @@
+{
+ "company": "UGE",
+ "role": "Senior Analyst, Project Finance",
+ "variant": "project-finance-solar",
+ "job_url": "https://www.builtinnyc.com/job/senior-analyst-project-finance/12353435",
+ "edits": [
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Project Finance, Renewable Energy Finance, Financial Modeling, Valuation Analysis, Financial Analysis, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Data Presentation, Bloomberg, S&P Capital IQ",
+   "why": "Posting leads with project finance modeling for renewable assets; reordered only."
+  },
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Posting asks for financial modeling; also an accuracy fix (marketing-channel budget, not investing)."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear UGE Project Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Senior Analyst, Project Finance role in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. UGE stood out because the role sits on assets still in development and construction, where the choice between debt, tax equity, mezzanine and HoldCo financing really changes the outcome.",
+   "In an MBA project I built project- and portfolio-level models for a 6-project, 35.4 MW Illinois solar portfolio, testing capital structure, DSCR, NPV and levered IRR under post-ITC scenarios. Our recommended phased green loan plus ABS strategy reduced sponsor equity by $11.1M and improved levered IRR from 8.58% to 9.79%. At Lenovo I spent two years building forecasts and scenario analyses that improved capital efficiency by 15%.",
+   "My project finance work so far comes from coursework rather than live transactions, so I would bring careful modeling, clean sensitivities and organized diligence tracking, and learn the closing side from your team. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli applying for the Senior Analyst, Project Finance role at UGE. In an MBA project I modeled a 35.4 MW Illinois solar portfolio, testing DSCR and levered IRR, and our green loan plus ABS recommendation cut sponsor equity by $11.1M. I'd like to hear how the team splits work between development and financing. Would you have 15 minutes for a quick chat?"
+}

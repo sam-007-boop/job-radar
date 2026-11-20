@@ -1,0 +1,42 @@
+{
+ "company": "Affirm",
+ "role": "Capital Markets Specialist I (2027 Early Career Program)",
+ "variant": "finance-core",
+ "job_url": "https://job-boards.greenhouse.io/affirm/jobs/8205833003",
+ "edits": [
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Posting asks for financial modeling; also an accuracy fix (marketing-channel budget, not investing)."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Affirm Capital Markets Team,",
+  "paragraphs": [
+   "I'm applying for the Capital Markets Specialist I role in Affirm's 2027 Early Career Program. I'm finishing an MBA in Finance (STEM) at Fordham Gabelli in Spring 2027, and before that I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. What draws me to this team is how directly it is tied to the business: the ABS, forward flow and warehouse funding you raise is what pays for Affirm's originations.",
+   "At Lenovo I spent two years as a Senior Business Analyst building forecasts and scenario models that improved capital efficiency by 15%. At Thomson Reuters I ran cash flow analysis covering more than 80% of total inflows and helped cut the cash conversion cycle by 20%. In my MBA I built a DCF and an LBO model for J.M. Smucker, and in a project finance case I compared senior debt, green loan and ABS structures for a solar portfolio.",
+   "That maps well to the day-to-day here: keeping funding operations accurate, modeling structures carefully, and working with credit, product and engineering so the capital platform keeps up with growth. I'd like to grow into transaction work over time, and I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli, graduating Spring 2027, and I'm applying for the Capital Markets Specialist I role in Affirm's Early Career Program. At Thomson Reuters I ran cash flow analysis covering 80%+ of inflows, and at Lenovo I built scenario models that improved capital efficiency by 15%. I'd love to hear how new hires ramp on the ABS and forward flow work. Would you have 15 minutes for a quick chat?"
+}
