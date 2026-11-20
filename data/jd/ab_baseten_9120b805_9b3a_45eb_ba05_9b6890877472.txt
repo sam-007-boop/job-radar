@@ -1,0 +1,108 @@
+Baseten — Revenue Strategy & Operations (AI Natives, AI Strategics, Labs)
+https://jobs.ashbyhq.com/baseten/9120b805-9b3a-45eb-ba05-9b6890877472
+
+ABOUT BASETEN
+
+Baseten powers mission-critical inference for the world's most dynamic AI companies, like Cursor, Notion, OpenEvidence, Abridge, Clay, Gamma, and Writer. By uniting applied AI research, flexible infrastructure, and seamless developer tooling, we enable companies operating at the frontier of AI to bring cutting-edge models into production. We're growing quickly and recently raised our $1.5B Series F https://www.baseten.co/blog/announcing-our-series-f/, led by Altimeter Capital, Conviction Partners, and Spark Capital. Join us and help build the platform engineers turn to ship AI products.
+
+THE ROLE
+
+As the Revenue Strategy & Operations Manager for Baseten’s AI Natives, AI Strategics, and Labs segments, you’ll be the day-to-day RevOps partner to the leaders who run them: our Sales Leaders across AI Natives & Strategics and our Head of Sales for Labs. You’ll give them the analysis and operating support to run their segments, and turn their priorities into the plans, targets, and operating cadence the segments run on.
+
+These segments cover some of Baseten’s largest and fastest-growing customers. Revenue is consumption-based, so growth comes from workloads scaling inside existing accounts as much as from new logos, and planning, forecasting, and pipeline management have to reflect that. You’ll sit on the Revenue Strategy & Operations team and work closely with Finance, Comp, Enablement, Territory Ops, GTM Engineering, and Sales leadership. You’ll own the segments’ numbers, the reviews that inspect them, and the processes and systems that keep them reliable.
+
+WHAT YOU'LL WORK ON
+
+ - Segment planning: Turn segment leaders’ priorities into joint plans with clear decisions, owners, and deadlines, and track them to completion.
+
+ - Operating cadence: Run segment MBRs, QBRs, and forecast reviews so leaders understand the business, decisions get made, and every follow-up has an owner.
+
+ - Planning and targets: Build the models behind annual and in-year planning for the segments: headcount, quota, and pipeline targets.
+
+ - Pipeline and forecasting: Inspect deals, pressure-test commits, and surface risk early in a business where revenue moves with customer usage.
+
+ - Segment analytics: Own funnel and consumption analytics, and build analytics products with GTM Engineering that flag risks and opportunities early.
+
+ - Process and systems: Build the segments’ sales processes into our systems and get segment managers onboarded onto them.
+
+RESPONSIBILITIES
+
+ - Business partnership
+
+ - Partner with our Heads of Sales for AI Natives and Labs as the RevOps lead for their segments
+
+ - Bring segment leaders the analysis they need to decide where to focus and invest
+
+ - Translate segment strategy into joint plans with clear decisions, owners, and deadlines, and track them to completion
+
+ - Run segment MBRs and QBRs that give leaders an accurate, shared view of the business, drive decisions, and assign owners
+
+ - Planning, targets, and capacity
+
+ - Run the annual and in-year planning process for the segments
+
+ - Build the capacity, quota, and pipeline models behind segment targets, in partnership with the VP of RevOps and Finance
+
+ - Work with the Comp team to implement segment compensation plans and track their impact
+
+ - Pipeline, forecasting, and analytics
+
+ - Run segment forecast reviews: inspect deals, pressure-test commits, and surface risks early
+
+ - Own segment funnel analytics: stage conversion, win rates, new logos, activations, renewals, consumption trends, and product mix
+
+ - Build segment analytics products with GTM Engineering that surface risks and opportunities early and often
+
+ - Operations and process
+
+ - Build the segments’ sales processes into our systems (Salesforce and the wider GTM stack)
+
+ - Partner with Enablement to onboard segment managers onto seller motions and tools
+
+QUALIFICATIONS
+
+ - 3 to 5 years in Revenue Operations, Sales Strategy & Operations, BizOps, FP&A, or management consulting, ideally including time partnering directly with sales leaders
+
+ - Experience running forecast and business review cadences (weekly forecast calls, MBRs, QBRs) for a sales segment or region
+
+ - Hands-on experience supporting annual planning: building capacity, quota, or pipeline coverage models
+
+ - Strong analytical skills: you build your own models in spreadsheets and pull your own data from Salesforce, BI Tools, or directly from a data warehouse. You write SQL and don’t just rely on Claude.
+
+ - Working knowledge of Salesforce and sales process design (stages, exit criteria, forecast categories)
+
+ - Clear, structured communication: you turn analysis into a clear recommendation and present it to sales leaders
+
+ - Comfortable with ambiguity and pace; you build the process rather than wait for one
+
+NICE TO HAVE
+
+ - Experience with consumption or usage-based revenue (cloud, API, or infrastructure businesses)
+
+ - Experience supporting enterprise or strategic segments with large, concentrated customers
+
+ - Experience implementing or administering sales compensation plans
+
+ - Exposure to AI/ML infrastructure or developer-focused products
+
+BENEFITS
+
+ - Competitive compensation, including meaningful equity
+
+ - (U.S. only) 100% coverage of medical, dental, and vision insurance for employee and dependents
+
+ - Flexible PTO policy including company wide Winter Break (our offices are closed from Christmas Eve to New Year's Day!)
+
+ - Paid parental leave
+
+ - Fertility and family-building stipend through Carrot
+
+ - (U.S. only) Company-facilitated 401(k)
+
+ - Exposure to a variety of ML startups, offering unparalleled learning and networking opportunities.
+
+Apply now to embark on a rewarding journey in shaping the future of AI! If you are a motivated individual with a passion for machine learning and a desire to be part of a collaborative and forward-thinking team, we would love to hear from you.
+
+At Baseten, we are committed to fostering a diverse and inclusive workplace. We provide equal employment opportunities to all employees and applicants without regard to race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status.
+
+We are an Equal Opportunity Employer and will consider qualified applicants with criminal histories in a manner consistent with applicable law (by example, the requirements of the San Francisco Fair Chance Ordinance, where applicable).

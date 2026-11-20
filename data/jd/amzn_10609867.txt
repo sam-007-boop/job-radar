@@ -1,0 +1,42 @@
+Amazon (incl. AWS data-center finance) — Senior Financial Analyst, AWS Internal Rates Team
+https://www.amazon.jobs/en/jobs/10609867/senior-financial-analyst-aws-internal-rates-team
+
+Are you ready to make a impact by optimizing AWS Cloud Usage efficiencies through internal pricing decisions? As a Sr. Financial Analyst on the AWS Internal Rates team, you will play a crucial role in managing complex processes cross functionally to set internal pricing and forecast internal usage of AWS Cloud products. This position offers an exciting opportunity to partner with stakeholders across Amazon and AWS to maximize cloud cost efficiency and enhance Amazon's long-term free cash flow.
+
+In this role, you'll lead cross-functional teams and processes, conducting data deep dives to inform critical pricing decisions. Your analytical expertise will be instrumental in developing structured pricing frameworks, while your strong communication skills will enable effective stakeholder management across multiple business units. If you thrive on solving complex problems through collaborative partnerships and data-driven insights, this role presents an exceptional opportunity to help shape financial strategy across AWS and Amazon.
+
+Key job responsibilities
+- Partner with stakeholders across Amazon and AWS to establish and maintain internal pricing structures that is sound and cost driven.
+- Lead cross-functional teams and processes to identify opportunities for cost optimization, developing analytical frameworks that deliver actionable insights and recommendations to senior leadership.
+- Analyze complex datasets to develop financial models that accurately forecast the impact of internal pricing decisions on P&Ls.
+- Identify trends, anomalies, and opportunities for process improvement, creating scalable and auditable data analysis processes.
+- Good understanding of AWS Services and cost drivers.
+- Collaborate with Fintech and Finance teams to automate existing manual process at scale.
+- Collaborate with forecasting data science teams and Finance to improve cloud usage forecasting processes. 
+
+About the team
+The AWS Internal Rates team sits at the intersection of finance and cloud technology, managing the complex process of setting internal pricing across AWS cloud services. Our mission is to ensure these rates aligns to underlying cost and also drive optimal internal usage behavior that maximizes cost efficiency and enhances Amazon's long-term free cash flow. 
+
+Our team works collaboratively to develop sophisticated pricing frameworks that balance operational needs with financial objectives. We partner closely with stakeholders throughout Amazon and AWS to understand service requirements, usage patterns, and financial implications of our decisions. As we continue to evolve our approach to internal pricing, we're looking for analytical minds who can help us create innovative solutions to increasingly complex challenges.
+
+- 3+ years of finance, accounting, or related analytical field experience
+- 3+ years of contributing to cross-functional initiatives that drive financial performance and strategy experience
+- 3+ years of dissecting financial data and identifying patterns that support business strategy experience
+- Bachelor's degree in business, finance, accounting, tax, economics, or a related analytical field
+- Experience supporting month-end closing processes and contributing to financial reporting under established procedures
+- Experience in forecasting, budgeting, variance analysis, and interpreting financial results
+
+- 4+ years of participating in continuous improvement projects in your team to scale and improve controllership with measurable results experience
+- 2+ years of identifying incomplete or inaccurate data, identifying the root cause and creating/implementing an escalation plan experience
+- Experience with advanced use of SQL for data mining and business intelligence
+- Experience in creating process improvements with automation and analysis
+- Experience working in a large team or fast-paced corporate environment
+- MBA, or CPA
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+ The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . 
+
+USA, WA, Seattle - 82,700.00 - 117,100.00 USD annually

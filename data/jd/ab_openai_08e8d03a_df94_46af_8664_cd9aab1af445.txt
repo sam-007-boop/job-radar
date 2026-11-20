@@ -1,0 +1,72 @@
+OpenAI — Forward Deployment Strategy and Operations
+https://jobs.ashbyhq.com/openai/08e8d03a-df94-46af-8664-cd9aab1af445
+
+About the Team
+
+The Forward Deployment Strategy & Operations team closely partners with GTM leadership and Forward Deployed Engineering (FDE) to help organizations move from AI ambition to durable production outcomes. We combine technical depth, deployment expertise, and commercial and operational discipline to solve complex problems in customer environments and accelerate adoption of OpenAI’s models and products.
+
+We also work across Technical Success, Finance, Product, Legal, Data, Systems, and external delivery partners to build a forward deployed motion that is customer-centered, commercially rigorous, operationally scalable, and tightly connected to product adoption.
+
+About the Role
+
+We are seeking a senior operator to build and scale OpenAI’s forward deployed business. You will lead some of our highest-priority strategic initiatives across the company, tackling ambiguous and complex questions about how to bring the full capabilities of our models to the world’s largest and most consequential institutions.
+
+This is a foundational, hands-on individual contributor role at the intersection of business strategy, finance, go-to-market, and technical delivery. You will shape where and how we engage, how we structure and commercialize deployments, how we scale the motion, and where we invest—turning open-ended questions into clear strategies, decisions, and operating models.
+
+You will own business planning, commercial strategy, forecasting and modeling, partner strategy, and cross-functional strategic initiatives. You will also build integrated views of demand, staffing, revenue, margin, and deployment performance; replace one-off analyses with durable processes; and establish operating cadences that help leaders act early.
+
+You will be a trusted partner to FDE, GTM, Technical Success, Finance, Product, Legal, Revenue Operations, and Data leaders. The right person combines experience with complex customer deployments, rigorous analytics, executive communication, and the willingness to build the model, process, or dashboard themselves.
+
+You’ll be responsible for:
+
+ - Define and drive the business and GTM strategy for the forward deployed motion, including target customer needs, engagement portfolio, positioning, commercial models, partner motions, and where to standardize versus tailor deployments.
+
+ - Lead high-priority, cross-company strategic initiatives that shape how OpenAI scales the FDE business and brings the capabilities of its models to the world’s largest and most complex institutions, from problem definition through implementation.
+
+ - Own long-range, annual, and quarterly planning, translating goals into bookings, revenue, margin, capacity, utilization, role mix, geography, hiring, and investment assumptions.
+
+ - Build and maintain integrated demand, capacity, staffing, and revenue models; develop scenarios and sensitivities; improve bottom-up forecast accuracy; and turn the output into clear executive recommendations.
+
+ - Design the management system for the business, including KPIs, source-of-truth reporting, dashboards, pipeline and staffing reviews, and monthly and quarterly operating cadences.
+
+ - Improve the end-to-end engagement lifecycle—from opportunity intake and scoping through commercial design, contracting, staffing, deployment, and expansion—in partnership with Revenue Operations and Systems.
+
+ - Partner with Finance, Legal, GTM, FDE, Technical Success, and delivery leaders on business cases, deployment economics, deal tradeoffs, resource allocation, and investment decisions.
+
+ - Translate recurring customer and deployment patterns into inputs for product strategy, enablement, partner strategy, and more repeatable product-plus-deployment offerings that accelerate durable adoption.
+
+We’re looking for someone with:
+
+ - 8+ years of experience in management consulting, Business Operations, Strategic Finance, or a comparable role, including direct experience in a forward-deployed engineering, enterprise implementation, technical consulting, systems-integration, or managed-services organization.
+
+ - Deep command of deployment economics and operating levers such as pipeline, bookings, backlog, revenue timing, gross margin, utilization, capacity, staffing mix, delivery quality, and customer outcomes.
+
+ - Exceptional quantitative modeling skills: you can build auditable demand, staffing, revenue, and scenario models; work fluently in spreadsheets; and use SQL, BI, or other data tools to test assumptions and improve decisions.
+
+ - Strong commercial and GTM judgment across engagement design, pricing and packaging, forecasting, resource allocation, and complex enterprise deployment motions.
+
+ - A record of leading complex, ambiguous strategic initiatives and turning them into clear choices, scalable operating models, and measurable results.
+
+ - Excellent executive communication and influence; you can frame choices, surface assumptions, and drive alignment across technical and non-technical leaders.
+
+ - Demonstrated leadership of complex cross-functional programs and teams. People-management experience is helpful, but this role is initially scoped as a senior individual contributor.
+
+ - A low-ego, high-ownership working style, comfort with rapid change, and genuine interest in how frontier AI can create durable customer value.
+
+About OpenAI
+
+OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity. 
+
+We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic. 
+
+For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement https://cdn.openai.com/policies/eeo-policy-statement.pdf.
+
+Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+
+To notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form https://form.asana.com/?d=57018692298241&k=5MqR40fZd7jlxVUh5J-UeA. No response will be provided to inquiries unrelated to job posting compliance.
+
+We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link https://form.asana.com/?k=bQ7w9h3iexRlicUdWRiwvg&d=57018692298241.
+
+OpenAI Global Applicant Privacy Policy https://cdn.openai.com/policies/global-employee-and-contractor-privacy-policy.pdf
+
+At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.

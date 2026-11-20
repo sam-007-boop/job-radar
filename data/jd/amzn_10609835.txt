@@ -1,0 +1,33 @@
+Amazon (incl. AWS data-center finance) — Senior Financial Analyst, Scaling Regions, AWS Commercial Regions
+https://www.amazon.jobs/en/jobs/10609835/senior-financial-analyst-scaling-regions-aws-commercial-regions
+
+AWS has launched infrastructure regions around the world, and many are now in their scaling phase: past launch, growing fast, and not yet mature. How these regions perform shapes where AWS invests next. We're looking for a Senior Financial Analyst to own the financial picture for this portfolio.
+
+You'll join the Existing Regions team within AWS Commercial Regions Finance and be the finance partner for scaling regions across geographies. You'll work closely with AWS Global Expansion leaders in EMEA and APAC to understand what's driving each region's results, explain changes month to month, and help set plans that are ambitious but realistic.
+
+In this role, you will:
+- Own monthly performance reporting and analysis for the scaling regions portfolio, including the monthly financial review and the narrative behind the numbers
+- Build and own the annual operating plan (OP2) for existing regions, working with business leaders and finance peers
+- Explain variances to plan and prior periods, and find early signs of risk or upside before they show up in results
+- Analyze regional P&Ls to show what's working, what isn't, and where to act
+- Make reporting faster and more scalable with automation and self-service tools
+This role is for you if you're curious about what's behind the numbers, comfortable with large and complex data sets, and confident presenting to senior leaders. You'll have high visibility, a portfolio with real scale, and room to grow your scope.
+
+- Bachelor's degree in business, finance, accounting, tax, economics, or a related analytical field
+- 3+ years of applying key financial performance indicators (KPIs) to analyses experience
+- 3+ years of finance, accounting, or related analytical field experience
+- 3+ years of contributing to cross-functional initiatives that drive financial performance and strategy experience
+- 3+ years of dissecting financial data and identifying patterns that support business strategy experience
+
+- MBA, or CPA
+- 4+ years of participating in continuous improvement projects in your team to scale and improve controllership with measurable results experience
+- Experience working with large-scale data mining and reporting tools (examples: SQL, MS Access, Essbase, Cognos) and other financial systems (examples: Oracle, SAP, Lawson, JD Edwards)
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+ The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . 
+
+USA, VA, Arlington - 66,900.00 - 117,100.00 USD annually
+USA, WA, Seattle - 82,700.00 - 117,100.00 USD annually
