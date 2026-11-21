@@ -1,0 +1,43 @@
+Amazon (incl. AWS data-center finance) — New Region Strategy & Planning
+https://www.amazon.jobs/en/jobs/10600833/new-region-strategy-planning
+
+AWS is seeking a seasoned business and infrastructure expansion professional to focus on deploying Amazon’s data center footprint into new geographies. The New Region Strategy and Planning team within AWS Infrastructure assesses the technical, financial and local factors that need to be considered when determining the best approach for launching a new region, scaling the business and delivering for AWS customers. The successful candidate will lead end-to-end infrastructure planning for new data center regions and will be expected to draw conclusions from financial models, formulate recommendations and communicate the final infrastructure strategy to AWS executive leadership. This role focuses on launch footprint, expected data center demand and capacity utilization, networking topology, utility infrastructure delivery and overall project cost. This role necessitates fast-paced decision-making and driving highly impactful strategic workflows between multiple cross-functional teams including data center operations, networking, hardware engineering, capacity planning, design engineering, supply chain, energy, water, procurement, legal, real estate and construction.
+
+A successful candidate will think strategically and Think Big, but also have excellent tactical execution skills needed to hit project milestones. The successful candidate will have the ability to engage with, present to and influence senior stakeholders and be results oriented. The successful candidate will have experience working in capex/opex financial planning. Previous experience in international expansion/supply chain, engagement or familiarity with government processes, some familiarity with technical and engineering concepts around data centers, power infrastructure, and networks (backbone/peering/transit) will be valuable.
+
+The successful candidate will work across the organization to develop infrastructure deployment options whilst meeting our standards on safety, security, availability and cost efficiency. 
+
+Key job responsibilities
+- Driving due diligence in the country - spanning real estate, utilities (water and power), network, security, HR, legal, tax and public policy, selecting metro/sites and having a robust view of risk and opportunities to be factored in when planning and building an AWS region. 
+- Establishing a compliant infrastructure strategy and operating model in new countries or geographies. 
+- Driving cost estimates for new AWS regions spanning all aspects of infrastructure and driving long term financials and P&L statements.
+- Communicating to AWS executive leadership on status/progress of new regions, and presenting infrastructure plans for review and approval, to drive long-term multi-billion-dollar investment decisions. 
+- Engaging with customers, sales and internal teams to influence them towards infrastructure solutions that can best serve their needs. 
+- Identifying patterns from previous deployments to improve our processes and planning accuracy while creating economic frameworks for different kinds of infrastructure solutions.
+
+- 5+ years of program or project management experience
+- Experience using data and metrics to determine and drive improvements
+- Experience owning program strategy, end to end delivery, and communicating results to senior leadership
+- 6+ years’ experience leading and growing technical or financial/business projects, products/large-scale infrastructure programs.
+- 6+ years’ experience leading functions such as finance, corporate expansion, business development, supply chain.
+- 6+ years demonstrating strong communication skills, including proven executive communication and writing abilities.
+- 6+ years’ of demonstrated Learn and Be Curious.
+- 6+ years' in a matrixed organization and proven ability to work cross-functionally with highly technical teams and Deliver Results.
+- Bachelor’s Degree.
+
+- 2+ years of driving process improvements experience
+- Master's degree, or MBA in business, operations, human resources, adult education, organizational development, instructional design or related field
+- Knowledge of general AI tools
+- Experience designing, implementing, and scaling upskilling, apprenticeship, or workforce development programs across large-scale operations or corporate environments, including forecasting workforce needs and leveraging analytics to drive program decisions
+- History with cloud infrastructure, data center program/project management
+- Knowledge of data center technical engineering requirements.
+- Technical product development experience.
+- Familiarity with P&L statements and long-term cash flow projections/NPV.
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+ The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits . 
+
+USA, WA, Seattle - 115,600.00 - 160,000.00 USD annually

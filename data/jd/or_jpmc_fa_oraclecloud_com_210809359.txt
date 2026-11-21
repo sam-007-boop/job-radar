@@ -1,0 +1,21 @@
+JPMorgan Chase — 2027 Applied Research Associate - Summer Associate
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359
+
+Our firm is seeking a  junior or senior researcher and thought leader to perform applied research and development of novel solutions in these fields. As a key member of the GT Applied Research R&D team, you will work closely with internal project teams, senior management, and external communities alike in a way that is beneficial to the technical teams in the company. You will cultivate investigations into these areas, produce research solutions in collaboration with the internal project teams, and contribute to the firm’s intellectual property and scientific reputation by producing patent applications and scholarly articles. 
+   Job Responsibilities   
+ - We are looking for innovative problem-solvers with a passion for turning scientific research into commercial, business value. The focus of your role will be to: 
+- Advance the field of quantum-safe cryptography and their applications to the financial world 
+- Provide novel research solutions to problems faced by internal project teams 
+- Work with other researchers to document your findings in scientific papers 
+- Contribute to JPMC’s IP by pursuing necessary protections of generated IP 
+
+ Required qualifications, capabilities, and skills:   
+ - Experience in one or more of the following domains: Quantum Computing, QNS, Blockchain & Privacy, IoT, AI Labs, Advanced Compute & Semiconductors st-Quantum Cryptography, Zero Knowledge Proofs, Secure Multi-party Computation, Quantum Cryptography , Quantum Cryptanalysis. 
+- Experience in scientific technical writing 
+- Excellent analytical, quantitative and problem solving skills 
+- Proficiency in Python/MATLAB 
+- Strong communication skills and the ability to present findings to a non-technical audience 
+- Enrolled in a master’s or Ph.D. degree program in math, science, engineering, computer science or related fields. 
+
+ Preferred qualifications, capabilities, and skills:   
+ - Demonstrated research ability - Preference is given to candidates with a strong publication record
