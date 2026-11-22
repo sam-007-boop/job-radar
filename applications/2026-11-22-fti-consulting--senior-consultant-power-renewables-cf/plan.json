@@ -1,0 +1,47 @@
+{
+ "company": "FTI Consulting",
+ "role": "Senior Consultant, Power, Renewables & Energy Transition | Corporate Finance",
+ "variant": "project-finance-solar",
+ "job_url": "https://www.linkedin.com/jobs/view/4493214233/",
+ "edits": [
+  {
+   "old": "Finance: Financial Modeling, Due Diligence, Market Analysis, Investment Research, Understanding of Financial Products, Valuation Analysis, Data Presentation, Project Finance, Financial Analysis, Renewable Energy Finance, Bloomberg, S&P Capital IQ",
+   "new": "Finance: Financial Modeling, Renewable Energy Finance, Project Finance, Valuation Analysis, Financial Analysis, Market Analysis, Due Diligence, Investment Research, Understanding of Financial Products, Data Presentation, Bloomberg, S&P Capital IQ",
+   "why": "Posting leads with financial models and analysis for power and renewables clients; reordered only."
+  },
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Posting asks for financial analysis and models; also an accuracy fix (marketing-channel budget, not investing)."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear FTI Consulting Power, Renewables & Energy Transition Team,",
+  "paragraphs": [
+   "I'm applying for the Senior Consultant role in the Power, Renewables & Energy Transition practice in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I spent about five and a half years at JPMorgan Asset Management, Lenovo and Thomson Reuters. The practice appeals to me because it puts financial modeling to work on real problems for power and renewables companies, which is where I've been pointing my MBA.",
+   "In an MBA project I built project- and portfolio-level models for a 6-project, 35.4 MW Illinois solar portfolio, testing capital structure, DSCR, NPV and levered IRR under post-ITC scenarios. Our recommended phased green loan plus ABS strategy reduced sponsor equity by $11.1M and improved levered IRR from 8.58% to 9.79%. At Lenovo I built forecasts and scenario analyses that improved capital efficiency by 15%, and at Thomson Reuters I ran cash flow analysis covering 80%+ of total inflows.",
+   "That maps to the core of the role: building models, doing industry and market research, and turning the numbers into clear reports and presentations for clients. My energy finance work so far comes from coursework rather than client engagements, so I'd bring careful modeling and clean sensitivities and learn the advisory side from your team. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli applying for the Senior Consultant role in FTI's Power, Renewables & Energy Transition practice. In an MBA project I modeled a 35.4 MW Illinois solar portfolio, testing DSCR and levered IRR, and our green loan plus ABS recommendation cut sponsor equity by $11.1M. I'd like to hear what a typical engagement looks like on your team. Would you have 15 minutes for a quick chat?"
+}
