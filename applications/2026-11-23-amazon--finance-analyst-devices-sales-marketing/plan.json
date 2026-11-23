@@ -1,0 +1,47 @@
+{
+ "company": "Amazon",
+ "role": "Devices & Services Finance Analyst, Devices Sales and Marketing Finance",
+ "variant": "finance-core",
+ "job_url": "https://www.linkedin.com/jobs/view/4493240572/",
+ "edits": [
+  {
+   "old": "Built financial models to evaluate $10M in capital deployment strategies, quantifying ROI and optimizing returns",
+   "new": "Built financial models to evaluate $10M in marketing-channel budget deployment, quantifying ROI across scenarios",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation, not investing."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment, enhance operating leverage, and strengthen financial planning",
+   "new": "Conducted variance and sensitivity analyses on budget reallocation strategies to optimize resource deployment and strengthen financial planning",
+   "why": "Sales and marketing finance is budget and variance work; trimmed to the plain claim."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Amazon Devices Sales and Marketing Finance Team,",
+  "paragraphs": [
+   "I'm applying for the Finance Analyst role on the Devices Sales and Marketing Finance team in New York. I'm an MBA Finance (STEM) candidate at Fordham Gabelli, and before that I spent about five and a half years at JPMorgan Asset Management, Lenovo and Thomson Reuters. Marketing finance is the part of finance I know best, so a team that funds and measures Devices marketing is a natural fit.",
+   "At JPMorgan I built models on $10M of marketing-channel budget, quantifying ROI across scenarios, and benchmarked past channel allocations against peers, which pointed to 30% efficiency gains. At Lenovo I built forecast models and scenario analyses that improved capital efficiency by 15%, and ran variance analyses on budget reallocation.",
+   "That maps to planning marketing spend, tracking returns and explaining variances to the business. I'd welcome the chance to talk about the team's priorities."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli applying for the Finance Analyst role on Devices Sales and Marketing Finance. At JPMorgan I modeled $10M of marketing-channel budget and benchmarked channel spend, which pointed to 30% efficiency gains. Would you have 15 minutes to tell me how the team works with Devices marketing?"
+}
