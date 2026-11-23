@@ -1,4 +1,31 @@
 {
- "run": "2026-11-22 06:12 ET",
- "roles": []
+ "run": "2026-11-23 06:28 ET",
+ "roles": [
+  {
+   "jd": "data/jd/or_jpmc_fa_oraclecloud_com_210808935.txt",
+   "company": "JPMorgan Chase",
+   "track": "IB",
+   "via": "",
+   "title": "2027 Chase Leadership Development Program \u2014 Full-Time Analyst (Winter Cohort) Consumer & Community Banking Communications Focused - (NY Metro & Columbus)",
+   "location": "New York, NY, United States",
+   "postedDate": "2026-11-23",
+   "postedLabel": "posted",
+   "source": "oracle",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808935",
+   "id": "or:jpmc.fa.oraclecloud.com:210808935"
+  },
+  {
+   "jd": "data/jd/or_jpmc_fa_oraclecloud_com_210810495.txt",
+   "company": "JPMorgan Chase",
+   "track": "IB",
+   "via": "",
+   "title": "2027 Chase Leadership Development Program \u2014 Full-Time Analyst (Winter Cohort) Consumer & Community Banking Consumer Bank Financial Product Focused - (NY Metro & Columbus)",
+   "location": "New York, NY, United States",
+   "postedDate": "2026-11-23",
+   "postedLabel": "posted",
+   "source": "oracle",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810495",
+   "id": "or:jpmc.fa.oraclecloud.com:210810495"
+  }
+ ]
 }
