@@ -1,0 +1,46 @@
+{
+ "company": "EliseAI",
+ "role": "Associate Deployment Strategist, Future Platforms | Housing",
+ "variant": "data-analytics",
+ "job_url": "https://jobs.ashbyhq.com/EliseAI/97c0cc28-b7f7-4416-a907-1ce7fcf5ff39",
+ "edits": [
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Defined audience segmentation strategies and documented business requirements for campaign initiatives, translating stakeholder needs into dashboards that improved campaign ROI by 20%",
+   "new": "Documented business requirements and turned stakeholder needs into dashboards for campaign initiatives, improving campaign ROI by 20%",
+   "why": "Posting: translate fuzzy goals into crisp requirements, workflows and success metrics."
+  },
+  {
+   "old": "Designed and deployed AI-powered analytical dashboards integrating real-time metrics, automating reporting workflows and saving 4+ hours/week",
+   "new": "Owned mapping and QA for AI-powered analytical dashboards with real-time metrics, cutting reporting time by 4+ hours/week",
+   "why": "Accuracy fix (Sam owned mapping and QA, not the build); configuration and launch readiness are part of this role."
+  },
+  {
+   "old": "Conducted variance, sensitivity, and trend analyses on budget reallocation strategies, translating findings into clear stakeholder recommendations across cross-functional teams",
+   "new": "Ran variance, sensitivity, and trend analyses on budget reallocation, turning findings into clear recommendations for cross-functional teams",
+   "why": "Posting: guide customers through tradeoffs and coordinate across internal teams."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear EliseAI Future Platforms Team,",
+  "paragraphs": [
+   "I'm applying for the Associate Deployment Strategist role on the Future Platforms team for housing. I'm an MBA (STEM) candidate at Fordham Gabelli in New York, and before school I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Taking an AI product from early customer promise to something a property team actually uses every day is the part of this role that pulls me in.",
+   "At Lenovo I documented business requirements and turned stakeholder needs into dashboards for campaign initiatives, which improved campaign ROI by 20%. I also owned the mapping and QA for AI-powered dashboards with real-time metrics, which cut reporting time by 4+ hours a week. At Thomson Reuters I worked in order-to-cash, where automating the process cut the cash conversion cycle by 20%, so I've seen up close what it takes for a new workflow to stick.",
+   "Scoping what a customer needs, keeping several workstreams moving and feeding what I learn back to product is work I'd enjoy owning. I'm happy to be in the office and to travel to clients. I'd welcome the chance to talk."
+  ]
+ }
+}
