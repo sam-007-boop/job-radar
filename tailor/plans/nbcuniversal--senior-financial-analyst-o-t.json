@@ -1,0 +1,46 @@
+{
+ "company": "NBCUniversal",
+ "role": "Senior Financial Analyst, Operations & Technology",
+ "variant": "finance-core",
+ "job_url": "https://www.builtinnyc.com/job/senior-financial-analyst/12455715",
+ "edits": [
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Worked cross-functionally with finance teams to support monthly P&L forecasting, variance analysis, and closing activities for the ANZ region",
+   "new": "Supported monthly P&L forecasting, variance analysis, and close with finance teams for the ANZ region",
+   "why": "Posting: OCF budgeting, quarterly forecasting and analysis of key metrics."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Forecast and developed models and scenario analyses to evaluate capital allocation, improved capital efficiency by 15%",
+   "new": "Built forecasts, models and scenario analyses to evaluate capital allocation, improving capital efficiency by 15%",
+   "why": "Posting: budgeting, forecasting and financial modeling for the FP&A manager."
+  },
+  {
+   "old": "Technical: Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM, Python",
+   "new": "Technical: Excel, PowerPoint, SAP, Tableau, Python, Salesforce, Datorama, CRM Systems",
+   "why": "Posting: advanced Excel and PowerPoint, SAP preferred (reordered, nothing added)."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear NBCUniversal O&T FP&A Team,",
+  "paragraphs": [
+   "I'm applying for the Senior Financial Analyst role on the Operations & Technology FP&A team. I'm an MBA Finance (STEM) candidate at Fordham Gabelli in New York, and before school I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Tracking OCF across all of O&T's business lines is a good way to learn how NBCU runs, and that is a big part of the appeal for me.",
+   "At Thomson Reuters I supported monthly P&L forecasting, variance analysis and close for the ANZ region, and reconciliation work where we reached 85%+ accuracy in revenue recognition and reporting. At Lenovo I built forecasts, models and scenario analyses that improved capital efficiency by 15%, and worked on dashboards that saved 4+ hours a week of reporting.",
+   "Consolidating OCF and headcount submissions, reconciling headcount and helping simplify the reporting setup all build on that background. I'm SAP certified and comfortable in Excel and PowerPoint. I'd welcome the chance to talk."
+  ]
+ }
+}
