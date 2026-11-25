@@ -1,24 +1,29 @@
-# Fresh roles — 2026-11-24 06:23 ET
+# Fresh roles — 2026-11-25 06:28 ET
 
-20 new finance roles posted today or yesterday.
+25 new finance roles posted today or yesterday.
 
-- **Amazon (incl. AWS data-center finance)** — [Financial Analyst III - AMZ10573337](https://www.amazon.jobs/en/jobs/10612177/financial-analyst-iii-amz10573337) · Dallas, Texas, USA · posted 2026-11-23 · AI x finance
-- **Amazon (incl. AWS data-center finance)** — [Sr Financial Analyst, Studios Opex, Amazon MGM Studios Finance](https://www.amazon.jobs/en/jobs/10611103/sr-financial-analyst-studios-opex-amazon-mgm-studios-finance) · Culver City, California, USA · posted 2026-11-23 · AI x finance
-- **Amazon (incl. AWS data-center finance)** — [Sr. Financial Analyst, Amazon Worldwide Fulfillment (AWF) - Exports Finance](https://www.amazon.jobs/en/jobs/10609367/sr-financial-analyst-amazon-worldwide-fulfillment-awf-exports-finance) · Arlington, Virginia, USA · posted 2026-11-23 · AI x finance
-- **Amazon (incl. AWS data-center finance)** — [Sr. Financial Integration Mgr, Corp Dev Integration ](https://www.amazon.jobs/en/jobs/10612060/sr-financial-integration-mgr-corp-dev-integration) · Seattle, Washington, USA · posted 2026-11-23 · AI x finance
-- **Amazon (incl. AWS data-center finance)** — [Finance Manager, Middle Mile FP&A](https://www.amazon.jobs/en/jobs/10612300/finance-manager-middle-mile-fp-a) · Irving, Texas, USA · posted 2026-11-24 · AI x finance
-- **Cohere** — [Finance Systems Senior Analyst](https://jobs.ashbyhq.com/cohere/bb10d507-b8ca-4c48-a137-333b710b6908) · United States · posted 2026-11-23 · AI x finance
-- **Databricks** — [Solutions Architect - Financial Services (Insurance)](https://databricks.com/company/careers/open-positions/job?gh_jid=8928995002) · Illinois; Massachusetts; New Jersey; New York · posted 2026-11-23 · AI x finance
-- **EliseAI** — [Associate Deployment Strategist, Future Platforms | Housing](https://jobs.ashbyhq.com/EliseAI/97c0cc28-b7f7-4416-a907-1ce7fcf5ff39) · New York City · posted 2026-11-23 · AI x finance
-- **OpenAI** — [GTM Strategy & Operations, Enterprise](https://jobs.ashbyhq.com/openai/490c443e-d555-4fd0-a5c8-d754f6ba6d23) · New York City · posted 2026-11-23 · AI x finance
-- **Saronic** — [Strategic Operations Manager](https://jobs.ashbyhq.com/saronic/3c3dbc5a-5774-42c4-a0e2-2ea9f31d9d54) · Arlington, VA · posted 2026-11-23 · AI x finance
-- **Saronic** — [Manager, U.S. Defense Market Strategy](https://jobs.ashbyhq.com/saronic/cd639be2-3b9e-4e88-9776-93092aebe939) · Arlington, VA · posted 2026-11-23 · AI x finance
-- **Ramp** — [Associate, GTM Finance](https://jobs.ashbyhq.com/ramp/b5bd9c30-4bc3-435e-aec1-43405474d317) · New York, NY (HQ) · posted 2026-11-23 · Analytics
-- **JPMorgan Chase** — [Machine Learning Intelligent Operations Team - Quant Analytics Senior Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760662) · Columbus, OH, United States · posted 2026-11-23 · IB
-- **JPMorgan Chase** — [Finance Control Manager – Corporate Accounting](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786605) · Columbus, OH, United States · posted 2026-11-23 · IB
-- **(see posting)** — [Finance & Business Management](https://www.builtinnyc.com/job/finance-business-management/12436314) ·  · posted 2026-11-24 · Mixed · via Built In NYC
-- **(see posting)** — [Financial Analyst](https://www.builtinnyc.com/job/financial-analyst/12421138) ·  · posted 2026-11-24 · Mixed · via Built In NYC
-- **(see posting)** — [Financial Reporting & Technical Accounting Sr Analyst](https://www.builtinnyc.com/job/financial-reporting-technical-accounting-sr-analyst/12422326) ·  · posted 2026-11-24 · Mixed · via Built In NYC
-- **(see posting)** — [Sr. Financial Analyst, Revenue FP&A](https://www.builtinnyc.com/job/sr-financial-analyst-revenue-fp/12423054) ·  · posted 2026-11-24 · Mixed · via Built In NYC
-- **Columbia University** — [Patient Financial Coordinator Other Nyc Locations New York United States D7D70C06 33D4 4D9A Ab9F Fc0D924B17B4](https://opportunities.columbia.edu/jobs/patient-financial-coordinator-other-nyc-locations-new-york-united-states-d7d70c06-33d4-4d9a-ab9f-fc0d924b17b4) ·  · posted 2026-11-24 · University (cap-exempt)
-- **Rutgers University** — [Associate Director of Data Analytics](https://jobs.rutgers.edu/postings/284738) ·  · posted 2026-11-24 · University (cap-exempt)
+- **Amazon (incl. AWS data-center finance)** — [Senior Financial Analyst, Global Prime Finance](https://www.amazon.jobs/en/jobs/10613744/senior-financial-analyst-global-prime-finance) · Seattle, Washington, USA · posted 2026-11-25 · AI x finance
+- **Amazon (incl. AWS data-center finance)** — [Financial Analyst III - AMZ9970945](https://www.amazon.jobs/en/jobs/10613212/financial-analyst-iii-amz9970945) · Irving, Texas, USA · posted 2026-11-24 · AI x finance
+- **Amazon (incl. AWS data-center finance)** — [Financial Analyst III - AMZ10564057](https://www.amazon.jobs/en/jobs/10613198/financial-analyst-iii-amz10564057) · Sunnyvale, California, USA · posted 2026-11-24 · AI x finance
+- **Amazon (incl. AWS data-center finance)** — [Finance Manager, Alexa FP&A](https://www.amazon.jobs/en/jobs/10613548/finance-manager-alexa-fp-a) · Seattle, Washington, USA · posted 2026-11-24 · AI x finance
+- **Anduril** — [Senior Finance Associate, Shipbuilding](https://boards.greenhouse.io/andurilindustries/jobs/5307615007?gh_jid=5307615007) · Costa Mesa, California, United States · posted 2026-11-24 · AI x finance
+- **Cognition** — [Strategy & Operations Manager, GTM](https://jobs.ashbyhq.com/cognition/a4797878-8027-4334-8cc3-dd553cf722c6) · San Francisco · posted 2026-11-24 · AI x finance
+- **Sierra** — [RFP Strategy & Operations Analyst](https://jobs.ashbyhq.com/Sierra/03424869-528d-4db1-b099-5d7f736d1a39) · San Francisco, CA · posted 2026-11-24 · AI x finance
+- **Sierra** — [RFP Strategy & Operations, Public Sector](https://jobs.ashbyhq.com/Sierra/ff028e8c-4406-4888-bfef-69646be37cb8) · San Francisco, CA · posted 2026-11-24 · AI x finance
+- **Waymo** — [Senior Financial Analyst](https://careers.withwaymo.com/jobs?gh_jid=8380693) · Mountain View, CA · posted 2026-11-24 · AI x finance
+- **Mercury** — [Senior Risk Strategist](https://job-boards.greenhouse.io/mercury/jobs/6270152004) · San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States · posted 2026-11-24 · Analytics
+- **Reddit** — [Lower Funnel Product Adoption Strategist](https://job-boards.greenhouse.io/reddit/jobs/8414836) · Chicago, IL; Los Angeles, CA; New York City, NY; San Francisco, CA · posted 2026-11-24 · Analytics
+- **JPMorgan Chase** — [Financial Analysis Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788283) · Chicago, IL, United States · posted 2026-11-24 · IB
+- **JPMorgan Chase** — [Quantitative Counterparty - Wholesale Credit Risk - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795665) · Jersey City, NJ, United States · posted 2026-11-24 · IB
+- **JPMorgan Chase** — [Healthcare Leveraged Finance –  Wholesale Credit Risk- Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796772) · Los Angeles, CA, United States · posted 2026-11-24 · IB
+- **JPMorgan Chase** — [Finance & Business Management - United States - 2027 ReEntry Program](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809512) · New York, NY, United States · posted 2026-11-24 · IB
+- **JPMorgan Chase** — [Anti-Money Laundering/Know Your Consumer Governance and Oversight - Consumer & Community Banking Controls - Analyst](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810783) · Columbus, OH, United States · posted 2026-11-24 · IB
+- **(see posting)** — [Strategic Finance Manager, Credit Card](https://www.builtinnyc.com/job/strategic-finance-manager-credit-card/12448213) ·  · posted 2026-11-25 · Mixed · via Built In NYC
+- **(see posting)** — [Senior Financial Analyst, Production & Operations](https://www.builtinnyc.com/job/senior-financial-analyst-production-operations/12455714) ·  · posted 2026-11-25 · Mixed · via Built In NYC
+- **(see posting)** — [Senior Financial Analyst](https://www.builtinnyc.com/job/senior-financial-analyst/12455715) ·  · posted 2026-11-25 · Mixed · via Built In NYC
+- **(see posting)** — [2027 Financial Analyst, Corporate Valuation Advisory Services, Complex Securities - Multiple Locations](https://www.builtinnyc.com/job/2027-financial-analyst-corporate-valuation-advisory-services-complex-securities-multiple-locations/12452508) ·  · posted 2026-11-25 · Mixed · via Built In NYC
+- **(see posting)** — [Senior Financial Analyst, Enterprise](https://www.builtinnyc.com/job/senior-financial-analyst-enterprise/11926439) ·  · posted 2026-11-25 · Mixed · via Built In NYC
+- **(see posting)** — [Financial Analyst](https://www.builtinnyc.com/job/financial-analyst/12461483) ·  · posted 2026-11-25 · Mixed · via Built In NYC
+- **(see posting)** — [Sr. Manager, Sr. Manager, FP&A Fashion & Accessories](https://www.builtinnyc.com/job/sr-manager-sr-manager-fp-fashion-accessories/12456879) ·  · posted 2026-11-25 · Mixed · via Built In NYC
+- **(see posting)** — [Strategic Finance Associate](https://www.builtinnyc.com/job/strategic-finance-associate/12445629) ·  · posted 2026-11-25 · Mixed · via Built In NYC
+- **(see posting)** — [Senior Associate, Strategic Finance](https://www.builtinnyc.com/job/senior-associate-strategic-finance/12443650) ·  · posted 2026-11-25 · Mixed · via Built In NYC

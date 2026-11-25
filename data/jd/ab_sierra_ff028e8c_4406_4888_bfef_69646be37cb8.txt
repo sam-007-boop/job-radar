@@ -1,0 +1,96 @@
+Sierra — RFP Strategy & Operations, Public Sector
+https://jobs.ashbyhq.com/Sierra/ff028e8c-4406-4888-bfef-69646be37cb8
+
+ABOUT US
+
+Sierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company based in San Francisco, with growing offices across North America, Europe, and Asia.
+
+We are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and a commitment to balancing Family along the way. These values are the foundation of our work, and we are committed to upholding them in everything we do.
+
+Sierra was co-founded by Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/ who first met while working together at Google over 20 years ago. Bret currently serves as Chairman of the Board of Open AI. Previously, he was co-CEO of Salesforce and CTO of Facebook. Clay spent 18 years at Google, where he most recently led Google Labs.
+
+WHAT YOU'LL DO
+
+Sierra closes large, complex enterprise and public sector deals, and RFx responses (i.e. RFIs, RFQs, and RFPs) are an increasingly critical part of that process. This role writes and runs Sierra's public sector RFx responses from opportunity to final submission, adds capacity to the broader RFP team, and owns day-to-day execution with an emphasis on accuracy, speed, and quality.
+
+ - Write and shape long-form responses: Draft and edit the narrative and technical sections public sector solicitations often require, explaining how Sierra's AI agents work, how they are governed, and the outcomes they deliver, in the buyer's own language
+
+ - Own Sierra’s public sector RFx response: Identify and triage incoming RFx opportunities, build the response plan and timeline, coordinate with internal stakeholders, and own the deliverable through final submission
+
+ - Drive cross-functional coordination: Partner with subject-matter experts (SMEs) in Security, Legal, Pricing, and Product to get the right answers fast, managing competing stakeholder priorities without losing momentum or quality
+
+ - Own the content infrastructure: Maintain and continuously improve Sierra's knowledge base, identifying gaps, working with SMEs to close them, and raising the quality bar on every response
+
+ - Flex across the RFP team: Support commercial RFPs and security questionnaires as volume demands, so the team can scale across deal types
+
+ - Build toward automation: Implement and iterate on AI tooling and workflow automation to reduce manual work and increase consistency across the response process
+
+ - Support Sales in high-stakes evaluations: Help AEs and the public sector team navigate complex solicitation requirements, decide which bids to pursue, and flag patterns in agency questions that inform how Sierra positions itself in government
+
+WHAT YOU'LL BRING
+
+ - 2+ years of experience in proposal writing, technical writing, product operations, revenue operations, legal operations, or solutions engineering at a high-growth technology company, government contractor, or consulting firm
+
+ - Exceptional attention to detail and the ability to manage multiple competing priorities without losing quality and to own deadline-driven deliverables from start to finish
+
+ - Strong written communication and editing skills - you can translate complex, technical information into clear and accurate language quickly, and turn input from many contributors into one polished, consistent response
+
+ - Proven ability to sustain high output and high quality simultaneously - you don’t cut corners when the workload spikes
+
+ - A track record of improving the processes you inherit, not just running them
+
+ - Genuine enthusiasm for applying AI and automation tools to make repetitive work faster and better
+
+EVEN BETTER...
+
+ - Experience responding to government solicitations (federal, state, or local), or familiarity with how government buys
+
+ - Experience with public sector bid and spend data, including federal sources (SAM.gov http://SAM.gov, USASpending), procurement intelligence platforms (GovSpend, Deltek GovWin IQ, Starbridge, GovUSA, HigherGov), and state and local procurement portals
+
+ - Exposure to enterprise security or compliance questionnaires (SOC 2, ISO 27001, GDPR, etc.) or government frameworks (FedRAMP, GovRAMP/StateRAMP)
+
+ - Experience in a sales-adjacent or customer trust function
+
+OUR VALUES
+
+ - Trust: We do the right thing, even when no one is looking, and even when it’s hard. When we screw up, we take accountability, fully and completely. We act in such a way that if all of our actions were completely visible to our customers, we would be proud.
+
+ - Customer Obsession: Our entire business is designed to ensure every agent built on Sierra succeeds, and that we are accountable to our customers and their success. We do whatever it takes to make our customers successful, and we go the extra mile in how we show up as a partner with unreasonable hospitality.
+
+ - Craftsmanship: A great company is the aggregation of thousands of things done well. As they say, “how you do anything is how you do everything”. Most important is craftsmanship in building agents that are so great that people thank them at the end of a call. That’s the standard.
+
+ - Intensity: We operate with urgency, and we want to win. We are never complacent. We fight to win every deal, big or small, using the full force of the company. And when we fail, we talk about it openly and without blame so we succeed the next time.
+
+ - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We work hard, and turn on the afterburners when needed. But we pick up our parents at the airport when they’re visiting from out of town. We go to our kids’ events. And we show up for one another, in moments of celebration and hardship.
+
+WHAT WE OFFER
+
+We want our benefits to reflect our values and offer the following to full-time employees:
+
+ - Flexible (unlimited) paid time off
+
+ - Medical, dental, and vision benefits for you and your family
+
+ - Life insurance and disability benefits
+
+ - Retirement plan dependent on country of employment
+
+ - Parental leave
+
+ - Fertility and family building benefits
+
+ - Lunch, as well as delicious snacks and coffee to keep you energized when working onsite
+
+ - Discretionary benefit stipend giving people the ability to spend where it matters most
+
+ - Free alphorn lessons
+
+These benefits are further detailed in Sierra's policies, may vary by region and employment type, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.
+
+BE YOU, WITH US
+
+We're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply through the link on this page even if your experience doesn't precisely match the job description.
+
+Sierra is a proud equal opportunity employer. All qualified applicants will receive consideration for employment without regard to any characteristic protected by applicable federal, state or local laws, including veteran status and disability status. Hiring decisions are made by people, based on merit. If you need a reasonable accommodation for a disability, a religious practice, pregnancy or any related condition at any point in the application or interview process, contact us at accommodations@sierra.ai. Requests are handled confidentially and do not affect your candidacy.
+
+We will consider qualified applicants with arrest and conviction records in accordance with applicable fair chance laws.
