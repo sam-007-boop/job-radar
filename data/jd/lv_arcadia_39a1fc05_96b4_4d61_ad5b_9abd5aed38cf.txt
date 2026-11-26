@@ -1,0 +1,82 @@
+Arcadia — Senior Analyst / Manager, APM Modeling & Analytics
+https://jobs.lever.co/arcadia/39a1fc05-96b4-4d61-ad5b-9abd5aed38cf
+
+What You’ll Be Doing: APM Solution Development  
+
+ Support financial modeling for CMS total cost of care and episodic APMs.  
+ Translate CMS technical specifications into production-grade models.  
+ Develop and maintain benchmark, attribution, risk adjustment, and reconciliation logic.  
+ Contribute to APM product development, implementing and testing the financial logic that goes into Arcadia’s platform.  
+
+ CMS Data & Technical Execution  
+
+ Work directly with CMS VRDC data environments to extract, structure, and analyze Medicare claims and enrollment data.  
+ Write production-level SAS and Python code to: 
+
+ Process large claims datasets  
+ Facilitate risk-adjustments  
+ Calculate, risk adjust, and project PMPM benchmarks  
+ Run sensitivity testing  
+ Conduct reconciliation and true-up calculations  
+
+ Ensure compliance with CMS methodological guidance.  
+ Validate data integrity prior to model production.  
+
+ Quality & Validation  
+
+ Create automated testing scripts and exception reporting to implement validation checks, parallel runs, and reconciliation frameworks.  
+ Maintain version control, documentation, and auditability of all models at a sufficiently robust level to enable audits or CMS review.  
+
+ What Success Looks Like 
+ In 3 months  
+
+ Develop working knowledge of CMS total cost of care and episodic model methodology and financial mechanics.  
+ Gain hands-on access to VRDC data sources and Arcadia’s data ingestion processes.  
+ Understand existing Arcadia APM calculation logic and identify improvement opportunities.  
+
+ In 6 months  
+
+ Independently own defined components of Arcadia’s CMS APM solutions.  
+ Develop APM model financial calculations and underwriting framework in collaboration with actuaries  
+ Build reproducible, well-documented SAS pipelines for: 
+
+ Benchmark construction  
+ Risk score development and normalization  
+ Trend and PMPM projections  
+ Savings/loss simulations  
+
+ Implement multi-layer QA and reconciliation procedures.  
+
+ In 12 months  
+
+ Deliver production-ready, validated model outputs for Arcadia’s APM products.  
+ Contribute to the product roadmap so actuarial precision is built into platform design.  
+ Be recognized as a leader/go-to resource for APM financial modeling.  
+
+What You’ll Bring: Required 
+
+ Bachelor’s degree in a quantitative field (e.g., Statistics, Economics, Data Science, Actuarial Science, Finance, Mathematics)  
+ Strong SAS and SQL fluency, with a minimum of 5 years of experience in healthcare   
+ Experience working with Medicare claims data  
+ Strong accountability, intellectual curiosity, and exceptional attention to detail  
+ Experience with database querying (SAS, SQL)  
+
+ Preferred 
+
+ Familiarity and experience modeling/evaluating CMMI value-based care and APM models  
+ Actuarial experience or experience supporting actuaries with CMS/CMMI models  
+ Experience working within the VRDC environment  
+ Consulting experience with deadline-driven project management and clear communication of complex, technical topics to health plan or provider stakeholders  
+ Actuarial modeling and episode measurement  
+
+ How Level Shapes the Role  
+ Senior Analyst (5+ years) : Independently owns end-to-end components of APM solutions, and partners directly with actuaries and product on methodology.  
+ Manager (5+ years) : Owns APM solutions end to end, sets coding and validation standards, and serves as the subject matter expert in customer and executive discussions.  
+
+What You'll Get: 
+
+ Direct access to one of the industry’s largest and most comprehensive healthcare data assets to support groundbreaking actuarial work.  
+ A mission-driven company working to improve how patients receive care  
+ A flexible, remote-friendly culture with personality and heart  
+ Employee-driven programs and initiatives for personal and professional development  
+ Membership in the talented, energized, diverse, and purpose-driven Arcadian community
