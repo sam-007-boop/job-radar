@@ -1,0 +1,41 @@
+{
+ "company": "Tower Research Capital",
+ "role": "Venture Capital Intern (Part-Time)",
+ "variant": "finance-core",
+ "job_url": "https://www.linkedin.com/jobs/view/4478547441",
+ "edits": [
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix (JPMorgan was marketing-channel budgets, not diligence)."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions",
+   "new": "Built AI powered analytical dashboards and pitch materials combining predictive metrics and financial projections to support funding decisions",
+   "why": "Venture work: screening companies and turning data into a funding case."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Tower Research Ventures Team,",
+  "paragraphs": [
+   "I'm applying for the part-time Venture Capital Intern role. I'm an MBA Finance (STEM) candidate at Fordham Gabelli in New York, and before school I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. Tower Research Ventures backs and builds companies at the edge of data and technology, and I'd like to spend this academic year learning how a technical investor sizes up early-stage businesses.",
+   "At Lenovo I built forecasts and scenario models to evaluate capital allocation, which improved capital efficiency by 15%, and I built AI powered analytical dashboards for the business. In my MBA coursework I valued J.M. Smucker with comps and a DCF and built an LBO model, so I'm comfortable with valuation work and reading financial statements closely.",
+   "I can bring careful market and company research, clean models and clear write-ups to the team, and I can commit steady hours alongside my classes this semester. I'd welcome the chance to talk."
+  ]
+ }
+}

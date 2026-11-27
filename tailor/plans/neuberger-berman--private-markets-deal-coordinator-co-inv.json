@@ -1,0 +1,41 @@
+{
+ "company": "Neuberger Berman",
+ "role": "Private Markets Deal Coordinator, Co-Investments Analyst/Associate",
+ "variant": "finance-core",
+ "job_url": "https://www.linkedin.com/jobs/view/4494961410",
+ "edits": [
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix (JPMorgan was marketing-channel budgets, not diligence)."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Streamlined the OTC process with automation, reducing the cash conversion cycle by 20% and enhancing liquidity management",
+   "new": "Streamlined the order-to-cash process with automation, cutting the cash conversion cycle by 20%",
+   "why": "Coordination role: shows running a multi-step process cleanly."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Neuberger Berman Co-Investment Team,",
+  "paragraphs": [
+   "I'm applying for the Private Markets Deal Coordinator role on the Co-Investments team. I'm an MBA Finance (STEM) candidate at Fordham Gabelli in New York, and before school I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. NB's co-investment program is one of the largest in private markets, and I'd like to learn the business from the seat that keeps each deal moving.",
+   "At Thomson Reuters I managed financial operations and cash flow analysis, overseeing 80%+ of total inflows, and used automation to cut the cash conversion cycle by 20%. At Lenovo I built forecasts and scenario models that improved capital efficiency by 15%. In my MBA coursework I built a DCF and an LBO model for J.M. Smucker, so I can follow the numbers behind a deal.",
+   "Tracking timelines, keeping documents and data accurate and working across investment, legal and operations teams is work I've done well. I'd welcome the chance to talk."
+  ]
+ }
+}
