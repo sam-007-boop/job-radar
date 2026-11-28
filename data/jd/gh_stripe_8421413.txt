@@ -1,0 +1,37 @@
+Stripe — Business Operations
+https://stripe.com/jobs/search?gh_jid=8421413
+
+Who we are 
+ About Stripe  
+ Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. 
+ What you’ll do 
+ Responsibilities 
+
+ Analyze and troubleshoot complex technical issues through direct user interaction (Slack) and leveraging your knowledge of API documentation.  
+ Develop product and platform expertise, working closely with Engineering, Product, and Operations teams to diagnose and resolve user issues.  
+ Strategically optimize and scale support processes to enhance efficiency and improve the overall user experience, incorporating data- driven insights and metrics.  
+ Lead continuous improvement initiatives aimed at hitting key performance metrics.  
+ Create and refine documentation to empower users to resolve issues via self-service, reducing dependency on support teams.  
+
+ Constantly challenge the status quo and push for innovation in user support strategies and operational processes. 
+ Minimum requirements 
+ Must have a Bachelor's degree or foreign equivalent in Computer Science, Software Engineering, Business administration or a related field, plus 2 years of experience in customer-facing product support roles with a focus on troubleshooting technical issues. 
+ Must also have 2 years of experience in each of the following: 
+
+ Using SQL and ability to use template or premade SQL queries as part of investigation; 
+ Debugging HTTP request/response cycles and identifying error codes (4xx/5xx); 
+ Using Postman, cURL, or Insomnia to test endpoints and reproduce integration issues; 
+ Blockchain Explorers including Etherscan and Solscan to verify transaction status and finality; 
+ On-chain Event Logs and smart contract interactions including ERC-20 or SPL token transfers; 
+ Card Authorization flow including Auth, Capture, Reversal, and Dispute; 
+ Troubleshooting KYC/KYB (Know Your Customer/Business) workflows via API; 
+ IDV (Identity Verification) status mapping and document upload failure points; and 
+ Custodial vs. non-custodial wallet architectures. 
+
+ Salary: $124,000.00 - $186,000.00/yr 
+ This salary range represents the base salary range for the role and any sales commissions / sales bonuses targets, if applicable, would be in addition to the base salary. 
+ 40 hrs/week 
+ 50% Telecommuting permitted 
+ Multiple positions available. 
+ Additional benefits for this role may include: equity, company bonus or sales commissions/bonuses; 401(k) plan; medical, dental, and vision benefits; and wellness stipends. CA91 
+ #LI-DNI

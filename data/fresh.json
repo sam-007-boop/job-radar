@@ -1,31 +1,96 @@
 {
- "run": "2026-11-27 06:21 ET",
+ "run": "2026-11-28 06:20 ET",
  "roles": [
   {
-   "jd": "data/jd/lnk_https_www_builtinnyc_com_job_financial_analyst_managed_care_12523723.txt",
-   "company": "(see posting)",
-   "track": "Mixed",
-   "via": "Built In NYC",
-   "title": "Financial Analyst - Managed Care",
-   "location": "",
+   "jd": "data/jd/gh_stripe_8421413.txt",
+   "company": "Stripe",
+   "track": "AI x finance",
+   "via": "",
+   "title": "Business Operations",
+   "location": "San Francisco, CA ",
    "postedDate": "2026-11-27",
-   "postedLabel": "new on board since last run",
-   "source": "links",
-   "url": "https://www.builtinnyc.com/job/financial-analyst-managed-care/12523723",
-   "id": "lnk:https://www.builtinnyc.com/job/financial-analyst-managed-care/12523723"
+   "postedLabel": "first published",
+   "source": "greenhouse",
+   "url": "https://stripe.com/jobs/search?gh_jid=8421413",
+   "id": "gh:stripe:8421413"
   },
   {
-   "jd": "data/jd/lnk_https_www_builtinnyc_com_job_senior_fp_analyst_12541563.txt",
+   "jd": "data/jd/gh_stripe_8421263.txt",
+   "company": "Stripe",
+   "track": "AI x finance",
+   "via": "",
+   "title": "Product Strategy & Operations, Crypto S&O",
+   "location": "New York, NY",
+   "postedDate": "2026-11-27",
+   "postedLabel": "first published",
+   "source": "greenhouse",
+   "url": "https://stripe.com/jobs/search?gh_jid=8421263",
+   "id": "gh:stripe:8421263"
+  },
+  {
+   "jd": "data/jd/lnk_https_www_builtinnyc_com_job_senior_fp_analyst_12567771.txt",
    "company": "(see posting)",
    "track": "Mixed",
    "via": "Built In NYC",
    "title": "Senior FP&A Analyst",
    "location": "",
-   "postedDate": "2026-11-27",
+   "postedDate": "2026-11-28",
    "postedLabel": "new on board since last run",
    "source": "links",
-   "url": "https://www.builtinnyc.com/job/senior-fp-analyst/12541563",
-   "id": "lnk:https://www.builtinnyc.com/job/senior-fp-analyst/12541563"
+   "url": "https://www.builtinnyc.com/job/senior-fp-analyst/12567771",
+   "id": "lnk:https://www.builtinnyc.com/job/senior-fp-analyst/12567771"
+  },
+  {
+   "jd": "data/jd/lnk_https_www_builtinnyc_com_job_strategic_finance_manager_12591863.txt",
+   "company": "(see posting)",
+   "track": "Mixed",
+   "via": "Built In NYC",
+   "title": "Strategic Finance Manager",
+   "location": "",
+   "postedDate": "2026-11-28",
+   "postedLabel": "new on board since last run",
+   "source": "links",
+   "url": "https://www.builtinnyc.com/job/strategic-finance-manager/12591863",
+   "id": "lnk:https://www.builtinnyc.com/job/strategic-finance-manager/12591863"
+  },
+  {
+   "jd": "data/jd/lnk_https_www_builtinnyc_com_job_manager_strategic_finance_12591861.txt",
+   "company": "(see posting)",
+   "track": "Mixed",
+   "via": "Built In NYC",
+   "title": "Manager, Strategic Finance",
+   "location": "",
+   "postedDate": "2026-11-28",
+   "postedLabel": "new on board since last run",
+   "source": "links",
+   "url": "https://www.builtinnyc.com/job/manager-strategic-finance/12591861",
+   "id": "lnk:https://www.builtinnyc.com/job/manager-strategic-finance/12591861"
+  },
+  {
+   "jd": "data/jd/or_jpmc_fa_oraclecloud_com_210811409.txt",
+   "company": "JPMorgan Chase",
+   "track": "IB",
+   "via": "",
+   "title": "2027 Latin American Debt Capital Markets Analyst Internship \u2013 Emerging Talent Summer Experience Program",
+   "location": "New York, NY, United States",
+   "postedDate": "2026-11-27",
+   "postedLabel": "posted",
+   "source": "oracle",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811409",
+   "id": "or:jpmc.fa.oraclecloud.com:210811409"
+  },
+  {
+   "jd": "data/jd/or_jpmc_fa_oraclecloud_com_210811703.txt",
+   "company": "JPMorgan Chase",
+   "track": "IB",
+   "via": "",
+   "title": "Senior Associate - Commercial Solutions Pitch Strategy & Execution",
+   "location": "New York, NY, United States",
+   "postedDate": "2026-11-27",
+   "postedLabel": "posted",
+   "source": "oracle",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811703",
+   "id": "or:jpmc.fa.oraclecloud.com:210811703"
   }
  ]
 }
