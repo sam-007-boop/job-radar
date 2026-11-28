@@ -1,0 +1,47 @@
+{
+ "company": "JPMorganChase",
+ "role": "Senior Associate - Commercial Solutions Pitch Strategy & Execution",
+ "variant": "finance-core",
+ "job_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811703",
+ "edits": [
+  {
+   "old": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, researched sample size: 1000+ students, February 2019, Volume 6, Issue 2",
+   "new": "Published Paper: Co-Author - Journal of Emerging Technologies and Innovative Research, Buying decision of luxury goods in India: A study on undergraduate students, February 2019, Volume 6, Issue 2",
+   "why": "Accuracy fix: the sample was about 466, so the 1000+ figure comes out."
+  },
+  {
+   "old": "Interests: Founded & negotiated INR 2.5M sponsorship deal for record label, led execution lifecycle & capital deployment",
+   "new": "Interests: Negotiated & managed INR 2.5M music sponsorship deal end to end, led execution & capital deployment",
+   "why": "Accuracy fix: a sponsorship deal, not a record label."
+  },
+  {
+   "old": "Performed due diligence and peer benchmarking on historical capital allocations, identifying 30% efficiency gains to guide reinvestment and portfolio optimization decisions",
+   "new": "Benchmarked historical marketing-channel budget allocations against peers, identifying 30% efficiency gains to guide reinvestment decisions",
+   "why": "Accuracy fix: the JPMorgan work was marketing-channel budget allocation."
+  },
+  {
+   "old": "Executed financial due diligence and reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "new": "Executed financial reconciliation, achieving 85%+ accuracy in revenue recognition and reporting",
+   "why": "Accuracy fix: this was reconciliation, not diligence."
+  },
+  {
+   "old": "Created data-driven pitch materials and AI powered analytical dashboards integrating predictive metrics and financial projections to support investment and funding decisions",
+   "new": "Created data-driven pitch materials and AI powered dashboards combining predictive metrics and financial projections into clear stories for decision-makers",
+   "why": "Posting: develop pitch decks that turn business analysis into a tailored, compelling story."
+  },
+  {
+   "old": "Technical: Excel, Tableau, Salesforce, Datorama, CRM Systems, SAP, PowerPoint, CRM, Python",
+   "new": "Technical: PowerPoint, Excel, Tableau, Salesforce, Datorama, SAP, Python, CRM Systems, CRM",
+   "why": "Same skills, reordered so PowerPoint and Excel lead; the posting asks for advanced PowerPoint."
+  }
+ ],
+ "cover_letter": {
+  "greeting": "Dear Chase Auto Commercial Solutions Team,",
+  "paragraphs": [
+   "I'm applying for the Senior Associate role in Commercial Solutions Pitch Strategy & Execution at Chase Auto. I'm an MBA Finance (STEM) candidate at Fordham Gabelli in New York, and before school I worked at JPMorgan Asset Management, Lenovo and Thomson Reuters. The role appeals to me because it sits right next to the bankers and TMOs, turning what they know about a dealer into a pitch that fits that dealer.",
+   "At Lenovo I spent two years as a Senior Business Analyst, where I created data-driven pitch materials and dashboards that brought financial projections into funding discussions, and built forecasts and scenario models that improved capital efficiency by 15%. At JPMorgan Asset Management I worked on budget allocation across marketing channels, benchmarked past allocations to find 30% in efficiency gains, and prepared executive-level briefs for senior leadership.",
+   "Building templates, tailoring decks to a prospect, closing information gaps and keeping follow-ups moving are things I've done in some form, and I like owning a process end to end. I'd bring that to the intake and pitch support work for your bankers. I'd welcome the chance to talk."
+  ]
+ },
+ "outreach": "Hi [Name], I'm an MBA Finance (STEM) candidate at Fordham Gabelli and I'm applying for the Senior Associate, Commercial Solutions Pitch Strategy & Execution role at Chase Auto. Before school I worked at JPMorgan Asset Management and at Lenovo, where I built pitch materials and dashboards for funding decisions. I'd love to hear how the team supports the bankers day to day. Would you have 15 minutes for a quick chat?"
+}
